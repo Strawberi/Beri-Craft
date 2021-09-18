@@ -1,0 +1,14 @@
+name = "YUNG's Better Portals (Forge)"
+filename = "BetterPortals-1.16.4-0.3.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3442/340/BetterPortals-1.16.4-0.3.8.jar"
+hash-format = "murmur2"
+hash = "3265791043"
+
+[update]
+[update.curseforge]
+file-id = 3442340
+project-id = 443723
+release-channel = "beta"

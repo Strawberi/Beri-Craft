@@ -1,0 +1,14 @@
+{
+    "oreConfig": [
+      {
+        "ore": "kubejs:copper_sand",
+        "filler": "minecraft:sand",
+        "minY": 1,
+        "maxY": 256,
+        "maxVeinSize": 5,
+        "spawnRate": 35.0,
+        "biomeBlacklist": [],
+        "biomeWhitelist": []
+      }
+    ]
+  }

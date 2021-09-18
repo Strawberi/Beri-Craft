@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#/",
+        " /"
+    ],
+    "key": {
+        "#": {
+            "item": "minecraft:flint"
+        },
+        "/": {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result": {
+        "item": "kubejs:flint_axe",
+        "count": 1
+    }
+}

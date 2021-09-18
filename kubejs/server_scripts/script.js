@@ -1,0 +1,102 @@
+// priority: 0
+
+settings.logAddedRecipes = true
+settings.logRemovedRecipes = true
+settings.logSkippedRecipes = false
+settings.logErroringRecipes = true
+
+console.info('Hello, World! (You will see this line every time server resources reload)')
+
+onEvent('recipes', event => {
+	// Change recipes here
+})
+
+onEvent('item.tags', event => {
+	// Get the #forge:cobblestone tag collection and add Diamond Ore to it
+	// event.get('forge:cobblestone').add('minecraft:diamond_ore')
+
+	// Get the #forge:cobblestone tag collection and remove Mossy Cobblestone from it
+	// event.get('forge:cobblestone').remove('minecraft:mossy_cobblestone')
+
+	event.get('ceramics:bricks')
+		.add('#minecraft:stone_bricks')
+		.add('#tconstruct:seared_bricks')
+		.add('minecraft:nether_bricks')
+		.add('minecraft:cracked_nether_bricks')
+		.add('minecraft:chiseled_nether_bricks')
+		.add('minecraft:end_stone_bricks')
+		.add('minecraft:quartz_bricks')
+		.add('minecraft:prismarine_bricks')
+		.add('minecraft:red_nether_bricks')
+		.add('minecraft:polished_blackstone_bricks')
+		.add('minecraft:cracked_polished_blackstone_bricks')
+		.add('cavesandcliffs:deepslate_bricks')
+		.add('cavesandcliffs:cracked_deepslate_bricks')
+		.add('create:granite_bricks')
+		.add('create:fancy_granite_bricks')
+		.add('create:diorite_bricks')
+		.add('create:fancy_diorite_bricks')
+		.add('create:andesite_bricks')
+		.add('create:fancy_andesite_bricks')
+		.add('create:limestone_bricks')
+		.add('create:fancy_limestone_bricks')
+		.add('create:weathered_limestone_bricks')
+		.add('create:fancy_weathered_limestone_bricks')
+		.add('create:dolomite_bricks')
+		.add('create:fancy_dolomite_bricks')
+		.add('create:gabbro_bricks')
+		.add('create:fancy_gabbro_bricks')
+		.add('create:scoria_bricks')
+		.add('create:fancy_scoria_bricks')
+		.add('create:dark_scoria_bricks')
+		.add('create:fancy_dark_scoria_bricks')
+		.add('quark:granite_bricks')
+		.add('quark:chiseled_granite_bricks')
+		.add('quark:diorite_bricks')
+		.add('quark:chiseled_diorite_bricks')
+		.add('quark:andesite_bricks')
+		.add('quark:chiseled_andesite_bricks')
+		.add('quark:marble_bricks')
+		.add('quark:chiseled_marble_bricks')
+		.add('quark:limestone_bricks')
+		.add('quark:chiseled_limestone_bricks')
+		.add('quark:jasper_bricks')
+		.add('quark:chiseled_jasper_bricks')
+		.add('quark:slate_bricks')
+		.add('quark:chiseled_slate_bricks')
+		.add('quark:basalt_bricks')
+		.add('quark:chiseled_basalt_bricks')
+		.add('quark:myalite_bricks')
+		.add('quark:chiseled_myalite_bricks')
+		.add('quark:brimstone_bricks')
+		.add('quark:permafrost_bricks')
+		.add('quark:deepslate_bricks')
+		.add('quark:cracked_deepslate_bricks')
+		.add('quark:biotite_bricks')
+		.add('quark:cobblestone_bricks')
+		.add('quark:mossy_cobblestone_bricks')
+		.add('quark:blackstone_bricks')
+		.add('quark:dirt_bricks')
+		.add('quark:netherrack_bricks')
+		.add('quark:vanilla_basalt_bricks')
+		.add('quark:elder_prismarine_bricks')
+		.add('quark:sandy_bricks')
+		.add('quark:charred_nether_bricks')
+		.add('quark:blue_nether_bricks')
+		.add('quark:sandstone_bricks')
+		.add('quark:red_sandstone_bricks')
+		.add('quark:soul_sandstone_bricks')
+		.add('quark:twisted_blackstone_bricks')
+		.add('quark:weeping_blackstone_bricks')
+		.add('quark:magma_bricks')
+		.add('tconstruct:mud_bricks')
+		.add('tconstruct:seared_cracked_bricks')
+		.add('tconstruct:scorched_bricks')
+		.add('tconstruct:chiseled_scorched_bricks')
+		.add('iceandfire:dread_stone_bricks')
+		.add('iceandfire:dread_stone_bricks_mossy')
+		.add('biomesoplenty:mud_bricks')
+
+
+
+})

@@ -1,0 +1,14 @@
+name = "MumbleLink"
+filename = "mumblelink-1.16.5-5.0.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3436/996/mumblelink-1.16.5-5.0.0.jar"
+hash-format = "murmur2"
+hash = "261404999"
+
+[update]
+[update.curseforge]
+file-id = 3436996
+project-id = 222432
+release-channel = "beta"

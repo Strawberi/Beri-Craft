@@ -1,0 +1,14 @@
+name = "Extreme Reactors"
+filename = "ExtremeReactors2-1.16.5-2.0.27.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3426/518/ExtremeReactors2-1.16.5-2.0.27.jar"
+hash-format = "murmur2"
+hash = "3944952099"
+
+[update]
+[update.curseforge]
+file-id = 3426518
+project-id = 250277
+release-channel = "beta"

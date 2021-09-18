@@ -1,0 +1,16 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "item": "immersiveengineering:ingot_steel",
+      "count": 65
+    },
+    {
+      "item": "minecraft:black_wool",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "additionalguns:ravens_claw"
+  }
+}

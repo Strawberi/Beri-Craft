@@ -1,0 +1,14 @@
+name = "StepUp"
+filename = "StepUp-1.16.4-0.2.0.jar"
+side = "client"
+
+[download]
+url = "https://edge.forgecdn.net/files/3179/485/StepUp-1.16.4-0.2.0.jar"
+hash-format = "murmur2"
+hash = "1138709492"
+
+[update]
+[update.curseforge]
+file-id = 3179485
+project-id = 239236
+release-channel = "beta"

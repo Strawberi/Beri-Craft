@@ -1,0 +1,25 @@
+{
+	"type": "cgm:workbench",
+	"result": {
+		"item": "kubejs:heavy_bullet",
+		"count": 4
+	},
+	"materials": [
+		{
+			"item": "immersiveengineering:nugget_uranium",
+			"count": 4
+		},
+		{
+			"item": "create:copper_nugget",
+			"count": 1
+		},
+		{
+			"item": "minecraft:gunpowder",
+			"count": 4
+		},
+		{
+			"item": "create:brass_sheet",
+			"count": 4
+		}
+	]
+}

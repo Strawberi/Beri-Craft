@@ -1,0 +1,20 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "item": "immersiveengineering:ingot_steel",
+      "count": 65
+    },
+{
+      "item": "minecraft:grey_wool",
+      "count": 10
+    },
+{
+      "item": "minecraft:redstone",
+      "count": 5
+    }
+  ],
+  "result": {
+    "item": "additionalguns:g11"
+  }
+}

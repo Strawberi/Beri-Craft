@@ -1,0 +1,14 @@
+name = "Kobolds!"
+filename = "Kobolds-1.4.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3426/339/Kobolds-1.4.5.jar"
+hash-format = "murmur2"
+hash = "545731580"
+
+[update]
+[update.curseforge]
+file-id = 3426339
+project-id = 484967
+release-channel = "beta"

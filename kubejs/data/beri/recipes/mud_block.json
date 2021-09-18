@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "kubejs:muddy_balls"
+        },
+        {
+            "tag": "kubejs:muddy_balls"        },
+        {
+            "tag": "kubejs:muddy_balls"        },
+        {
+            "tag": "kubejs:muddy_balls"        },
+        {
+            "item": "minecraft:dirt"
+        },
+        {
+            "tag": "kubejs:muddy_balls"        },
+        {
+            "tag": "kubejs:muddy_balls"        },
+        {
+            "tag": "kubejs:muddy_balls"        },
+        {
+            "tag": "kubejs:muddy_balls"        }
+    ],
+    "result": {
+        "item": "biomesoplenty:mud",
+        "count": 3
+    }
+}

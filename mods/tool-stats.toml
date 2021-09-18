@@ -1,0 +1,14 @@
+name = "Tool Stats"
+filename = "ToolStats-1.16.5-6.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3185/524/ToolStats-1.16.5-6.0.1.jar"
+hash-format = "murmur2"
+hash = "4070250645"
+
+[update]
+[update.curseforge]
+file-id = 3185524
+project-id = 377109
+release-channel = "beta"

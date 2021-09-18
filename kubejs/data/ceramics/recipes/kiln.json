@@ -1,0 +1,18 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "###",
+        "# #",
+        "###"
+    ],
+    "key": {
+        "#": {
+            "tag": "ceramics:bricks"
+        }
+        
+    },
+    "result": {
+        "item": "ceramics:kiln",
+        "count": 1
+    }
+}

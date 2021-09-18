@@ -1,0 +1,20 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "##",
+        " /",
+        " /"
+    ],
+    "key": {
+        "#": {
+            "item": "ceramics:clay_plate"
+        },
+        "/": {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "result": {
+        "item": "kubejs:ceramic_hoe",
+        "count": 1
+    }
+}

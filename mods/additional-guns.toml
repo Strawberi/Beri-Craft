@@ -1,0 +1,14 @@
+name = "Additional Guns"
+filename = "additional-guns-0.2.0-1.16.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3420/518/additional-guns-0.2.0-1.16.5.jar"
+hash-format = "murmur2"
+hash = "2725009513"
+
+[update]
+[update.curseforge]
+file-id = 3420518
+project-id = 501214
+release-channel = "beta"

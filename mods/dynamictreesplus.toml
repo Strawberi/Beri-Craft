@@ -1,0 +1,14 @@
+name = "Dynamic Trees +"
+filename = "DynamicTreesPlus-1.16.5-0.1.0-Beta10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3394/608/DynamicTreesPlus-1.16.5-0.1.0-Beta10.jar"
+hash-format = "murmur2"
+hash = "1932778659"
+
+[update]
+[update.curseforge]
+file-id = 3394608
+project-id = 478155
+release-channel = "beta"

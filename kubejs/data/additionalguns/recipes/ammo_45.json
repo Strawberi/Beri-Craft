@@ -1,0 +1,25 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "item": "minecraft:gunpowder",
+      "count": 2
+    },
+    {
+      "item": "thermal:lead_nugget",
+      "count": 1
+    },
+    {
+      "item": "create:brass_sheet",
+      "count": 1
+    },
+    {
+      "item": "minecraft:gold_nugget",
+      "count": 2
+    }
+  ],
+  "result": {
+    "item": "additionalguns:ammo_45",
+	"count": 16
+  }
+}

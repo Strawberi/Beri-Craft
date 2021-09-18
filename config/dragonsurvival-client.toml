@@ -1,0 +1,15 @@
+
+[client]
+
+	[client.nametag]
+		#Show name tags for dragons.
+		dragonNameTags = false
+
+	[client.movement]
+		#The type of body movement you use while in first person as a dragon.
+		#Allowed Values: VANILLA, DRAGON
+		firstPersonMovement = "VANILLA"
+		#The type of body movement you use while in third person as a dragon.
+		#Allowed Values: VANILLA, DRAGON
+		thirdPersonMovement = "DRAGON"
+

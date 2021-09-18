@@ -1,0 +1,14 @@
+name = "AstikorCarts [Horse Carts]"
+filename = "astikorcarts-1.16.5-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3216/457/astikorcarts-1.16.5-1.1.1.jar"
+hash-format = "murmur2"
+hash = "2378379872"
+
+[update]
+[update.curseforge]
+file-id = 3216457
+project-id = 273771
+release-channel = "beta"

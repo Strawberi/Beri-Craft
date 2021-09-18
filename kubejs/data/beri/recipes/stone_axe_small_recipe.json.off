@@ -1,0 +1,19 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "#",
+        "/"
+    ],
+    "key": {
+        "#": {
+            "item": "kubejs:stone_axe_head"
+        },
+        "/": {
+            "item": "tconstruct:tool_handle"
+        }
+    },
+    "result": {
+        "item": "minecraft:stone_axe",
+        "count": 1
+    }
+}

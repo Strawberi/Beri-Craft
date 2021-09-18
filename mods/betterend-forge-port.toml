@@ -1,0 +1,14 @@
+name = "BetterEnd (Forge)"
+filename = "betterendforge-1.16.5-1.6.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3450/288/betterendforge-1.16.5-1.6.1.jar"
+hash-format = "murmur2"
+hash = "2304660279"
+
+[update]
+[update.curseforge]
+file-id = 3450288
+project-id = 428877
+release-channel = "beta"

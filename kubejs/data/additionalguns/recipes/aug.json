@@ -1,0 +1,12 @@
+{
+  "type": "cgm:workbench",
+  "materials": [
+    {
+      "item": "immersiveengineering:ingot_steel",
+      "count": 32
+    }
+  ],
+  "result": {
+    "item": "additionalguns:aug"
+  }
+}

@@ -1,0 +1,14 @@
+name = "Ceramics"
+filename = "Ceramics-1.16.5-1.6.3.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3347/49/Ceramics-1.16.5-1.6.3.jar"
+hash-format = "murmur2"
+hash = "1258943300"
+
+[update]
+[update.curseforge]
+file-id = 3347049
+project-id = 250617
+release-channel = "beta"
