@@ -6,23 +6,23 @@ hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
 file = "config/appleskin-client.toml"
-hash = "e6609ffbea927ee6390b1317bb6f3abb3f31ee591ca5c1d5e748f5e625fefea1"
+hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
 
 [[files]]
 file = "config/appliedenergistics2-client.toml"
-hash = "812180b9aabb3cf3f8d8acb446c2696428214c8bf60efc8d6b7a1ce8ddcdf719"
+hash = "0e154d5657389d09cea9eba3e2635efd8678585ff8014495b052f05a22c56408"
 
 [[files]]
 file = "config/appliedenergistics2-common.toml"
-hash = "16c4d78e8ea801b7d1206eb495f99b319f530e6566c6cdd165dd722237c3c78d"
+hash = "54ae19150f279393ac830362bf3a07558755811f769b61e29f389b57cfffcaa7"
 
 [[files]]
 file = "config/astikorcarts-common.toml"
-hash = "e425a36820d79a1c89a9a15a5b4ab5dcc9c26057d098db5bbc22f64a464f55fe"
+hash = "30f5a79804295955a5bed41f070d79a86188a179fabfde2752167b329e504b5e"
 
 [[files]]
 file = "config/bettercaves-1_16.toml"
-hash = "3769e9030cfb3e659530ea777ffcec0accf85eb7714845ac0f5609abe305fc6e"
+hash = "56d4679b29742a0eebefe90334e6576af009bf8b79ca2903b39cde5426872f13"
 
 [[files]]
 file = "config/bettercaves/README.txt"
@@ -30,7 +30,7 @@ hash = "4f16327598ee6f761118b4396cff6a964799aaeea1d8af66b54c45946e03c53a"
 
 [[files]]
 file = "config/betterdungeons-forge-1_16.toml"
-hash = "0a017b69d748c1bb608e98807af3dac586615e173d8efc20495833ebfd563e3e"
+hash = "da407af360f75f41f81ae7f8af4cdfcfd5fda5022ed5908ebbf031d7b1d572b6"
 
 [[files]]
 file = "config/betterendforge/biomes.json"
@@ -50,11 +50,11 @@ hash = "b131bb500727f1245659003ca6992265b10f50b705e6c69a6eccb7710f294f3c"
 
 [[files]]
 file = "config/betterf3.toml"
-hash = "cd10f3c51ca8c84da832487b89076296337912f5719408ce15da41d262a6ff32"
+hash = "e9006e93befb7ea2cd34bdbc03e6f34b9427c3d88310ca591c11246a14058193"
 
 [[files]]
 file = "config/bettermineshafts-forge-1_16.toml"
-hash = "6817437f4ddf1dffdfef144050f14909508352e39cabec3a8dd575e1416816eb"
+hash = "66ce4eeb0ef19844e91103694549981f570ea277317914bb7b59659b6e54fe2e"
 
 [[files]]
 file = "config/bettermineshafts/1_16/README.txt"
@@ -74,7 +74,7 @@ hash = "5e4216e07280b8881466f5b1010f8006ff9477054b366a1f4c0b24cba0b8d030"
 
 [[files]]
 file = "config/betterportals-1_16.toml"
-hash = "164a1b4be6efea23ec44071942e2edcd97d0fba7d70b3af0d8988ea12b1eefba"
+hash = "d482d5f92f4c2c9d8ba8cb0be5cbdd3ffde4170dbe49679eeea60665e554a82f"
 
 [[files]]
 file = "config/betterportals/1_16/README.txt"
@@ -90,7 +90,7 @@ hash = "e0f8ab138d7f143dbaca7a6d6a091eb212f5c97bd4d2c333bb066c7961414dd2"
 
 [[files]]
 file = "config/betterstrongholds-forge-1_16.toml"
-hash = "f871c3316794c853a3768725cdca3222a0e27729bd3b84f7c3b20569876cdc07"
+hash = "6cd3a09fbbf1df352ff2bc2cb80f5b88d50950497b9fde48ce6177c6f2219960"
 
 [[files]]
 file = "config/betterstrongholds/README.txt"
@@ -130,51 +130,51 @@ hash = "ceafcba40efc2aae20e2562e9433497510ab701104a8c4fb842d8c82176ee636"
 
 [[files]]
 file = "config/carryon-client.toml"
-hash = "737c6f33b53eceb7ca503ac8f8fd96c0d186d820568b92919cb0040ea82006eb"
+hash = "29404dd87867d12c1e60bf3295f5f6fd4229d056ac321733fba1113020ad21e8"
 
 [[files]]
 file = "config/cavebiomeapi-common.toml"
-hash = "1f1f4c9acc9d357aabc749907284d5aa6f4ca4ff696e795272657338551bb3cc"
+hash = "2a8e4a47f089bd8015bda106e82dea17cdf9a84b371c11023cd86f97eb4d58b9"
 
 [[files]]
 file = "config/cavesandcliffs-common.toml"
-hash = "5aca0b9d1f8c86bfdec2b6d24e1116b4146221ed195d459853570f9b5dacc66e"
+hash = "fe257290ae30b9ab6c109c7e4fbfc06ed84823f0fd63a2072ff1906240a8fb56"
 
 [[files]]
 file = "config/cgm-client.toml"
-hash = "73fe9ac89eb74b9cdc8b67f6169b7898ba0df6496be1caf5239af8f55af91be4"
+hash = "5b20b9de1ac60844cc5f5a78ce99bdf601b8861f2837bf97733601ce661c5765"
 
 [[files]]
 file = "config/cgm-common.toml"
-hash = "3a67a8ec0a0101e7ca238cefc2f37337b9873906b1c4a0adee09aafba0ec96c7"
+hash = "4371ed0dc24bddcc46251f82172bde1c29afd9d8e8ef26a0343e5558a0610ca1"
 
 [[files]]
 file = "config/citadel-common.toml"
-hash = "1cae9dcf7216ba0c8cf3c06f955b346ba63ef33edcb6af30e320c479b7badca4"
+hash = "4a3bccdef6b2d414178fb96395afacb53adced149e2b8b3ecb243b2af9cbb68a"
 
 [[files]]
 file = "config/cofh_core-client.toml"
-hash = "e5770761fa49e61b38f5c0fc2e713f97b044a834cb773733239d775748d6756b"
+hash = "f377a53bbd1583306b1017016d5dc44580180fdf6b36ff1e607c40e41689ed45"
 
 [[files]]
 file = "config/create-client.toml"
-hash = "ecd9a7576acca5f3b10a882b2ff78233e9588df180f29ea24f3d6d173c1ac2e3"
+hash = "2cd8d0ac08ef78138f360943b8d35b428d22cc26b10f27fd2420d046cd06251a"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "cddb244f591f4c1a430e097e5c518f19bf973eaedf154ea793b2a73d645841e8"
+hash = "9d323a6dbd94ae66b0f5609fdfb08701972e9b5b127237a5506c9e16e9a7a23f"
 
 [[files]]
 file = "config/ding.toml"
-hash = "224b26575e2c322c1e4fb884ffc1dbf9814eba88bf3162a9d58507ff0c45e6a7"
+hash = "5843a334a054e0bd608e1797776d591c1122039b7ec6994f3598fdf5bf496f31"
 
 [[files]]
 file = "config/dragonsurvival-client.toml"
-hash = "4bbfd47a6ea8228f35b7a0fbec9ab08807630db159b8fa3257a4197defc7cc15"
+hash = "f37bd54b5bcd1ff95b548467d29b1f02d1790619abdec78e53980c470d81cb00"
 
 [[files]]
 file = "config/dragonsurvival-common.toml"
-hash = "083d92173f3c897d6aaa78d6384993c33dbb418adba3050ad694bd1ff5bdef1b"
+hash = "32276353e82023c7061787105e00e0ed4166c939303ada9bbfa5a2d41a346a49"
 
 [[files]]
 file = "config/dsurround/dsurround-client.toml"
@@ -1218,7 +1218,7 @@ hash = "f62ce68d0268feebf4d7daa093f3acdbfbf8576dd9863f4f460bea0d92812957"
 
 [[files]]
 file = "kubejs/data/beri/recipes/ceramic_hoe.json"
-hash = "75e6a7f7c3b427324db8c997bccd05133b48fe8ce3d13eccb03cea8ed0a9dd63"
+hash = "39608608c4b5aa04a86d0cb399744707362e5815a3056aef300d69df65c7c936"
 
 [[files]]
 file = "kubejs/data/beri/recipes/ceramic_shovel.json"
