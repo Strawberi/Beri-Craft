@@ -1741,7 +1741,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.toml"
-hash = "a4e6c3bfb4431f96a1c866c7079607f2323b94af5192bce8c17b790ed6ef04c6"
+hash = "1904720281d4fff7488899b7b7b0da5f1cad00ce10a9e478d4e75ea0fc02013b"
 metafile = true
 
 [[files]]
@@ -1796,12 +1796,12 @@ metafile = true
 
 [[files]]
 file = "mods/configured.toml"
-hash = "380a38854410bf5e935d1bfca72bcbee67a2e548c17aeea4c9a5b43366acd618"
+hash = "9c859cb44057de39e37337c9b60d83bbbef827117e5327827f995dfa5a6a7361"
 metafile = true
 
 [[files]]
 file = "mods/controlling.toml"
-hash = "b4890419e0e259a9992f3e58df76d0ed1d9d329e753fe0f239bab5546823223e"
+hash = "72b5b30a97a4a6ca7cd4d6e592b3822c13cd7dfa01483495cab89dab1bc8b02f"
 metafile = true
 
 [[files]]
@@ -1811,7 +1811,7 @@ metafile = true
 
 [[files]]
 file = "mods/ding.toml"
-hash = "50187a8fa97ea2cae84a2fe91ae593706a3da6c4eb07dedb64c5a4c84c819c7c"
+hash = "ff3492c9823aef1547c62807ba70e203d574011f4932e111a90c70d895b3bc36"
 metafile = true
 
 [[files]]
@@ -1826,7 +1826,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-surroundings.toml"
-hash = "d7c49721e5f79d2b7f89272ac78f8319d41a01af20e916787103786ce715d022"
+hash = "722b92f8497e42363653416385fb58bf81c758f2985e659c9874194584157e18"
 metafile = true
 
 [[files]]
@@ -1931,7 +1931,7 @@ metafile = true
 
 [[files]]
 file = "mods/mouse-tweaks.toml"
-hash = "104dc0c241070a9ed8b601ad70b125a0cc23ea70ecc30885e3bfe24c4696d218"
+hash = "b60a76112bedd03e43fb75f03f117abcc36efb06183028a818efc9791f537b82"
 metafile = true
 
 [[files]]
@@ -1941,7 +1941,7 @@ metafile = true
 
 [[files]]
 file = "mods/mumblelink.toml"
-hash = "6bc685e192fcf606b23f62a004c7516c194e9de99af122d451b70539dd1c5b75"
+hash = "7ae4f8ad7052ae5f807e063cf6b5836a8ce6874428523e0dd5dc02314901191e"
 metafile = true
 
 [[files]]
@@ -1991,7 +1991,7 @@ metafile = true
 
 [[files]]
 file = "mods/stepup.toml"
-hash = "672c5543a8cab0878c6e4ce085fa67deb02d06b00f236bf3601e00f80e690a8f"
+hash = "44d3d3fdfc83badebbed9f1156b0aba6c31276be5a2b453049361e4656d0204e"
 metafile = true
 
 [[files]]
@@ -2068,7 +2068,3 @@ metafile = true
 file = "mods/zerocore.toml"
 hash = "dd9b44cd1b85bdb899e3c4da3f76f90f20dbb3b7c02f77c12276b65b73036db5"
 metafile = true
-
-[[files]]
-file = "resourcepacks/Stay_True_1.16.zip"
-hash = "0bb4db7fa1f231c2c0d87ece66bb83dace7952d30c449511bca818e754081c23"
