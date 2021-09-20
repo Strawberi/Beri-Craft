@@ -1489,6 +1489,10 @@ file = "kubejs/data/forge/tags/items/ores/zinc.json"
 hash = "cdf9d7b9f3ca00f8de47208388c34628096262594a66cc963231af4c4e35ca6e"
 
 [[files]]
+file = "kubejs/data/iceandfire/loot_tables/blocks/silver_ore.json"
+hash = "7516662c2266d44e31d112fcab79be13fff4b6553f51dde47f4b805607f420c0"
+
+[[files]]
 file = "kubejs/data/iceandfire/recipes/copper_axe.json"
 hash = "4c2f6171b36a7f631dff2cb72e0aa21a537b92824b56c3a8f4e777de392ac186"
 
