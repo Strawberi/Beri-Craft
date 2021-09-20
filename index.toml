@@ -1209,6 +1209,10 @@ file = "kubejs/data/additionalguns/recipes/zerkalo_scope.json"
 hash = "b160d7144b5f994080cd728e8cee6ff3fb6e0ca4d324f0bb7a5be8a82eb0c17c"
 
 [[files]]
+file = "kubejs/data/appliedenergistics2/recipes/grinder/flour.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/data/beri/recipes/campfire_brick.json"
 hash = "472a43a4337f66f3bb548fd9a0f38cfaacc8258d675d59bde7f58c011e391788"
 
@@ -1299,6 +1303,10 @@ hash = "9d721236866a12825bf71906110be4bfb74fb9a11aaee109f80faf072a8022a3"
 [[files]]
 file = "kubejs/data/bigreactors/loot_tables/blocks/yellorite_ore.json"
 hash = "66c0806203a36e626cad7d5b72e615839eaf12365fa6edf041cc321272e6a90a"
+
+[[files]]
+file = "kubejs/data/ceramics/recipes/cake.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/ceramics/recipes/kiln.json"
@@ -1453,6 +1461,38 @@ file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
 hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
 
 [[files]]
+file = "kubejs/data/farmersdelight/recipes/apple_pie.json"
+hash = "2e19a5baf3b837816f798803b8aa93a112bdaace1f54538b6921027b59904bc5"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/cake_from_milk_bottle.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/honey_cookie.json"
+hash = "fbf20a8adf296bae37f987c09b54f56a892e40a0b48e0b534092803a10071900"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/pie_crust.json"
+hash = "34da9caad3568333f3a69d2342fab4104f5b51920fe9255b9d20a25b3655fbfe"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/raw_pasta_from_eggs.json"
+hash = "93e4892789314208fb3fc7fb9019fe30625fe7301d517f27a5f487c29b1e1b1f"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/raw_pasta_from_water.json"
+hash = "f8effd6d73612895af37984a30aef79196600f4836b2183f9a07fe93feedb7bf"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/sweet_berry_cookie.json"
+hash = "555e41cc4112eefa5cafc155c553586be317479deb868d85f4704ae1f885519d"
+
+[[files]]
+file = "kubejs/data/farmersdelight/recipes/wheat_dough.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/data/forge/tags/items/ores/aluminum.json"
 hash = "6597611710531bdd98f0c1566ac6fbda9547d0b6bcae69c759ca594333031783"
 
@@ -1581,12 +1621,20 @@ file = "kubejs/data/minecraft/recipes/bread.json"
 hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
 
 [[files]]
+file = "kubejs/data/minecraft/recipes/cake.json"
+hash = "4dd0e7bd03e0297bf3e72f15012f57f54c8805c93830e52e76911d70cee24f91"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/campfire.json"
 hash = "36f4c5721d62c371add1e00ff55ee7006793a952d9c4e5eb6f2107632b856876"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/chain.json"
 hash = "bc5dffafda14db00acc8eab22f052908283583423704880c56c036889edfcbcc"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/cookie.json"
+hash = "c08bbad6f958180804bce261331be2c04bc766af4b0dc9b90b9040492e08a329"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/golden_pickaxe.json"
