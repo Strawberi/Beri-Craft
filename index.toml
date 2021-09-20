@@ -1249,6 +1249,10 @@ file = "kubejs/data/beri/recipes/chainmail_leggings.json"
 hash = "2b4e327415688f894031d61f1bb23da0a647da06d037125c08fb0f62729dac9b"
 
 [[files]]
+file = "kubejs/data/beri/recipes/chest.json"
+hash = "c13b9f7c3800d4fed7df684221acb284ea03bf5cf91bd2c07e7f143b51ee834f"
+
+[[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
 hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
 
