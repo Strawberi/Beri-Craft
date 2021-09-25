@@ -1465,6 +1465,10 @@ file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
 hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
 
 [[files]]
+file = "kubejs/data/create/recipes/milling/wheat.json"
+hash = "8d1921cb8a14fac5508946f3512264b839a5b37be272397ce1bd15185342fa1e"
+
+[[files]]
 file = "kubejs/data/farmersdelight/recipes/apple_pie.json"
 hash = "2e19a5baf3b837816f798803b8aa93a112bdaace1f54538b6921027b59904bc5"
 
