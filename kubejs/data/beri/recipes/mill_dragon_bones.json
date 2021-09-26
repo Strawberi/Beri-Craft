@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "iceandfire:dragonbone"
+      }
+    ],
+    "results": [
+      {
+        "item": "dragonsurvival:elder_dragon_dust"
+      },
+      {
+        "item": "dragonsurvival:elder_dragon_dust",
+        "count": 2,
+        "chance": 0.05
+      },
+    ],
+    "processingTime": 500
+  }

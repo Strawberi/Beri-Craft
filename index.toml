@@ -1257,6 +1257,10 @@ file = "kubejs/data/beri/recipes/flint_axe.json"
 hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
 
 [[files]]
+file = "kubejs/data/beri/recipes/mill_dragon_bones.json"
+hash = "06140f5267c58e72e2617ecefd999319102e4ec446c25ffa4d7dbed8dce79dfb"
+
+[[files]]
 file = "kubejs/data/beri/recipes/mud_block.json"
 hash = "8f9a953e6bcd290047a461c70991f6ed6c088c3e317bae6c06a78405ceb171ff"
 
