@@ -1258,7 +1258,7 @@ hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
 
 [[files]]
 file = "kubejs/data/beri/recipes/mill_dragon_bones.json"
-hash = "06140f5267c58e72e2617ecefd999319102e4ec446c25ffa4d7dbed8dce79dfb"
+hash = "96d450440add2fbc96fd7317a53766b5ce10f1a0bd02e4eac552e25b0209dce5"
 
 [[files]]
 file = "kubejs/data/beri/recipes/mud_block.json"
