@@ -1,0 +1,14 @@
+name = "Inventory-Free"
+filename = "InventoryFree-1.16.5-3.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3386/62/InventoryFree-1.16.5-3.0.1.jar"
+hash-format = "murmur2"
+hash = "4046245126"
+
+[update]
+[update.curseforge]
+file-id = 3386062
+project-id = 406383
+release-channel = "beta"

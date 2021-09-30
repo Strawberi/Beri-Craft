@@ -1689,18 +1689,6 @@ file = "kubejs/data/minecraft/recipes/wooden_pickaxe.json"
 hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
 
 [[files]]
-file = "kubejs/data/tconstruct/loot_tables/blocks/cobalt_ore.json"
-hash = "952eb80a867999aa0dc4731dcf602202e7ced2323e98cd4e264c1ceab14600d6"
-
-[[files]]
-file = "kubejs/data/tconstruct/recipes/common/flint.json"
-hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
-
-[[files]]
-file = "kubejs/data/tconstruct/recipes/common/materials/cobalt_ingot_smelting.json"
-hash = "3f0286c7d07df77e8606c097dc0aee812e0e9606926f353945b3030aabbf1571"
-
-[[files]]
 file = "kubejs/data/thermal/loot_tables/blocks/lead_ore.json"
 hash = "d5fbf1f87b54594183aa08ef6d34a53bbf05ad9d15415d4ef80a3446b5d81f61"
 
@@ -1776,11 +1764,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.toml"
 hash = "0e5929448f3105c10e8df986c97e9b1c2192cbcd6165c31c3fbcdd8103e3c9be"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2.toml"
-hash = "a64b06295808a5bddd3c8cc6500568f76c92c7e65e0314b8de59240e697adca8"
 metafile = true
 
 [[files]]
@@ -1964,6 +1947,11 @@ hash = "074fe26b43c947529f861f5150325734c3b6b5ad471ee6054a13c8c3a34d6253"
 metafile = true
 
 [[files]]
+file = "mods/inventory-free.toml"
+hash = "284fede746ecbc5507048896c3323b1c6cc4bced8bb2ddcaac0d0326b9a741a7"
+metafile = true
+
+[[files]]
 file = "mods/jei.toml"
 hash = "5cefa42ba8f3e255e9469f8bff8539c60619e4b2c785a397e780e21d1f7bbed0"
 metafile = true
@@ -1991,6 +1979,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.toml"
 hash = "27c6f8450c1535037091cd988a4b9adb09f75ee2c770b64c11ed2b22ec7b9413"
+metafile = true
+
+[[files]]
+file = "mods/mgui.toml"
+hash = "b637161384d71e37357f89edfb161940f456e06cd7501aa9d6e0c4692c0bc485"
 metafile = true
 
 [[files]]
@@ -2064,6 +2057,21 @@ hash = "20b5feeca6918ab4c823b0fccc7c8cd99f1afb8eabc6e1f8cbaa264b8a08b938"
 metafile = true
 
 [[files]]
+file = "mods/tetra-pak.toml"
+hash = "40c5f92694fa670858dbd750bf205058f729ecd7c132c5ece12fe6aebaf7aee2"
+metafile = true
+
+[[files]]
+file = "mods/tetra.toml"
+hash = "b9f1a16c7faa2d250dfe45d146d00b256312f7431693a4bd1ad1686c7d19a82b"
+metafile = true
+
+[[files]]
+file = "mods/tetranomicon.toml"
+hash = "13bd080a62764ee7ffc2ab435084e4795c0cad6175824ce225853d0569ec8f20"
+metafile = true
+
+[[files]]
 file = "mods/the-one-probe.toml"
 hash = "523bb49c4aa144e8e854533968725d75953591c86b57e4542abb45459d669527"
 metafile = true
@@ -2081,16 +2089,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.toml"
 hash = "890f687011f6bc82b1c6cc76e963325033fb2db424dc209aa9bb3e81e81eb092"
-metafile = true
-
-[[files]]
-file = "mods/theundead.toml"
-hash = "096431a381d75992602bae7d3574d7a25d58ff01a7bce1d16d57ad610a0ef227"
-metafile = true
-
-[[files]]
-file = "mods/tinkers-construct.toml"
-hash = "61752c98066af76481ef56ea513f26e083e72bd759601a950148e7d481e9dbda"
 metafile = true
 
 [[files]]
