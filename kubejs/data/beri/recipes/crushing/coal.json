@@ -1,5 +1,5 @@
 {
-    "type": "create:milling",
+    "type": "create:crushing",
     "ingredients": [
       {
         "item": "minecraft:coal"
@@ -8,10 +8,11 @@
     "results": [
       {
         "item": "kubejs:coal_dust",
-        "count": 1
+        "count": 2
       },
       {
         "item": "minecraft:black_dye",
+        "count": 2,
         "chance": 0.5
       }
     ],
