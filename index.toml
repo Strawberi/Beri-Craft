@@ -1713,12 +1713,12 @@ file = "kubejs/data/minecraft/recipes/wooden_pickaxe.json"
 hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
 
 [[files]]
-file = "kubejs/data/tetra/modules/double/basic_hammer.json"
-hash = "c818288d568efe41a093a816d02230dc1ff865341d57e8c97b8dadf485e1a573"
+file = "kubejs/data/tetra/materials/wood/compat/treated_wood.json"
+hash = "83993ffeee0156aaf228157e9c936058a783dd98e3c008ebf43cf4e82693fb49"
 
 [[files]]
-file = "kubejs/data/tetra/modules/double/materials/wood/compat/treated_wood.json"
-hash = "83993ffeee0156aaf228157e9c936058a783dd98e3c008ebf43cf4e82693fb49"
+file = "kubejs/data/tetra/modules/double/basic_hammer.json"
+hash = "c818288d568efe41a093a816d02230dc1ff865341d57e8c97b8dadf485e1a573"
 
 [[files]]
 file = "kubejs/data/tetra/schematics/double/basic_hammer/basic_hammer.json"
