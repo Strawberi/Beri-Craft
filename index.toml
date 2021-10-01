@@ -1718,7 +1718,7 @@ hash = "83993ffeee0156aaf228157e9c936058a783dd98e3c008ebf43cf4e82693fb49"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_hammer.json"
-hash = "0e6e18761f027c384e411ad6a6b6607325c0f446cfc1c49912cf11ee977931df"
+hash = "eec043d65568d3f4008cbe3501c5c7fe7b1bb8599a9032a1ecfeb2ebe4f9ea39"
 
 [[files]]
 file = "kubejs/data/tetra/schematics/double/basic_hammer/basic_hammer.json"

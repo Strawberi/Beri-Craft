@@ -124,6 +124,8 @@
                     "location": "tetra:items/module/double/head/basic_hammer/obsidian"
                 }
             ],
+            "tools": {
+                "hammer": 3},
             "capabilities": {
                 "hammer": [
                     4,
