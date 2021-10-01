@@ -73,7 +73,7 @@
             },
             "key": "basic_hammer/",
             "materials": [
-                "tetra:metal/copper"
+                "tetra:metal/compat/copper"
             ],
             "tools": {
                 "hammer": 1
@@ -114,7 +114,7 @@
             },
             "key": "basic_hammer/",
             "materials": [
-                "tetra:metal/bronze"
+                "tetra:metal/compat/bronze"
             ],
             "tools": {
                 "hammer": 3
@@ -155,7 +155,7 @@
             },
             "key": "basic_hammer/",
             "materials": [
-                "tetra:metal/steel"
+                "tetra:metal/compat/steel"
             ],
             "tools": {
                 "hammer": 3
