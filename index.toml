@@ -1261,6 +1261,10 @@ file = "kubejs/data/beri/recipes/crude_steel_blend.json"
 hash = "d2e1aab60dd375a71da5b53ae0a1278dce2cb8bfa66baae23ba80c3677b9ac04"
 
 [[files]]
+file = "kubejs/data/beri/recipes/crushing/coal.json"
+hash = "e427dc896a3aa29afdd9f87456892efdbae10994854fd3b8e3c3ea0847a58fa2"
+
+[[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
 hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
 
@@ -1482,7 +1486,7 @@ hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/coal.json"
-hash = "37092d74dd1571d80712781b94f602d9270bc2acdb1d352e3b55e1e17d341b93"
+hash = "177b77d2570aafb31636f8b79d57b0bcefca429b9ac8a0cea03875839a93aa08"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/wheat.json"
@@ -1711,6 +1715,10 @@ hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
 [[files]]
 file = "kubejs/data/minecraft/recipes/wooden_pickaxe.json"
 hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
+
+[[files]]
+file = "kubejs/data/tetra/modules/double/basic_hammer.json"
+hash = "db23e27b51bee455e567dfa89dbebeb3ca65ff7cb5ec2afe39e69e5f235fc0ef"
 
 [[files]]
 file = "kubejs/data/thermal/loot_tables/blocks/lead_ore.json"
