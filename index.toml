@@ -1533,10 +1533,6 @@ file = "kubejs/data/forge/tags/items/ores/aluminum.json"
 hash = "6597611710531bdd98f0c1566ac6fbda9547d0b6bcae69c759ca594333031783"
 
 [[files]]
-file = "kubejs/data/forge/tags/items/ores/cobalt.json"
-hash = "2e32104356d53dc13433a0bf3a8622e6d525f0264a163bc98700dc31ef0ee32b"
-
-[[files]]
 file = "kubejs/data/forge/tags/items/ores/lead.json"
 hash = "801ab9fa728f2e267a750fb3127c828c5f9fd5af28e608cd8df8a33d5ae2ac93"
 
@@ -1718,7 +1714,11 @@ hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_hammer.json"
-hash = "db23e27b51bee455e567dfa89dbebeb3ca65ff7cb5ec2afe39e69e5f235fc0ef"
+hash = "c818288d568efe41a093a816d02230dc1ff865341d57e8c97b8dadf485e1a573"
+
+[[files]]
+file = "kubejs/data/tetra/schematics/double/basic_hammer/basic_hammer.json"
+hash = "51b8c6f051c0006e3da96f954652699e167e36dafebb07002b796b6a3b1d1245"
 
 [[files]]
 file = "kubejs/data/thermal/loot_tables/blocks/lead_ore.json"
