@@ -1,0 +1,21 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "kunejs:crude_steel_blend"
+        },
+        {
+            "item": "kunejs:crude_steel_blend"
+        },
+        {
+            "item": "kunejs:crude_steel_blend"
+        },
+        {
+            "item": "kunejs:crude_steel_blend"
+        }
+    ],
+    "result": {
+        "item": "immersiveengineering:dust_steel",
+        "count": 1
+    }
+}

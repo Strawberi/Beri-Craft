@@ -1,0 +1,19 @@
+{
+    "type": "create:milling",
+    "ingredients": [
+      {
+        "item": "minecraft:coal"
+      }
+    ],
+    "results": [
+      {
+        "item": "kubejs:coal_dust",
+        "count": 2
+      },
+      {
+        "item": "minecraft:black_dye",
+        "chance": 0.5
+      }
+    ],
+    "processingTime": 100
+  }

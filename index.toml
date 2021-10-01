@@ -817,6 +817,10 @@ file = "kubejs/assets/kubejs/textures/item/ceramic_sword.png"
 hash = "202a4dc15d279a3ada0391b2c704fc82ec405d299f1838d65a2b53bbe3eade31"
 
 [[files]]
+file = "kubejs/assets/kubejs/textures/item/coal_dust.png"
+hash = "c65d0dcbd21e28e209358665e7132d749a67a8370514e364f0e6b71a5b44cce4"
+
+[[files]]
 file = "kubejs/assets/kubejs/textures/item/cobbedstone.png"
 hash = "0a6d999445389fee1a7da894e67ce5bb8b8d060c9909bcb4077d2289dfb91f6a"
 
@@ -847,6 +851,10 @@ hash = "9c9c7ba4d10350d3274dc6121483daaba15f831a102736776811230747145336"
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/crude_iron_pickaxe.png"
 hash = "92c885cea225ed232bfb6c02a31e62dcd1a41ee5fc0e34f722bd89ba89c9ef96"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/item/crude_steel_blend.png"
+hash = "86ba4068ca3413eee057b07908e7315ddc669bf8f3160a4830f8cc74085c3c15"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/crude_stone_pickaxe.png"
@@ -1209,10 +1217,6 @@ file = "kubejs/data/additionalguns/recipes/zerkalo_scope.json"
 hash = "b160d7144b5f994080cd728e8cee6ff3fb6e0ca4d324f0bb7a5be8a82eb0c17c"
 
 [[files]]
-file = "kubejs/data/appliedenergistics2/recipes/grinder/flour.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
 file = "kubejs/data/beri/recipes/campfire_brick.json"
 hash = "472a43a4337f66f3bb548fd9a0f38cfaacc8258d675d59bde7f58c011e391788"
 
@@ -1253,6 +1257,10 @@ file = "kubejs/data/beri/recipes/chest.json"
 hash = "c13b9f7c3800d4fed7df684221acb284ea03bf5cf91bd2c07e7f143b51ee834f"
 
 [[files]]
+file = "kubejs/data/beri/recipes/crude_steel_blend.json"
+hash = "be71cd0efb7b5b62f7d03f5d10b3985d35aa77e9a7b42952963fb78302b91478"
+
+[[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
 hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
 
@@ -1262,7 +1270,7 @@ hash = "dcad7ed9c1f37dda345ccd49d20a78cef1966eac0fb85474eaa92df3256c5361"
 
 [[files]]
 file = "kubejs/data/beri/recipes/mud_block.json"
-hash = "8f9a953e6bcd290047a461c70991f6ed6c088c3e317bae6c06a78405ceb171ff"
+hash = "78910df8c416d68d9419adfed4937f9ce8527b47e961182457da8e9e60df8106"
 
 [[files]]
 file = "kubejs/data/beri/recipes/name_tag.json"
@@ -1283,6 +1291,10 @@ hash = "1c09f5f590926b43e9940d531e4b02312593915ac577f1bbe3756d9ed9297eb6"
 [[files]]
 file = "kubejs/data/beri/recipes/slimey_smelty.json"
 hash = "f62fd71be93e257ead36015d10502cd4bc54653df6b5ed8554dbefd348cb6cfb"
+
+[[files]]
+file = "kubejs/data/beri/recipes/steel_grit_lowtech.json"
+hash = "a0566b9a81c55724808ae2be49c502ba031a96d8126fb932a5b60b217486a931"
 
 [[files]]
 file = "kubejs/data/beri/recipes/stone_axe_head.json.off"
@@ -1467,6 +1479,10 @@ hash = "db91d623a991614a2d9c0ffeb26e61763ef665e069ffd2e75db6be191e24a288"
 [[files]]
 file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
 hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
+
+[[files]]
+file = "kubejs/data/create/recipes/milling/coal.json"
+hash = "37092d74dd1571d80712781b94f602d9270bc2acdb1d352e3b55e1e17d341b93"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/wheat.json"
@@ -1745,12 +1761,16 @@ file = "kubejs/server_scripts/script.js"
 hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
 
 [[files]]
+file = "kubejs/startup_scripts/armors.js"
+hash = "62fb631c6e06f6c5e9d88fcd93ffe25e4524ccb5439523b2609e6a45c1fcbd19"
+
+[[files]]
 file = "kubejs/startup_scripts/blocks.js"
 hash = "c3cb3121d88ce9d26960b460b9c856952cfa4c2a3d61d00ad5bb240fc37728e9"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "ec39e47c3e2680d3da92a072c138e2a4d13c68bc7c522e343ed668216d793908"
+hash = "8cb7d00b156492320432711e5a67465075312fc9125976c748c999325d29511b"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
