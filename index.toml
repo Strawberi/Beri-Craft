@@ -1321,7 +1321,7 @@ file = "kubejs/data/beri/recipes/wooden_tool_handle.json.off"
 hash = "56bc91370c0584e441cd20140069446a0ea96ca23c3c5b9a08dc0e92f29f0cff"
 
 [[files]]
-file = "kubejs/data/beri/recipes/workaround_flintrock.json.off"
+file = "kubejs/data/beri/recipes/workaround_flintrock.json"
 hash = "9d721236866a12825bf71906110be4bfb74fb9a11aaee109f80faf072a8022a3"
 
 [[files]]
@@ -1726,7 +1726,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/tetra/recipes/hammer/andesite.json"
-hash = "d215068c4292cb2cbd0b24634c7b6ecc4d9628dcec338b02b19fb7ec553258b8"
+hash = "f605fb2e1beacdd5482160c7294d0f433a0590055a053e2466db0935633d1c0a"
 
 [[files]]
 file = "kubejs/data/tetra/recipes/hammer/birch.json"
@@ -1738,11 +1738,11 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/tetra/recipes/hammer/diorite.json"
-hash = "7ce18f346a8b464a08e1e8b3b506d06ac41451f931fdf31a8d463f00994676c3"
+hash = "44c8810ae53ca36d7174196ca295d03162e9579f64cc233b006444acabd667ca"
 
 [[files]]
 file = "kubejs/data/tetra/recipes/hammer/granite.json"
-hash = "a608240d1eeead64a602ae6ef4905de086c8480c3569810ab1deaa4448e11c8c"
+hash = "36801352e33c61ff5c2e1c37fd47d62a28f0b69ea4c0de8b46ae73983930374c"
 
 [[files]]
 file = "kubejs/data/tetra/recipes/hammer/jungle.json"
@@ -1758,7 +1758,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/tetra/recipes/hammer/stone.json"
-hash = "e049c522065a1b5e34d9829d2b78e28531536496306d8cf39f6aabceaf6c3517"
+hash = "0f149aa147d3c81874a794c5ef716647eca3ee83f7b501d05eedb7c736088528"
 
 [[files]]
 file = "kubejs/data/tetra/schematics/double/basic_hammer/basic_hammer.json"

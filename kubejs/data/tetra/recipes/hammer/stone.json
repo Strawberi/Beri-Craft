@@ -1,1 +1,28 @@
-{"key":{"#":{"item":"minecraft:cobblestone"},"/":{"tag":"forge:rods/wooden"}},"pattern":[" # "," /#","/  "],"result":{"item":"tetra:modular_double","nbt":{"double/basic_hammer_left_material":"basic_hammer/stone","double/basic_hammer_right_material":"basic_hammer/stone","double/basic_handle_material":"basic_handle/stick","double/handle":"double/basic_handle","double/head_left":"double/basic_hammer_left","double/head_right":"double/basic_hammer_right","id":"78b6924d-3506-43be-a1e7-9ae990c38570"}},"type":"minecraft:crafting_shaped"}
+{
+    "key": {
+        "#": {
+            "item": "minecraft:cobblestone"
+        },
+        "/": {
+            "tag": "forge:rods/wooden"
+        }
+    },
+    "pattern": [
+        " # ",
+        " /#",
+        "/  "
+    ],
+    "result": {
+        "item": "tetra:modular_double",
+        "nbt": {
+            "double/basic_hammer_left_material": "basic_hammer/stone",
+            "double/basic_hammer_right_material": "basic_hammer/stone",
+            "double/basic_handle_material": "basic_handle/stick",
+            "double/handle": "double/basic_handle",
+            "double/head_left": "double/basic_hammer_left",
+            "double/head_right": "double/basic_hammer_right",
+            "id": "78b6924d-3506-43be-a1e7-9ae990c38570"
+        }
+    },
+    "type": "minecraft:crafting_shaped"
+}
