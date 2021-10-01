@@ -37,29 +37,7 @@
         "tetra:destabilization_improvements"
     ],
     "variants": [
-        {
-            "key": "basic_hammer/log",
-            "durability": 100,
-            "integrity": -1,
-            "magicCapacity": 90,
-            "damage": 4,
-            "attackSpeed": -0.35,
-            "glyph": {
-                "tint": "oak_glyph",
-                "textureX": 64
-            },
-            "models": [
-                {
-                    "location": "tetra:items/module/double/head/basic_hammer/log"
-                }
-            ],
-            "capabilities": {
-                "hammer": [
-                    1,
-                    5
-                ]
-            }
-        },
+
         {
             "key": "basic_hammer/stone",
             "durability": 300,
@@ -77,6 +55,8 @@
                     "tint": "stone"
                 }
             ],
+            "tools": {
+                "hammer": 0},
             "capabilities": {
                 "hammer": [
                     1,
@@ -101,6 +81,8 @@
                     "tint": "iron"
                 }
             ],
+            "tools": {
+                "hammer": 1},
             "capabilities": {
                 "hammer": [
                     2,
@@ -125,7 +107,7 @@
                 }
             ],
             "tools": {
-                "hammer": 3},
+                "hammer": 4},
             "capabilities": {
                 "hammer": [
                     4,
@@ -150,6 +132,8 @@
                     "tint": "copper"
                 }
             ],
+            "tools": {
+                "hammer": 0},
             "capabilities": {
                 "hammer": [
                     2,
@@ -174,6 +158,8 @@
                     "tint": "tin"
                 }
             ],
+            "tools": {
+                "hammer": 0},
             "capabilities": {
                 "hammer": [
                     1,
@@ -198,6 +184,8 @@
                     "tint": "nickel"
                 }
             ],
+            "tools": {
+                "hammer": 1},
             "capabilities": {
                 "hammer": [
                     3,
@@ -222,6 +210,8 @@
                     "tint": "lead"
                 }
             ],
+            "tools": {
+                "hammer": 0},
             "capabilities": {
                 "hammer": [
                     2,
@@ -246,6 +236,8 @@
                     "tint": "bronze"
                 }
             ],
+            "tools": {
+                "hammer": 2},
             "capabilities": {
                 "hammer": [
                     3,
@@ -294,6 +286,8 @@
                     "tint": "steel"
                 }
             ],
+            "tools": {
+                "hammer": 3},
             "capabilities": {
                 "hammer": [
                     4,
@@ -318,6 +312,8 @@
                     "tint": "thaumium"
                 }
             ],
+            "tools": {
+                "hammer": 3},
             "capabilities": {
                 "hammer": [
                     2,
