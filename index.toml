@@ -1258,7 +1258,7 @@ hash = "c13b9f7c3800d4fed7df684221acb284ea03bf5cf91bd2c07e7f143b51ee834f"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crude_steel_blend.json"
-hash = "a462dd3cb833cbdf9c9829e2f832f1f0153635d03ff6ac64bb3b005849302bd2"
+hash = "d2e1aab60dd375a71da5b53ae0a1278dce2cb8bfa66baae23ba80c3677b9ac04"
 
 [[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
@@ -1294,7 +1294,7 @@ hash = "f62fd71be93e257ead36015d10502cd4bc54653df6b5ed8554dbefd348cb6cfb"
 
 [[files]]
 file = "kubejs/data/beri/recipes/steel_grit_lowtech.json"
-hash = "a0566b9a81c55724808ae2be49c502ba031a96d8126fb932a5b60b217486a931"
+hash = "c751cd2671d78b28dfc9d311abe5675147b9f9f7510cd27c83a38ebd2a9b1fb1"
 
 [[files]]
 file = "kubejs/data/beri/recipes/stone_axe_head.json.off"
@@ -1774,7 +1774,7 @@ hash = "c3cb3121d88ce9d26960b460b9c856952cfa4c2a3d61d00ad5bb240fc37728e9"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "8cb7d00b156492320432711e5a67465075312fc9125976c748c999325d29511b"
+hash = "e61c15dd99a3039065694dd22724833e71975862e184e5940a92f7ccff487617"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
