@@ -1742,7 +1742,7 @@ hash = "3b95bd5f342f89e5e82e3e8276aac010c934dfab4dfdbe3771bfc8b441ac2ee1"
 
 [[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "c8311f644646a19f7c122e587559322b9b80a2ac6785ca0bed4d9e015f4496fa"
+hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
