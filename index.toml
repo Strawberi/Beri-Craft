@@ -2032,11 +2032,6 @@ hash = "b637161384d71e37357f89edfb161940f456e06cd7501aa9d6e0c4692c0bc485"
 metafile = true
 
 [[files]]
-file = "mods/mouse-tweaks.toml"
-hash = "b60a76112bedd03e43fb75f03f117abcc36efb06183028a818efc9791f537b82"
-metafile = true
-
-[[files]]
 file = "mods/mrcrayfishs-gun-mod.toml"
 hash = "cced16b6da6fbf197d3ee5a6db42752eeb9038faac68c1ab1f98598ef02fb6cf"
 metafile = true
