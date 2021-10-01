@@ -1258,7 +1258,7 @@ hash = "c13b9f7c3800d4fed7df684221acb284ea03bf5cf91bd2c07e7f143b51ee834f"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crude_steel_blend.json"
-hash = "be71cd0efb7b5b62f7d03f5d10b3985d35aa77e9a7b42952963fb78302b91478"
+hash = "a462dd3cb833cbdf9c9829e2f832f1f0153635d03ff6ac64bb3b005849302bd2"
 
 [[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
@@ -1519,6 +1519,10 @@ hash = "555e41cc4112eefa5cafc155c553586be317479deb868d85f4704ae1f885519d"
 [[files]]
 file = "kubejs/data/farmersdelight/recipes/wheat_dough.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/forge/tags/items/dusts/coal.json"
+hash = "ccf626744aba9bc5f4d5de8996a3f1dc582d31473e788607a861427a23a19a9d"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/ores/aluminum.json"

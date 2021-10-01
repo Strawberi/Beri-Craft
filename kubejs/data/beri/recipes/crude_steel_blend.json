@@ -2,7 +2,7 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "kubejs:coal_dust"
+            "tag": "forge:dusts/coal"
         },
         {
             "tag": "forge:dusts/iron"
