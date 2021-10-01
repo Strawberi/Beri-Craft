@@ -1721,6 +1721,46 @@ file = "kubejs/data/tetra/modules/double/basic_hammer.json"
 hash = "ab78f86eeecee0e6f7c2eda82f740751d7d2076bc54f0923d3309f59e60a3493"
 
 [[files]]
+file = "kubejs/data/tetra/recipes/hammer/acacia.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/andesite.json"
+hash = "d215068c4292cb2cbd0b24634c7b6ecc4d9628dcec338b02b19fb7ec553258b8"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/birch.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/dark_oak.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/diorite.json"
+hash = "7ce18f346a8b464a08e1e8b3b506d06ac41451f931fdf31a8d463f00994676c3"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/granite.json"
+hash = "a608240d1eeead64a602ae6ef4905de086c8480c3569810ab1deaa4448e11c8c"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/jungle.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/oak.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/spruce.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/stone.json"
+hash = "e049c522065a1b5e34d9829d2b78e28531536496306d8cf39f6aabceaf6c3517"
+
+[[files]]
 file = "kubejs/data/tetra/schematics/double/basic_hammer/basic_hammer.json"
 hash = "51b8c6f051c0006e3da96f954652699e167e36dafebb07002b796b6a3b1d1245"
 
