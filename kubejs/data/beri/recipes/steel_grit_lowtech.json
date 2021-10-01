@@ -2,16 +2,16 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "item": "kunejs:crude_steel_blend"
+            "item": "kubejs:crude_steel_blend"
         },
         {
-            "item": "kunejs:crude_steel_blend"
+            "item": "kubejs:crude_steel_blend"
         },
         {
-            "item": "kunejs:crude_steel_blend"
+            "item": "kubejs:crude_steel_blend"
         },
         {
-            "item": "kunejs:crude_steel_blend"
+            "item": "kubejs:crude_steel_blend"
         }
     ],
     "result": {

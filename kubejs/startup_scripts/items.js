@@ -10,7 +10,7 @@ onEvent("item.registry", event => {
   event.create("raw_uranium").displayName("Raw Uranium");
   event.create("heavy_bullet").displayName("Heavy Bullet");
   event.create("coal_dust").displayName("Coal Dust");
-  event.create("crude_steel_blend").displayName("Crude_Steel_Blend)");
+  event.create("crude_steel_blend").displayName("Crude_Steel_Blend");
 
   event.create("crude_iron_pickaxe")
     .displayName("Crude Iron Pickaxe")
