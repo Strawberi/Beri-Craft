@@ -1649,6 +1649,10 @@ file = "kubejs/data/minecraft/recipes/cookie.json"
 hash = "c08bbad6f958180804bce261331be2c04bc766af4b0dc9b90b9040492e08a329"
 
 [[files]]
+file = "kubejs/data/minecraft/recipes/crafting_table.json"
+hash = "bef6ab5e0a06f6a54f6ad9590e4c82cb96f7c74941882efb7e30b168004c3a86"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/golden_pickaxe.json"
 hash = "37449f2d6aa81d03f5104e3a2a9dafd13f0efa9069c66cfb61d954666a7eb833"
 
@@ -1944,6 +1948,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveposts.toml"
 hash = "074fe26b43c947529f861f5150325734c3b6b5ad471ee6054a13c8c3a34d6253"
+metafile = true
+
+[[files]]
+file = "mods/inventory-crafting-grid.toml"
+hash = "39cb78ab52c0ae773449a4db41d5c25dbbb8171ab195a0c7e455f210b68e3a50"
 metafile = true
 
 [[files]]

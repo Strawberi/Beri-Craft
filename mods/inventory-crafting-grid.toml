@@ -1,0 +1,14 @@
+name = "Inventory Crafting Grid"
+filename = "invcrafting-1.16.2-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3036/507/invcrafting-1.16.2-1.1.2.jar"
+hash-format = "murmur2"
+hash = "3206658074"
+
+[update]
+[update.curseforge]
+file-id = 3036507
+project-id = 232597
+release-channel = "beta"
