@@ -486,7 +486,7 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "config/instantunify-common.toml"
-hash = "9c1e2674de8068344061644ff93f863c8608f86bb393251be959a33e4ddf7b97"
+hash = "4f24eda496b0adf1e48a4c82e0eff2ed2ee10a37a43ba23bcd377fe04f2ff74b"
 
 [[files]]
 file = "config/jei-client.toml"
