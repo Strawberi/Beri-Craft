@@ -781,6 +781,10 @@ file = "config/toolstats-client.toml"
 hash = "387944baa260c82fdcd55116537dffb4ccefc527fa7f616085bf242b146d1095"
 
 [[files]]
+file = "defaultconfigs/carryon-server.toml"
+hash = "c50f9c2438d59c7ec0170f5ccc8f5c049e397a4fbf5927738b761c1c821c99da"
+
+[[files]]
 file = "defaultconfigs/dynamictrees-server.toml"
 hash = "2f3797106413fd1ee2165ec189f783f19e4f9e49a4d3297830323c895a9a4cfc"
 
