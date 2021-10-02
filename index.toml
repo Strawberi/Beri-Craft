@@ -1522,7 +1522,7 @@ hash = "8d1921cb8a14fac5508946f3512264b839a5b37be272397ce1bd15185342fa1e"
 
 [[files]]
 file = "kubejs/data/farmersdelight/recipes/apple_pie.json"
-hash = "2e19a5baf3b837816f798803b8aa93a112bdaace1f54538b6921027b59904bc5"
+hash = "ff1b305af97e22468e82f36715d6e246376d75d843500bece83be0c0daa72fa2"
 
 [[files]]
 file = "kubejs/data/farmersdelight/recipes/cake_from_milk_bottle.json"
@@ -1546,7 +1546,7 @@ hash = "f8effd6d73612895af37984a30aef79196600f4836b2183f9a07fe93feedb7bf"
 
 [[files]]
 file = "kubejs/data/farmersdelight/recipes/sweet_berry_cookie.json"
-hash = "555e41cc4112eefa5cafc155c553586be317479deb868d85f4704ae1f885519d"
+hash = "516d6b70242f3256e2fba0ecf9192aee22fef8f8328b2ddb650fbbf308b5bd6a"
 
 [[files]]
 file = "kubejs/data/farmersdelight/recipes/wheat_dough.json"
@@ -1903,6 +1903,11 @@ metafile = true
 [[files]]
 file = "mods/autoreglib.toml"
 hash = "ed2dbc59edaa7a59d44ec39b9f95cae4f0a345060442a9b698e59ed549924525"
+metafile = true
+
+[[files]]
+file = "mods/bedspreads.toml"
+hash = "e44776a6c22d50b2e0be995028caadf8e1765a3f9809ce276ddc5fb94af11605"
 metafile = true
 
 [[files]]
