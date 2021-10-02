@@ -485,6 +485,10 @@ file = "config/immersivepetroleum-common.toml"
 hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
+file = "config/instantunify-common.toml"
+hash = "9c1e2674de8068344061644ff93f863c8608f86bb393251be959a33e4ddf7b97"
+
+[[files]]
 file = "config/jei-client.toml"
 hash = "69034c507e383e52e32de0c3b90adb213aec81d305d531a20adeb147c56fdda7"
 
