@@ -854,7 +854,7 @@ hash = "92c885cea225ed232bfb6c02a31e62dcd1a41ee5fc0e34f722bd89ba89c9ef96"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/crude_steel_blend.png"
-hash = "86ba4068ca3413eee057b07908e7315ddc669bf8f3160a4830f8cc74085c3c15"
+hash = "29a8057552ace5348b7a46d1e03949759c882bd65e763394bf28487243774e7e"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/crude_stone_pickaxe.png"
@@ -1863,6 +1863,10 @@ hash = "5c354fbb04344bab12eecf4979f16372a9910df9c669479141c9edc47e775e64"
 [[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
+
+[[files]]
+file = "kubejs/startup_scripts/stair_slab.js"
+hash = "1e5553ca765d989662011f0e49764c5fb2d9c3a8f3f2b4ee7be4c0a1b0d9f814"
 
 [[files]]
 file = "mods/additional-guns.toml"
