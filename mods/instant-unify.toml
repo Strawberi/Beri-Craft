@@ -1,6 +1,6 @@
 name = "InstantUnify+"
 filename = "instantunify-1.16.4-1.0.0.jar"
-side = "both"
+side = "server"
 
 [download]
 url = "https://edge.forgecdn.net/files/3223/385/instantunify-1.16.4-1.0.0.jar"

@@ -2061,7 +2061,7 @@ metafile = true
 
 [[files]]
 file = "mods/instant-unify.toml"
-hash = "c6ea637cdac8178953f2383b2c9b96771a796bbe2270dccd403908b74a9e7f60"
+hash = "bb2830541a7eb227ad00f7556eda4fc57e269397358ec94ce4f92e9ef4a09aaf"
 metafile = true
 
 [[files]]
