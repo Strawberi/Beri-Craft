@@ -781,6 +781,10 @@ file = "config/toolstats-client.toml"
 hash = "387944baa260c82fdcd55116537dffb4ccefc527fa7f616085bf242b146d1095"
 
 [[files]]
+file = "defaultconfigs/dynamictrees-server.toml"
+hash = "7c8a93776d09da40c17d63baded4a5c17751fb09044793d99bf59d86ab791393"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
 
