@@ -782,7 +782,7 @@ hash = "387944baa260c82fdcd55116537dffb4ccefc527fa7f616085bf242b146d1095"
 
 [[files]]
 file = "defaultconfigs/dynamictrees-server.toml"
-hash = "7c8a93776d09da40c17d63baded4a5c17751fb09044793d99bf59d86ab791393"
+hash = "2f3797106413fd1ee2165ec189f783f19e4f9e49a4d3297830323c895a9a4cfc"
 
 [[files]]
 file = "kubejs/README.txt"
