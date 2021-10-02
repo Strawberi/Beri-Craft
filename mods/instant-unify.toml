@@ -1,0 +1,14 @@
+name = "InstantUnify+"
+filename = "instantunify-1.16.4-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3223/385/instantunify-1.16.4-1.0.0.jar"
+hash-format = "murmur2"
+hash = "2858820134"
+
+[update]
+[update.curseforge]
+file-id = 3223385
+project-id = 452358
+release-channel = "beta"

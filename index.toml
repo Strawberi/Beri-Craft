@@ -1258,15 +1258,31 @@ hash = "c13b9f7c3800d4fed7df684221acb284ea03bf5cf91bd2c07e7f143b51ee834f"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crude_steel_blend.json"
-hash = "d2e1aab60dd375a71da5b53ae0a1278dce2cb8bfa66baae23ba80c3677b9ac04"
+hash = "da848fa49deb003671158904410633352dcb20fe1b392aed0f0d8c8e32b95ee5"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/coal.json"
-hash = "e427dc896a3aa29afdd9f87456892efdbae10994854fd3b8e3c3ea0847a58fa2"
+hash = "c6d124d3df0f4d63d1e080fe12ee1ebc2e14ef0ea9a2d590b23141fef71ac4b7"
 
 [[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
 hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
+
+[[files]]
+file = "kubejs/data/beri/recipes/ingot_lead.json"
+hash = "a19d6693f516ceb61af703ed29bbce9ad0e808ef34a33dbb292e17737eac3752"
+
+[[files]]
+file = "kubejs/data/beri/recipes/ingot_lead_blasting.json"
+hash = "a50ce8ca61f0b370531f6119b3c2d5aa72feb98f4e7e07886998f0d2ae80a60a"
+
+[[files]]
+file = "kubejs/data/beri/recipes/ingot_tin.json"
+hash = "04402e9260b44a9be49fa105871dd23b9bee069f9cec5e74a1241bb1cbfd51ef"
+
+[[files]]
+file = "kubejs/data/beri/recipes/ingot_tin_blasting.json"
+hash = "ef92da8320a384517436579380d6ba09d445dfe14703ba718e0d13a6bbaf3a8a"
 
 [[files]]
 file = "kubejs/data/beri/recipes/milling/mill_dragon_bones.json"
@@ -1609,6 +1625,10 @@ file = "kubejs/data/immersiveengineering/recipes/crafting/cloche.json"
 hash = "90241326191b440dc72977b9f6bee686c8c67e1e6b822efcdf1703b56658e282"
 
 [[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/crate.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/data/immersiveengineering/recipes/crafting/ingot_aluminum.json"
 hash = "01a3bfb074fcb0355341c689036a62c8aba73cc2cf15cc7c8f234011aac7793b"
 
@@ -1623,6 +1643,14 @@ hash = "7abf173561e2763da47244b8d46d4cfda9cd2617d6a91b4e97ec53bd80961e04"
 [[files]]
 file = "kubejs/data/immersiveengineering/recipes/crafting/ingot_nickel_from_blasting.json"
 hash = "7c96983c9574b3209908811860b004a9e717ca3cc033729b0a92ff194721409c"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/ingot_silver.json"
+hash = "9c67cfe1d4fa79b9cb6edcf505da1fbb9f29ecb42d08e5139f1627cee598fc10"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/ingot_silver_from_blasting.json"
+hash = "7c96014c371428bc24545ff6d5bc8e5826d277fa4febdea0a076d4ca07cdc188"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/recipes/crafting/ingot_uranium.json"
@@ -1826,7 +1854,7 @@ hash = "c3cb3121d88ce9d26960b460b9c856952cfa4c2a3d61d00ad5bb240fc37728e9"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "e61c15dd99a3039065694dd22724833e71975862e184e5940a92f7ccff487617"
+hash = "d6157a4e6bb5bd9031229d4a1369f11b7d3412c25fa7852891aabf64263333eb"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
@@ -2012,6 +2040,11 @@ hash = "dc748103c8da0a9f1005c86089ce1ff741c4665fd63f014c331a534c21951baf"
 metafile = true
 
 [[files]]
+file = "mods/immersive-cooking.toml"
+hash = "26dbfa9039c2e49f32cf58baded97d78f57f72037184ebe40477b8c6232018f4"
+metafile = true
+
+[[files]]
 file = "mods/immersive-engineering.toml"
 hash = "82f52970f62977bc20c5736b67fcd8ebe5c9809f58ae9fccbbf495c06a38cda5"
 metafile = true
@@ -2024,6 +2057,11 @@ metafile = true
 [[files]]
 file = "mods/immersiveposts.toml"
 hash = "074fe26b43c947529f861f5150325734c3b6b5ad471ee6054a13c8c3a34d6253"
+metafile = true
+
+[[files]]
+file = "mods/instant-unify.toml"
+hash = "c6ea637cdac8178953f2383b2c9b96771a796bbe2270dccd403908b74a9e7f60"
 metafile = true
 
 [[files]]

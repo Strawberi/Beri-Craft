@@ -8,7 +8,12 @@
     "results": [
       {
         "item": "kubejs:coal_dust",
-        "count": 2
+        "count": 1
+      },
+      {
+        "item": "kubejs:coal_dust",
+        "count": 1,
+        "chance": 0.1
       },
       {
         "item": "minecraft:black_dye",
