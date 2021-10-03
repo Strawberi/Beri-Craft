@@ -1274,7 +1274,7 @@ hash = "da848fa49deb003671158904410633352dcb20fe1b392aed0f0d8c8e32b95ee5"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/coal.json"
-hash = "f403e3b87d059658982cf6b2f217296b970a7ab210675d8e50592f1edd8013d5"
+hash = "28e2bda37baa251d75919f384244d41f5e31375ed2ef0c4fbe4cbe9b85e79412"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/raw_copper_block.json"
@@ -1554,7 +1554,7 @@ hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/coal.json"
-hash = "47a53a2404e46309f2b9b7457585237484e94df36d2ce6f62036a012b8d92edf"
+hash = "15f354250778e7ef867d59ef447e5e11c110440b88f96df26e8da604d237b388"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/wheat.json"
