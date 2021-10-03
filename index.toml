@@ -1277,6 +1277,18 @@ file = "kubejs/data/beri/recipes/crushing/coal.json"
 hash = "c6d124d3df0f4d63d1e080fe12ee1ebc2e14ef0ea9a2d590b23141fef71ac4b7"
 
 [[files]]
+file = "kubejs/data/beri/recipes/crushing/raw_copper_block.json"
+hash = "13291d9f06cae026476a7b318da730117e48991d01044725b04692f3fdb23d01"
+
+[[files]]
+file = "kubejs/data/beri/recipes/crushing/raw_gold_block.json"
+hash = "243024b2dafcfab0a6634b513f61476411ab2614b0bf043c08c499676018c3fd"
+
+[[files]]
+file = "kubejs/data/beri/recipes/crushing/raw_iron_block.json"
+hash = "0e47763e413624daf2b37171f525437e4515da4b01945a68d1bf560739fb3d13"
+
+[[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
 hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
 
@@ -1315,6 +1327,18 @@ hash = "ef92da8320a384517436579380d6ba09d445dfe14703ba718e0d13a6bbaf3a8a"
 [[files]]
 file = "kubejs/data/beri/recipes/milling/mill_dragon_bones.json"
 hash = "dcad7ed9c1f37dda345ccd49d20a78cef1966eac0fb85474eaa92df3256c5361"
+
+[[files]]
+file = "kubejs/data/beri/recipes/milling/raw_copper_block.json"
+hash = "8873985d43f53c6b53ab339f49dd2e61c7b23e6fd8ce6c7a844a30cdffd0770c"
+
+[[files]]
+file = "kubejs/data/beri/recipes/milling/raw_gold_block.json"
+hash = "960d8b229b32243909c175677147f8724c776e2d3a6cd4b818e61d46d9594516"
+
+[[files]]
+file = "kubejs/data/beri/recipes/milling/raw_iron_block.json"
+hash = "a603cb7ec1bede0d7c3483322298984baedc6017deeee2cf5828ffdaa61220f7"
 
 [[files]]
 file = "kubejs/data/beri/recipes/mud_block.json"
