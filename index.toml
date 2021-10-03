@@ -1274,7 +1274,7 @@ hash = "da848fa49deb003671158904410633352dcb20fe1b392aed0f0d8c8e32b95ee5"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/coal.json"
-hash = "c6d124d3df0f4d63d1e080fe12ee1ebc2e14ef0ea9a2d590b23141fef71ac4b7"
+hash = "f403e3b87d059658982cf6b2f217296b970a7ab210675d8e50592f1edd8013d5"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/raw_copper_block.json"
@@ -1554,7 +1554,7 @@ hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/coal.json"
-hash = "177b77d2570aafb31636f8b79d57b0bcefca429b9ac8a0cea03875839a93aa08"
+hash = "47a53a2404e46309f2b9b7457585237484e94df36d2ce6f62036a012b8d92edf"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/wheat.json"
@@ -2172,6 +2172,11 @@ metafile = true
 [[files]]
 file = "mods/mgui.toml"
 hash = "b637161384d71e37357f89edfb161940f456e06cd7501aa9d6e0c4692c0bc485"
+metafile = true
+
+[[files]]
+file = "mods/miners-helmet.toml"
+hash = "cc3b212c466b2b3c1fa3d1cfc978c68d9c76a06984a8ca389107d82e6d091b60"
 metafile = true
 
 [[files]]
