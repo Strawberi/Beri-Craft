@@ -1281,6 +1281,22 @@ file = "kubejs/data/beri/recipes/flint_axe.json"
 hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
 
 [[files]]
+file = "kubejs/data/beri/recipes/fried_potato_cubes.json"
+hash = "cda3f2474ae39da7a1a5ca90705e0ab940605e9451a002695913c8857a3b7a78"
+
+[[files]]
+file = "kubejs/data/beri/recipes/fried_potato_cubes_smoker.json"
+hash = "fe2b095f8fdff2e13ecd660f2da34ed9e28d121f46d82b12cef7a40f0d7d548b"
+
+[[files]]
+file = "kubejs/data/beri/recipes/fried_potato_slice.json"
+hash = "45b836257df2c5da19061ca04a4b318d3dc6e17dcaaed7251268af008fdc8132"
+
+[[files]]
+file = "kubejs/data/beri/recipes/fried_potato_slice_smoker.json"
+hash = "987230403aaad19aee9753014bfd63d4b70f3405ad776bad903cfb8f0909e8e2"
+
+[[files]]
 file = "kubejs/data/beri/recipes/ingot_lead.json"
 hash = "a19d6693f516ceb61af703ed29bbce9ad0e808ef34a33dbb292e17737eac3752"
 
@@ -1611,6 +1627,10 @@ hash = "a1e8f73f6bafd2ce36fa5ca3c347086f4d1fd0ba611f7f178b1c4ba34557455b"
 [[files]]
 file = "kubejs/data/iceandfire/recipes/copper_sword.json"
 hash = "2283f28e445bc5dca665739385bd1609968d6e6ffed1a01823d76923948ef8be"
+
+[[files]]
+file = "kubejs/data/immersivecooking/recipes/fried_potato_cubes.json"
+hash = "227bf0700953f0c2c4438a5fe4b7c6ab27defbe6d01574d4d1db4e4165f09550"
 
 [[files]]
 file = "kubejs/data/immersiveengineering/loot_tables/blocks/ore_aluminum.json"

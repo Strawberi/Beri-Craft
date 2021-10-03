@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "immersivecooking:potato_slice"
+  },
+  "result": "immersivecooking:fried_potato_slice",
+  "experience": 0.35,
+  "cookingtime": 600
+}
