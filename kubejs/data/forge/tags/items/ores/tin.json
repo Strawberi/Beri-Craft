@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "kubejs:raw_tin"
+    "kubejs:raw_tin",
+    "kubejs:tin_ore"
   ]
 }

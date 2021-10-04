@@ -7,7 +7,7 @@
       "type": "minecraft:alternatives",
       "children": [{
         "type": "minecraft:item",
-        "name": "thermal:tin_ore",
+        "name": "kubejs:tin_ore",
         "conditions": [{
           "condition": "minecraft:match_tool",
           "predicate": {

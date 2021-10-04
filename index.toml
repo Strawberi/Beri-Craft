@@ -1642,7 +1642,7 @@ hash = "dcd3a62a1d3e894c9e054c1504d925899593803658ac14c7938b22c2b74ea5eb"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/ores/tin.json"
-hash = "3be585568ec81c7916de1785cb6f5da598b25510628b7d7fe01d3ab470679a20"
+hash = "c3affcb2b8a49afd92a3fee73f7ff04beae5bb16943346ccdae5d28d145966b1"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/ores/uranium.json"
@@ -1754,7 +1754,7 @@ hash = "0d14ea85678b206402f7bf27f5a2658a90118c86ed7111cde7222726bd1d4c4c"
 
 [[files]]
 file = "kubejs/data/kubejs/loot_tables/blocks/tin_ore.json"
-hash = "a9decf8d5a5c0a3e7b463eeed6369ce1afebf61124ea36e62aac375c6b052dbc"
+hash = "1594e92d513c62578df1bebe6a78686b452ff7d05f6733f82eacbae6c44a99cf"
 
 [[files]]
 file = "kubejs/data/kubejs/tags/items/muddy_balls.json"
