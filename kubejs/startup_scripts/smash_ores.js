@@ -1,17 +1,20 @@
 // priority: 0
 
 let ores = {
-    copper: "immersiveengineering:dust_copper",
+    copper: "thermal:copper_dust",
     aluminum: "immersiveengineering:dust_aluminum",
-    lead: "immersiveengineering:dust_lead",
-    silver: "immersiveengineering:dust_silver",
-    nickel: "immersiveengineering:dust_nickel",
+    lead: "thermal:lead_dust",
+    silver: "thermal:silver_dust",
+    nickel: "thermal:nickel_dust",
     uranium: "immersiveengineering:dust_uranium",
-    iron: "immersiveengineering:dust_iron",
-    gold: "immersiveengineering:dust_gold"
+    iron: "thermal:iron_dust",
+    gold: "thermal:gold_dust",
+    tin: "thermal:tin_dust"
   };
   
   onEvent("recipes", event => {
-    for (let [input, output] of Object.entries(ores))
+    for (let input in ores) {
+      let output = ores[input];
       event.shapeless(output, [ "#kubejs:rocks", "#forge:ores/" + input ]);
+    }
   });
