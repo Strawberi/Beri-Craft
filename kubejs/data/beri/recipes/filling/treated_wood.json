@@ -5,7 +5,7 @@
         "tag": "minecraft:planks"
       },
       {
-        "fluid": "thermal:creosote_oil",
+        "fluid": "immersiveengineering:creosote",
         "nbt": {},
         "amount": 100
       }
