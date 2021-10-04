@@ -1290,7 +1290,7 @@ hash = "0e47763e413624daf2b37171f525437e4515da4b01945a68d1bf560739fb3d13"
 
 [[files]]
 file = "kubejs/data/beri/recipes/filling/treated_wood.json"
-hash = "5aaa07d3706b8be123883440074b443d5f736646100f117febd00f1bdb86c114"
+hash = "05828c8febc0e4af61973ee0721ee95f6cccefc0fb45ea4a00534433a7ae6d6e"
 
 [[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
