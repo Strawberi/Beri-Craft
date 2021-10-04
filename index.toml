@@ -549,6 +549,10 @@ file = "config/oretweaker/data/coal_ore.json"
 hash = "72ece77cb098dc2bf7ae18b74c4ecf576cc99aef2cd82e2de692ef13c9bf1704"
 
 [[files]]
+file = "config/oretweaker/data/copper_gravel.json"
+hash = "d24d26c3bafededf942f7209ad891506af11a59ddedda7f43261f7e57d51585d"
+
+[[files]]
 file = "config/oretweaker/data/copper_sand.json"
 hash = "cf336162e732a14457864285fedd13f60b04d30b269380349692e477704ec2d9"
 
@@ -791,6 +795,10 @@ hash = "2f3797106413fd1ee2165ec189f783f19e4f9e49a4d3297830323c895a9a4cfc"
 [[files]]
 file = "kubejs/README.txt"
 hash = "35e3c6ff70236e1bb6bf1f12fdbabc9a3e9941cb4e3c3567b5c697d34b210b36"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/copper_gravel.png"
+hash = "19ac6c971a0ddaec7c9433ad8e99d4302426dcd3b84d4201f65cf7a6e8cfa9fe"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/copper_sand.png"
@@ -1729,8 +1737,12 @@ file = "kubejs/data/immersiveengineering/recipes/crafting/ingot_uranium_from_bla
 hash = "59a2ed000cda8fbb7cfee169df0d67853584753f0e4594fd47dd62d194998654"
 
 [[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/copper_gravel.json"
+hash = "0d14ea85678b206402f7bf27f5a2658a90118c86ed7111cde7222726bd1d4c4c"
+
+[[files]]
 file = "kubejs/data/kubejs/loot_tables/blocks/copper_sand.json"
-hash = "918fa9c30b0748699ab17d6c875d33f3437f306bcb0491c8ff18e4b1ed99437b"
+hash = "0d14ea85678b206402f7bf27f5a2658a90118c86ed7111cde7222726bd1d4c4c"
 
 [[files]]
 file = "kubejs/data/kubejs/tags/items/muddy_balls.json"
@@ -1815,6 +1827,10 @@ hash = "83993ffeee0156aaf228157e9c936058a783dd98e3c008ebf43cf4e82693fb49"
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_hammer.json"
 hash = "ab78f86eeecee0e6f7c2eda82f740751d7d2076bc54f0923d3309f59e60a3493"
+
+[[files]]
+file = "kubejs/data/tetra/modules/double/basic_pickaxe.json"
+hash = "8fa5864602cc13d151dbf5c3fac49b0872c4a452aa7228906ae513d67f4ef736"
 
 [[files]]
 file = "kubejs/data/tetra/recipes/hammer/acacia.json"
@@ -1918,7 +1934,7 @@ hash = "62fb631c6e06f6c5e9d88fcd93ffe25e4524ccb5439523b2609e6a45c1fcbd19"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
-hash = "c3cb3121d88ce9d26960b460b9c856952cfa4c2a3d61d00ad5bb240fc37728e9"
+hash = "b230d5a51f5ee9990fe307bd5e510445682e80100197671f8397d66d0bb04040"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"

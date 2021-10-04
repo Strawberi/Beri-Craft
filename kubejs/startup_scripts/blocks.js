@@ -3,5 +3,10 @@ onEvent('block.registry', event => {
         .material('sand')
         .hardness(1.0)
         .harvestTool("shovel",0)
-        .displayName('Coppery Sand')
+        .displayName('Coppery Sand');
+    event.create('copper_gravel')
+        .material('sand')
+        .hardness(1.0)
+        .harvestTool("shovel",0)
+        .displayName('Coppery Gravel')
 })
