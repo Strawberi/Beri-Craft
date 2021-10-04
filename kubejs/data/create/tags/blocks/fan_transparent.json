@@ -1,0 +1,20 @@
+{
+    "replace": false,
+    "values": [
+      "create:blaze_burner",
+      "create:lit_blaze_burner",
+      "create:sail_frame",
+      "#minecraft:fences",
+      "minecraft:iron_bars",
+      "minecraft:campfire",
+      "minecraft:soul_campfire",
+      "quark:grate",
+      "minecraft:chain",
+      "quark:gold_bars",
+      "betterendforge:thallasium_bars",
+      "betterendforge:thallasium_chain",
+      "betterendforge:terminite_bars",
+      "betterendforge:terminite_chain",
+      "farmersdelight:safety_net"
+    ]
+  }

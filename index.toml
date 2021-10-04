@@ -1289,6 +1289,10 @@ file = "kubejs/data/beri/recipes/crushing/raw_iron_block.json"
 hash = "0e47763e413624daf2b37171f525437e4515da4b01945a68d1bf560739fb3d13"
 
 [[files]]
+file = "kubejs/data/beri/recipes/filling/treated_wood.json"
+hash = "5aaa07d3706b8be123883440074b443d5f736646100f117febd00f1bdb86c114"
+
+[[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"
 hash = "243ecbfca924f44ca277b269d4501144c2b58da60c48e0937fce0240f17b3657"
 
@@ -1347,6 +1351,10 @@ hash = "78910df8c416d68d9419adfed4937f9ce8527b47e961182457da8e9e60df8106"
 [[files]]
 file = "kubejs/data/beri/recipes/name_tag.json"
 hash = "1165c0d3184828118db0ad4aa50d1d23151fd5882f503e1022e3ef7f63be20d1"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/steel_ingot.json"
+hash = "33df3248d19ce682923c30b926ddc45b811477b7fc5f2f08c66823c255aad619"
 
 [[files]]
 file = "kubejs/data/beri/recipes/sift_course_dirt_to_rocks.json.off"
@@ -1559,6 +1567,10 @@ hash = "15f354250778e7ef867d59ef447e5e11c110440b88f96df26e8da604d237b388"
 [[files]]
 file = "kubejs/data/create/recipes/milling/wheat.json"
 hash = "8d1921cb8a14fac5508946f3512264b839a5b37be272397ce1bd15185342fa1e"
+
+[[files]]
+file = "kubejs/data/create/tags/blocks/fan_transparent.json"
+hash = "811562a278a0841999f88881800ae52494d1e8724bba5cb165618a27b51e292e"
 
 [[files]]
 file = "kubejs/data/farmersdelight/recipes/apple_pie.json"
