@@ -617,6 +617,10 @@ file = "config/oretweaker/data/soul_sand.json"
 hash = "874459d8d3c5295df179b42f89892daf309a935fe72c8094e266635410c852b2"
 
 [[files]]
+file = "config/oretweaker/data/tin_ore.json"
+hash = "1dad143f266a229f214a75bff94ccfc1a84b058dfd17bbe3d6d060d06e3ecbb9"
+
+[[files]]
 file = "config/oretweaker/templates/collectives/default.json"
 hash = "0ddae6ecc61ad7bad8ac1d061e5c59802d9e560c05e772e743d19951ff4c1616"
 
@@ -807,6 +811,10 @@ hash = "438abc3d6d885e1353531bdf25b6f871393b5231daf8261d06928eaac78e431e"
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/example_block.png"
 hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
+
+[[files]]
+file = "kubejs/assets/kubejs/textures/block/tin_ore.png"
+hash = "55da93da441deab34f7d35451d34fc546bdac44b78c0fc52497a5949fc2371a2"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/andesite.png"
@@ -1745,6 +1753,10 @@ file = "kubejs/data/kubejs/loot_tables/blocks/copper_sand.json"
 hash = "0d14ea85678b206402f7bf27f5a2658a90118c86ed7111cde7222726bd1d4c4c"
 
 [[files]]
+file = "kubejs/data/kubejs/loot_tables/blocks/tin_ore.json"
+hash = "a9decf8d5a5c0a3e7b463eeed6369ce1afebf61124ea36e62aac375c6b052dbc"
+
+[[files]]
 file = "kubejs/data/kubejs/tags/items/muddy_balls.json"
 hash = "0007071e7ed08b6c4ead0fe63b8b77cbbc1c08d5286c08ebf6936c29abed78d3"
 
@@ -1934,7 +1946,7 @@ hash = "62fb631c6e06f6c5e9d88fcd93ffe25e4524ccb5439523b2609e6a45c1fcbd19"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
-hash = "b230d5a51f5ee9990fe307bd5e510445682e80100197671f8397d66d0bb04040"
+hash = "51e6ef7f21f17498391c69c0511ff448eaf56621c183e6b4a8dd3cd32c10e1a4"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
@@ -2055,11 +2067,6 @@ metafile = true
 [[files]]
 file = "mods/create.toml"
 hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
-metafile = true
-
-[[files]]
-file = "mods/curios.toml"
-hash = "6863c605825840c601d9c8aea1456c5dbbd613b9037e7b6fe26e256748cbadfb"
 metafile = true
 
 [[files]]
@@ -2200,11 +2207,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.toml"
 hash = "27c6f8450c1535037091cd988a4b9adb09f75ee2c770b64c11ed2b22ec7b9413"
-metafile = true
-
-[[files]]
-file = "mods/mcdoom.toml"
-hash = "fffdf726ab2fb62726d77547da673db736bdb8c6fcfc491a2ed7746b3c4f82a2"
 metafile = true
 
 [[files]]

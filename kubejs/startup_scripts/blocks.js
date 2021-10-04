@@ -5,8 +5,13 @@ onEvent('block.registry', event => {
         .harvestTool("shovel",0)
         .displayName('Coppery Sand');
     event.create('copper_gravel')
-        .material('sand')
+        .material('clay')
         .hardness(1.0)
         .harvestTool("shovel",0)
-        .displayName('Coppery Gravel')
+        .displayName('Coppery Gravel');
+        event.create('tin_ore')
+            .material('ground')
+            .hardness(1.5)
+            .harvestTool("pickaxe",1)
+            .displayName('Tin Ore')
 })
