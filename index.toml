@@ -2042,6 +2042,11 @@ hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
 metafile = true
 
 [[files]]
+file = "mods/curios.toml"
+hash = "6863c605825840c601d9c8aea1456c5dbbd613b9037e7b6fe26e256748cbadfb"
+metafile = true
+
+[[files]]
 file = "mods/ding.toml"
 hash = "ff3492c9823aef1547c62807ba70e203d574011f4932e111a90c70d895b3bc36"
 metafile = true
@@ -2179,6 +2184,11 @@ metafile = true
 [[files]]
 file = "mods/mantle.toml"
 hash = "27c6f8450c1535037091cd988a4b9adb09f75ee2c770b64c11ed2b22ec7b9413"
+metafile = true
+
+[[files]]
+file = "mods/mcdoom.toml"
+hash = "fffdf726ab2fb62726d77547da673db736bdb8c6fcfc491a2ed7746b3c4f82a2"
 metafile = true
 
 [[files]]
