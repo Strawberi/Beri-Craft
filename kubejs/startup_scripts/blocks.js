@@ -12,7 +12,7 @@ onEvent('block.registry', event => {
         event.create('tin_ore')
             .material('ground')
             .hardness(2)
-            .harvestTool("pickaxe", 1)
+            .harvestTool("pickaxe", 0)
             .requiresTool(true)
             .displayName('Tin Ore')
 })
