@@ -1946,7 +1946,7 @@ hash = "62fb631c6e06f6c5e9d88fcd93ffe25e4524ccb5439523b2609e6a45c1fcbd19"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
-hash = "51e6ef7f21f17498391c69c0511ff448eaf56621c183e6b4a8dd3cd32c10e1a4"
+hash = "67c302351c78c1883d1079b1ac59f913387ed52a6f2532a77951d77355aa2f77"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"

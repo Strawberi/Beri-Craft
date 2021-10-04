@@ -11,7 +11,7 @@ onEvent('block.registry', event => {
         .displayName('Coppery Gravel');
         event.create('tin_ore')
             .material('ground')
-            .hardness(1.5)
+            .hardness(2)
             .harvestTool("pickaxe",1)
             .displayName('Tin Ore')
 })
