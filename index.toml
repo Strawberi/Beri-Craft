@@ -1961,6 +1961,10 @@ file = "kubejs/startup_scripts/script.js"
 hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
 
 [[files]]
+file = "kubejs/startup_scripts/smash_ores.js"
+hash = "410bcac41f4baf7c9987ee0b784ee94f1c0a4f6fcedf7cbf8703bb3edfd82c21"
+
+[[files]]
 file = "kubejs/startup_scripts/stair_slab.js"
 hash = "1e5553ca765d989662011f0e49764c5fb2d9c3a8f3f2b4ee7be4c0a1b0d9f814"
 
