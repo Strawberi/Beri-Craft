@@ -274,7 +274,7 @@ hash = "14eb4e8cd105c580403c4e5bc6bba831c81aedcf4e6e04485c74e9d3f253689f"
 
 [[files]]
 file = "config/forgery/features.ini"
-hash = "3fb5e205ed0dff9f39cf7f480b155107138c56210282155bf1cd19a6fa69762c"
+hash = "9d421c725db66f3034509d6dac23a8014b198c7b450b4bdba07bc2c6f1c8415f"
 
 [[files]]
 file = "config/forgery/gear_components.ini"
