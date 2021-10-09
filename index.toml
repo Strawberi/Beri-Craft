@@ -2259,6 +2259,11 @@ hash = "1011ba5c105306e0e47bf9a112ae8ff0edc8018729c91d80f97cb06b682200c3"
 metafile = true
 
 [[files]]
+file = "mods/project-vibrant-journeys.toml"
+hash = "2140278e598f0d8bb471ca310d34c76526ec405d11642a85435b71d0825f58d3"
+metafile = true
+
+[[files]]
 file = "mods/quark.toml"
 hash = "32a1e8920cc2dd267e48ebdf906d46cab46abaca9451d68dde16afb642ce8ef5"
 metafile = true
