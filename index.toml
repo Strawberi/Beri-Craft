@@ -1653,10 +1653,6 @@ file = "kubejs/data/kubejs/tags/items/rocks/flint.json"
 hash = "a8d8699dc93ac53ee42ca75e9ff3f359c79d087b2ae2ae07d1e6b1bdf390dac1"
 
 [[files]]
-file = "kubejs/data/kubejs/tags/items/rocks/rocks.json"
-hash = "485d1f5b2c84b919ff1daf9b1d18a7ead96babb757c57fbcbb3cf248a98b9bd0"
-
-[[files]]
 file = "kubejs/data/minecraft/recipes/bread.json"
 hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
 
@@ -1846,7 +1842,7 @@ hash = "5c354fbb04344bab12eecf4979f16372a9910df9c669479141c9edc47e775e64"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "849597780f489579d0c3af2b80d9d1209b152be22e2c270c9085623bbf0a5aea"
+hash = "8bcf2b40a2d1583088023f9ffcc5ab9befc0b21979d17a6e4a478c371984711d"
 
 [[files]]
 file = "kubejs/startup_scripts/smash_ores.js"

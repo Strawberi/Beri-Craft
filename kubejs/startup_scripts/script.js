@@ -11,3 +11,10 @@ onEvent('block.registry', event => {
 	// Register new blocks here
 	// event.create('example_block').material('wood').hardness(1.0).displayName('Example Block')
 })
+
+onEvent("item.tags", event => {
+	event.add("kubejs:rocks", "projectvibrantjourneys:rocks"),
+	event.add("kubejs:rocks", "projectvibrantjourneys:mossy_rocks"),
+	event.add("kubejs:rocks", "projectvibrantjourneys:sandstone_rocks"),
+	event.add("kubejs:rocks", "projectvibrantjourneys:red_sandstone_rocks")
+  });
