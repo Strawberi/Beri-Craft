@@ -654,7 +654,7 @@ hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
 
 [[files]]
 file = "config/projectvibrantjourneys-common.toml"
-hash = "be2e5e97cce1d0db5bffb7680371467d8eb4152d59800a4724144b04cc70c99a"
+hash = "72dcbd4c182636362c5cc491ab0413a71e8f8ef1985fdddf429d47b4f24beeb2"
 
 [[files]]
 file = "config/quark-common.toml"
