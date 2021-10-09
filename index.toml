@@ -5,18 +5,6 @@ file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
 [[files]]
-file = "config/appleskin-client.toml"
-hash = "28c6ad7570268b02ec6f73fb7c39c49ecf90f0697d0db9447899e8aa96285200"
-
-[[files]]
-file = "config/appliedenergistics2-client.toml"
-hash = "0e154d5657389d09cea9eba3e2635efd8678585ff8014495b052f05a22c56408"
-
-[[files]]
-file = "config/appliedenergistics2-common.toml"
-hash = "54ae19150f279393ac830362bf3a07558755811f769b61e29f389b57cfffcaa7"
-
-[[files]]
 file = "config/astikorcarts-common.toml"
 hash = "30f5a79804295955a5bed41f070d79a86188a179fabfde2752167b329e504b5e"
 
@@ -129,20 +117,12 @@ file = "config/biomesoplenty/generation.toml"
 hash = "b0501158fcf83813b097b4146e064213d203b82645f6024804eab167148a4fed"
 
 [[files]]
-file = "config/carryon-client.toml"
-hash = "29404dd87867d12c1e60bf3295f5f6fd4229d056ac321733fba1113020ad21e8"
-
-[[files]]
 file = "config/cavebiomeapi-common.toml"
 hash = "2a8e4a47f089bd8015bda106e82dea17cdf9a84b371c11023cd86f97eb4d58b9"
 
 [[files]]
 file = "config/cavesandcliffs-common.toml"
 hash = "fe257290ae30b9ab6c109c7e4fbfc06ed84823f0fd63a2072ff1906240a8fb56"
-
-[[files]]
-file = "config/cgm-client.toml"
-hash = "5b20b9de1ac60844cc5f5a78ce99bdf601b8861f2837bf97733601ce661c5765"
 
 [[files]]
 file = "config/cgm-common.toml"
@@ -153,24 +133,8 @@ file = "config/citadel-common.toml"
 hash = "4a3bccdef6b2d414178fb96395afacb53adced149e2b8b3ecb243b2af9cbb68a"
 
 [[files]]
-file = "config/cofh_core-client.toml"
-hash = "f377a53bbd1583306b1017016d5dc44580180fdf6b36ff1e607c40e41689ed45"
-
-[[files]]
-file = "config/create-client.toml"
-hash = "2cd8d0ac08ef78138f360943b8d35b428d22cc26b10f27fd2420d046cd06251a"
-
-[[files]]
 file = "config/create-common.toml"
 hash = "9d323a6dbd94ae66b0f5609fdfb08701972e9b5b127237a5506c9e16e9a7a23f"
-
-[[files]]
-file = "config/ding.toml"
-hash = "5843a334a054e0bd608e1797776d591c1122039b7ec6994f3598fdf5bf496f31"
-
-[[files]]
-file = "config/dragonsurvival-client.toml"
-hash = "f37bd54b5bcd1ff95b548467d29b1f02d1790619abdec78e53980c470d81cb00"
 
 [[files]]
 file = "config/dragonsurvival-common.toml"
@@ -209,48 +173,20 @@ file = "config/dsurround/sndctrl-client.toml"
 hash = "ce7d47b21e54279356c4c1bed5c161eccf3bc0f51e328474223ddecb512eca6c"
 
 [[files]]
-file = "config/dynamictrees-client.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
-
-[[files]]
 file = "config/dynamictrees-common.toml"
 hash = "f1e1189ad1343e34360a02c39344378eef4495ab8ae7daaf4378bd466dade240"
-
-[[files]]
-file = "config/enchdesc-client.toml"
-hash = "c95f882fb86e0e1c2011471c40fbaeb2605874c31138e36703d90897158c381d"
-
-[[files]]
-file = "config/extendedpasupport-client.toml"
-hash = "6a92628a37297269ea74659846c3fd8907f704ae617e8a13b2c74945a8b8a6c2"
-
-[[files]]
-file = "config/extremereactors/client.toml"
-hash = "e20d57474fea42fac3c81f6f0f3114def6579a8f41f74ff7f4887340f777c5e4"
 
 [[files]]
 file = "config/extremereactors/common.toml"
 hash = "330ffd1659c9173c20bdcd9d239edb3e51a13c4b64f03188801dc8eae3b4698f"
 
 [[files]]
-file = "config/farmersdelight-client.toml"
-hash = "e37ea6a7a84da2bfd1a7a29131795eb7fac23d8e0ff0d4bfd49f094d577b6516"
-
-[[files]]
 file = "config/farmersdelight-common.toml"
 hash = "08508f54221d77fc9030dda9bba839b8e91772fa409cc6f0027f15e916699b22"
 
 [[files]]
-file = "config/flywheel-client.toml"
-hash = "c3ff2780e4563a6f9d26427b6b0840aa7e09e2cd512cabc9f77ef0766c499fa2"
-
-[[files]]
 file = "config/fml.toml"
 hash = "2d17d5c8d36af6bf752373770e035dd9aaec9c4d8d3e55f9cf27df40e758e69a"
-
-[[files]]
-file = "config/forge-client.toml"
-hash = "484cfa54c6ff87c67e4601f6d081c2d0b9f1a2ebf4dccacd654903ada41dec43"
 
 [[files]]
 file = "config/forge-common.toml"
@@ -289,16 +225,8 @@ file = "config/forgery/yeet_recipes.ini"
 hash = "939cfc95ed4a7480ac08d3f692538a348af72c6db693349c61f93f926976d1f2"
 
 [[files]]
-file = "config/guardvillagers-client.toml"
-hash = "3c371923f2b6a24791995797d390904ef8975b9caf2c981339b8971361d07b0d"
-
-[[files]]
 file = "config/guardvillagers-common.toml"
 hash = "f5d0fbcbf769645dcc889eeecb4b6d17bef5d5d32a70fcc0b1a65438e25c2801"
-
-[[files]]
-file = "config/iceandfire-client.toml"
-hash = "6a48835020ef6d7b9fb64fdd3c9641892ef56d2076ba86a98d90e025f9e022b1"
 
 [[files]]
 file = "config/iceandfire-common.toml"
@@ -461,24 +389,12 @@ file = "config/iceandfire/wandering_cyclops_biomes.json"
 hash = "a8bab4c7dee78303dd3ed37ac5ae64e08ffc3b6d12865f6585e11f3fc28a44c0"
 
 [[files]]
-file = "config/immersive_portals-client.toml"
-hash = "23efdf7b7440e5ffc5cbab9b8f12bebae5471408a5ef0b389df5af707b5303d8"
-
-[[files]]
 file = "config/immersive_portals-common.toml"
 hash = "29a58fb61cf00e03a18f4c2cecd694345e174a3318bc164293d525000f48314b"
 
 [[files]]
-file = "config/immersiveengineering-client.toml"
-hash = "b9f2d27c901ec9236dfe19485cf62f371e26a6bb30285b3f084ae7a7c07ec371"
-
-[[files]]
 file = "config/immersiveengineering-common.toml"
 hash = "8b59553e592d95bee641af8e88dad5ea01f2c3a9aeb2ea5a3f7d2e6e3ac42b14"
-
-[[files]]
-file = "config/immersivepetroleum-client.toml"
-hash = "db0c3ac44a82c9b186fbebf10ad0dd66e5357d1aa25ee95b7b7de37f1a44c44f"
 
 [[files]]
 file = "config/immersivepetroleum-common.toml"
@@ -487,10 +403,6 @@ hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 [[files]]
 file = "config/instantunify-common.toml"
 hash = "4f24eda496b0adf1e48a4c82e0eff2ed2ee10a37a43ba23bcd377fe04f2ff74b"
-
-[[files]]
-file = "config/jei-client.toml"
-hash = "69034c507e383e52e32de0c3b90adb213aec81d305d531a20adeb147c56fdda7"
 
 [[files]]
 file = "config/jei/bookmarks.ini"
@@ -507,18 +419,6 @@ hash = "1a40d9bb6a344c7f5f6ea234717a125dda525055df5414e07da8348a5d80c56c"
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
 hash = "ad676f787cd943cd04cf1a7c45dda827554ab1c5b7ca8dec48e2031a0079b999"
-
-[[files]]
-file = "config/mantle-client.toml"
-hash = "bcdc80d141bdc59a355106e0c5d474019742d2bf8c853c87aa9c7d7b31172cb4"
-
-[[files]]
-file = "config/mumblelink-client.toml"
-hash = "6a92628a37297269ea74659846c3fd8907f704ae617e8a13b2c74945a8b8a6c2"
-
-[[files]]
-file = "config/offhandcombat-client.toml"
-hash = "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
 
 [[files]]
 file = "config/offhandcombat-common.toml"
@@ -753,8 +653,8 @@ file = "config/oretweaker/templates/remove/remove_stones_overworld.json"
 hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
 
 [[files]]
-file = "config/patchouli-client.toml"
-hash = "bd3927957d3d81fcabe610dc19d88abf989f91eb71bc1b89a20ea0676ab6f7a8"
+file = "config/projectvibrantjourneys-common.toml"
+hash = "be2e5e97cce1d0db5bffb7680371467d8eb4152d59800a4724144b04cc70c99a"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -765,24 +665,8 @@ file = "config/spiders-2.0.toml"
 hash = "d802de39aad74fb7d43eb533ae82d605776a3f0934d9c516f04e2c7a9ef0c0f7"
 
 [[files]]
-file = "config/tconstruct-client.toml"
-hash = "4a3f263f196c586b3d999dd90d0a1353db07d7e3203e0cbc28e64e51bae1aaab"
-
-[[files]]
-file = "config/tconstruct-common.toml"
-hash = "5b442aa8a9fc855a0286f4e3fa7079ea78e168dd1444fdaa2e945520189293a7"
-
-[[files]]
-file = "config/theoneprobe-client.toml"
-hash = "d8429186171a823d4700e0f042b526ae1a1e6661e2294180e3dcedc4324f7b50"
-
-[[files]]
 file = "config/theoneprobe-common.toml"
 hash = "33b978e22b9a0382041a23e83cb77870b5d8e78dca6515be1eb35ad90d334e01"
-
-[[files]]
-file = "config/thermal-client.toml"
-hash = "b48eb3e404c14595b185228f8c76a292a5c355d2e114427755096306acd96c4d"
 
 [[files]]
 file = "config/toolstats-client.toml"
@@ -1767,6 +1651,10 @@ hash = "a8d8699dc93ac53ee42ca75e9ff3f359c79d087b2ae2ae07d1e6b1bdf390dac1"
 [[files]]
 file = "kubejs/data/kubejs/tags/items/rocks/flint.json"
 hash = "a8d8699dc93ac53ee42ca75e9ff3f359c79d087b2ae2ae07d1e6b1bdf390dac1"
+
+[[files]]
+file = "kubejs/data/kubejs/tags/items/rocks/rocks.json"
+hash = "485d1f5b2c84b919ff1daf9b1d18a7ead96babb757c57fbcbb3cf248a98b9bd0"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/bread.json"
