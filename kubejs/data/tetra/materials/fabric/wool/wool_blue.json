@@ -1,1 +1,29 @@
-{"category":"fabric","durability":"200","hidden":true,"hiddenOutcomes":true,"integrityCost":"1","integrityGain":"4","key":"wool_blue","magicCapacity":"90","material":{"item":"minecraft:blue_wool"},"primary":"1","requiredTools":{"cut":1},"secondary":"1","tertiary":"5","textures":["crude","default"],"tints":{"glyph":"6c7ed6","texture":"4750cc"},"toolEfficiency":"0","toolLevel":"0"}
+{
+    "category": "fabric",
+    "durability": "200",
+    "hidden": true,
+    "hiddenOutcomes": true,
+    "integrityCost": "1",
+    "integrityGain": "4",
+    "key": "wool_blue",
+    "magicCapacity": "90",
+    "material": {
+        "item": "minecraft:blue_wool"
+    },
+    "primary": "1",
+    "requiredTools": {
+        "cut": 1
+    },
+    "secondary": "1",
+    "tertiary": "5",
+    "textures": [
+        "crude",
+        "default"
+    ],
+    "tints": {
+        "glyph": "6c7ed6",
+        "texture": "4750cc"
+    },
+    "toolEfficiency": "0",
+    "toolLevel": "0"
+}

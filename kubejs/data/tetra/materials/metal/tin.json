@@ -1,1 +1,29 @@
-{"category":"metal","durability":"126","improvements":{"workable":1},"integrityCost":"1","integrityGain":"5","key":"tin","magicCapacity":"72","material":{"tag":"forge:ingots/tin"},"primary":"4","requiredTools":{"hammer":1},"secondary":"3.2","tertiary":"3","textures":["metal"],"tints":{"glyph":"tin_glyph","texture":"tin"},"toolEfficiency":"6","toolLevel":"3"}
+{
+    "category": "metal",
+    "durability": "126",
+    "improvements": {
+        "workable": 1
+    },
+    "integrityCost": "1",
+    "integrityGain": "5",
+    "key": "tin",
+    "magicCapacity": "72",
+    "material": {
+        "tag": "forge:ingots/tin"
+    },
+    "primary": "4",
+    "requiredTools": {
+        "hammer": 1
+    },
+    "secondary": "3.2",
+    "tertiary": "3",
+    "textures": [
+        "metal"
+    ],
+    "tints": {
+        "glyph": "tin_glyph",
+        "texture": "tin"
+    },
+    "toolEfficiency": "6",
+    "toolLevel": "3"
+}

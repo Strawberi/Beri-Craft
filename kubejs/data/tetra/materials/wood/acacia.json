@@ -1,1 +1,27 @@
-{"category":"wood","durability":"59","integrityCost":"1","integrityGain":"4","key":"acacia","magicCapacity":"90","material":{"item":"minecraft:acacia_planks"},"primary":"3","requiredTools":{"axe":1},"secondary":"1.7","tertiary":"6","textures":["crude","wooden"],"tints":{"glyph":"acacia_glyph","texture":"acacia"},"toolEfficiency":"2","toolLevel":"1"}
+{
+    "category": "wood",
+    "durability": "59",
+    "integrityCost": "1",
+    "integrityGain": "4",
+    "key": "acacia",
+    "magicCapacity": "90",
+    "material": {
+        "item": "minecraft:acacia_planks"
+    },
+    "primary": "3",
+    "requiredTools": {
+        "axe": 1
+    },
+    "secondary": "1.7",
+    "tertiary": "6",
+    "textures": [
+        "crude",
+        "wooden"
+    ],
+    "tints": {
+        "glyph": "acacia_glyph",
+        "texture": "acacia"
+    },
+    "toolEfficiency": "2",
+    "toolLevel": "1"
+}

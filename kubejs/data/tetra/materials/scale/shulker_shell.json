@@ -1,1 +1,27 @@
-{"category":"scale","durability":"200","integrityCost":"1","integrityGain":"4","key":"shulker_shell","magicCapacity":"90","material":{"item":"minecraft:shulker_shell"},"primary":"5","requiredTools":{"cut":3},"secondary":"0.4","tertiary":"1","textures":["crude","default"],"tints":{"glyph":"shulker_glyph","texture":"shulker"},"toolEfficiency":"0","toolLevel":"0"}
+{
+    "category": "scale",
+    "durability": "200",
+    "integrityCost": "1",
+    "integrityGain": "4",
+    "key": "shulker_shell",
+    "magicCapacity": "90",
+    "material": {
+        "item": "minecraft:shulker_shell"
+    },
+    "primary": "5",
+    "requiredTools": {
+        "cut": 3
+    },
+    "secondary": "0.4",
+    "tertiary": "1",
+    "textures": [
+        "crude",
+        "default"
+    ],
+    "tints": {
+        "glyph": "shulker_glyph",
+        "texture": "shulker"
+    },
+    "toolEfficiency": "0",
+    "toolLevel": "0"
+}

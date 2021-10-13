@@ -1,1 +1,27 @@
-{"category":"metal","durability":"2031","integrityCost":"2","integrityGain":"8","key":"netherite","magicCapacity":"90","material":{"item":"minecraft:netherite_ingot"},"primary":"7.24","requiredTools":{"hammer":4},"secondary":"2.9","tertiary":"3.5","textures":["metal","default"],"tints":{"glyph":"netherite_glyph","texture":"netherite"},"toolEfficiency":"9","toolLevel":"5"}
+{
+    "category": "metal",
+    "durability": "2031",
+    "integrityCost": "2",
+    "integrityGain": "8",
+    "key": "netherite",
+    "magicCapacity": "90",
+    "material": {
+        "item": "minecraft:netherite_ingot"
+    },
+    "primary": "7.24",
+    "requiredTools": {
+        "hammer": 4
+    },
+    "secondary": "2.9",
+    "tertiary": "3.5",
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "tints": {
+        "glyph": "netherite_glyph",
+        "texture": "netherite"
+    },
+    "toolEfficiency": "9",
+    "toolLevel": "5"
+}

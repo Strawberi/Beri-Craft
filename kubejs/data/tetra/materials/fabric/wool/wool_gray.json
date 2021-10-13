@@ -1,1 +1,29 @@
-{"category":"fabric","durability":"200","hidden":true,"hiddenOutcomes":true,"integrityCost":"1","integrityGain":"4","key":"wool_gray","magicCapacity":"90","material":{"item":"minecraft:gray_wool"},"primary":"1","requiredTools":{"cut":1},"secondary":"1","tertiary":"5","textures":["crude","default"],"tints":{"glyph":"a0a0a0","texture":"7d7d7d"},"toolEfficiency":"0","toolLevel":"0"}
+{
+    "category": "fabric",
+    "durability": "200",
+    "hidden": true,
+    "hiddenOutcomes": true,
+    "integrityCost": "1",
+    "integrityGain": "4",
+    "key": "wool_gray",
+    "magicCapacity": "90",
+    "material": {
+        "item": "minecraft:gray_wool"
+    },
+    "primary": "1",
+    "requiredTools": {
+        "cut": 1
+    },
+    "secondary": "1",
+    "tertiary": "5",
+    "textures": [
+        "crude",
+        "default"
+    ],
+    "tints": {
+        "glyph": "a0a0a0",
+        "texture": "7d7d7d"
+    },
+    "toolEfficiency": "0",
+    "toolLevel": "0"
+}

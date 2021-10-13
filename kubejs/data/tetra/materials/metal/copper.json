@@ -1,1 +1,26 @@
-{"category":"metal","durability":"148","integrityCost":"2","integrityGain":"5","key":"copper","magicCapacity":"78","material":{"tag":"forge:ingots/copper"},"primary":"4.5","requiredTools":{"hammer":1},"secondary":"4.2","tertiary":"3","textures":["metal"],"tints":{"glyph":"copper_glyph","texture":"copper"},"toolEfficiency":"6","toolLevel":"3"}
+{
+    "category": "metal",
+    "durability": "148",
+    "integrityCost": "2",
+    "integrityGain": "5",
+    "key": "copper",
+    "magicCapacity": "78",
+    "material": {
+        "tag": "forge:ingots/copper"
+    },
+    "primary": "4.5",
+    "requiredTools": {
+        "hammer": 1
+    },
+    "secondary": "4.2",
+    "tertiary": "3",
+    "textures": [
+        "metal"
+    ],
+    "tints": {
+        "glyph": "copper_glyph",
+        "texture": "copper"
+    },
+    "toolEfficiency": "6",
+    "toolLevel": "3"
+}

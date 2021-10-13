@@ -1,1 +1,36 @@
-{"category":"metal","conditions":[{"modid":"naturesaura","type":"forge:mod_loaded"}],"durability":"1500","improvements":{"naturesaura_aura_mending_innate":1},"integrityCost":"2","integrityGain":"6","key":"sky","magicCapacity":"72","material":{"item":"naturesaura:sky_ingot"},"primary":"6","requiredTools":{"hammer":3},"secondary":"3","tertiary":"3.5","textures":["metal","default"],"tints":{"glyph":"00d5c2","texture":"00b59f"},"toolEfficiency":"8","toolLevel":"4"}
+{
+    "category": "metal",
+    "conditions": [
+        {
+            "modid": "naturesaura",
+            "type": "forge:mod_loaded"
+        }
+    ],
+    "durability": "1500",
+    "improvements": {
+        "naturesaura_aura_mending_innate": 1
+    },
+    "integrityCost": "2",
+    "integrityGain": "6",
+    "key": "sky",
+    "magicCapacity": "72",
+    "material": {
+        "item": "naturesaura:sky_ingot"
+    },
+    "primary": "6",
+    "requiredTools": {
+        "hammer": 3
+    },
+    "secondary": "3",
+    "tertiary": "3.5",
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "tints": {
+        "glyph": "00d5c2",
+        "texture": "00b59f"
+    },
+    "toolEfficiency": "8",
+    "toolLevel": "4"
+}

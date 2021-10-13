@@ -1,1 +1,27 @@
-{"category":"metal","durability":"250","integrityCost":"2","integrityGain":"5","key":"iron","magicCapacity":"84","material":{"item":"minecraft:iron_ingot"},"primary":"5","requiredTools":{"hammer":2},"secondary":"3.8","tertiary":"3","textures":["metal","default"],"tints":{"glyph":"iron_glyph","texture":"iron"},"toolEfficiency":"6","toolLevel":"3"}
+{
+    "category": "metal",
+    "durability": "250",
+    "integrityCost": "2",
+    "integrityGain": "5",
+    "key": "iron",
+    "magicCapacity": "84",
+    "material": {
+        "item": "minecraft:iron_ingot"
+    },
+    "primary": "5",
+    "requiredTools": {
+        "hammer": 2
+    },
+    "secondary": "3.8",
+    "tertiary": "3",
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "tints": {
+        "glyph": "iron_glyph",
+        "texture": "iron"
+    },
+    "toolEfficiency": "6",
+    "toolLevel": "3"
+}

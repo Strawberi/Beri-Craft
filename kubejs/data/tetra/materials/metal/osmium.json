@@ -1,1 +1,27 @@
-{"category":"metal","durability":"500","integrityCost":"2","integrityGain":"5","key":"osmium","magicCapacity":"80","material":{"tag":"forge:ingots/osmium"},"primary":"7","requiredTools":{"hammer":4},"secondary":"4","tertiary":"1","textures":["metal","default"],"tints":{"glyph":"7d91a0","texture":"7d91a0"},"toolEfficiency":"10","toolLevel":"3"}
+{
+    "category": "metal",
+    "durability": "500",
+    "integrityCost": "2",
+    "integrityGain": "5",
+    "key": "osmium",
+    "magicCapacity": "80",
+    "material": {
+        "tag": "forge:ingots/osmium"
+    },
+    "primary": "7",
+    "requiredTools": {
+        "hammer": 4
+    },
+    "secondary": "4",
+    "tertiary": "1",
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "tints": {
+        "glyph": "7d91a0",
+        "texture": "7d91a0"
+    },
+    "toolEfficiency": "10",
+    "toolLevel": "3"
+}

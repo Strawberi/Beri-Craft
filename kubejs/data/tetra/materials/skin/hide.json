@@ -1,1 +1,28 @@
-{"category":"skin","durability":"200","integrityCost":"1","integrityGain":"5","key":"hide","magicCapacity":"90","material":{"count":2,"item":"minecraft:rabbit_hide"},"primary":"5","requiredTools":{"cut":2},"secondary":"1.5","tertiary":"1","textures":["crude","default"],"tints":{"glyph":"hide_glyph","texture":"hide"},"toolEfficiency":"0","toolLevel":"0"}
+{
+    "category": "skin",
+    "durability": "200",
+    "integrityCost": "1",
+    "integrityGain": "5",
+    "key": "hide",
+    "magicCapacity": "90",
+    "material": {
+        "count": 2,
+        "item": "minecraft:rabbit_hide"
+    },
+    "primary": "5",
+    "requiredTools": {
+        "cut": 2
+    },
+    "secondary": "1.5",
+    "tertiary": "1",
+    "textures": [
+        "crude",
+        "default"
+    ],
+    "tints": {
+        "glyph": "hide_glyph",
+        "texture": "hide"
+    },
+    "toolEfficiency": "0",
+    "toolLevel": "0"
+}
