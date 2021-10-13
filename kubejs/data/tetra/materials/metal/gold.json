@@ -1,0 +1,31 @@
+{
+    "category": "metal",
+    "durability": "32",
+    "effects": {
+        "stabilizing": 15
+    },
+    "integrityCost": "2",
+    "integrityGain": "3",
+    "key": "gold",
+    "magicCapacity": "132",
+    "material": {
+        "item": "minecraft:gold_ingot"
+    },
+    "primary": "3",
+    "requiredTools": {
+        "hammer": 1
+    },
+    "secondary": "4.6",
+    "tertiary": "1",
+    "textures": [
+        "shiny",
+        "metal",
+        "default"
+    ],
+    "tints": {
+        "glyph": "gold_glyph",
+        "texture": "gold"
+    },
+    "toolEfficiency": "12",
+    "toolLevel": "1"
+}

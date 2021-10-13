@@ -654,7 +654,7 @@ hash = "a74644437da56bc9a3544e801c76116f646ee829361c974530b4bfa9e7edc85f"
 
 [[files]]
 file = "config/projectvibrantjourneys-common.toml"
-hash = "72dcbd4c182636362c5cc491ab0413a71e8f8ef1985fdddf429d47b4f24beeb2"
+hash = "b3da7af52874304b9d8d449e797f71a43c3df55e1cd0b83059c15283aeb61723"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -1717,60 +1717,1184 @@ file = "kubejs/data/minecraft/recipes/wooden_pickaxe.json"
 hash = "a8478dc22e0d953ec65d57bb4f62c3586193cc9a4bb6b51c8abe1eba34d2e103"
 
 [[files]]
-file = "kubejs/data/tetra/materials/wood/compat/treated_wood.json"
+file = "kubejs/data/projectvibrantjourneys/loot_tables/blocks/mossy_rocks.json"
+hash = "e7997652070bc095d157b56ff1e091b48e4181bf60e3cf21e9865547d4e38ab2"
+
+[[files]]
+file = "kubejs/data/projectvibrantjourneys/loot_tables/blocks/red_sandstone_rocks.json"
+hash = "4ff10cebd6b2d4b98a92170ef6ba4f16c8c94e4e37acdb4996d8b5f86dc892fd"
+
+[[files]]
+file = "kubejs/data/projectvibrantjourneys/loot_tables/blocks/rocks.json"
+hash = "e7997652070bc095d157b56ff1e091b48e4181bf60e3cf21e9865547d4e38ab2"
+
+[[files]]
+file = "kubejs/data/projectvibrantjourneys/loot_tables/blocks/sandstone_rocks.json"
+hash = "b83aae6374605c7ca62e69a2305dd646f83a3538e18e8b796154fba089d3d128"
+
+[[files]]
+file = "kubejs/data/tetra/materials/bone/bone.json"
+hash = "5c0ea6c72367dd21a06429b9e065ec22f552a0e2032d1a3b84e9805dfa5b8eb6"
+
+[[files]]
+file = "kubejs/data/tetra/materials/bone/dragon_bone.json"
+hash = "d6d5c174cc6648481caeb1cf21f6928830303e7538978272856e024bc4969446"
+
+[[files]]
+file = "kubejs/data/tetra/materials/bone/wither_bone.json"
+hash = "753402dc3c021a56d03a7686dc95285450cafdc3b59973e399811a9501b967cb"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/tattered_cloth.json"
+hash = "1f6ba0514cd4d0d221c7b3c8972aa55600e9004952b25d6caa0ed7e1634f687b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wicked_weave.json"
+hash = "a62a0da3d6e7103efa67df4ab0dbe3ea6196e2fbdfa04505ad16f76c0c4e679e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool.json"
+hash = "cb7c69afc1540480d90a4a563914bd5ed44e2bb818a9ecb74d4a5e1fbd32fe3f"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_black.json"
+hash = "af7adc1efe220c1d7754c444464e97935019144d6c304f8feef01c1054222321"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_blue.json"
+hash = "e749e4240d929473f06ffb75353958a814d04c809987e920e9f25e16391226b5"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_brown.json"
+hash = "d5a5159d09733741badc21f7aa7451bab143a7c23d39c525d7bc2e26f7afbbc1"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_cyan.json"
+hash = "0116e304a7d1a9b213dded1df28c12a862b7c0d4ec1352b95c0f8dbb2d5f168f"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_gray.json"
+hash = "7cb6b438974e5c7db93655d44b01ba6a738dbccf17be666a949e146f98b9173e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_green.json"
+hash = "0ac6c7b2802771cb7457f1f2ea6d2523ff1fb9b00cbfc34d55d52e3c1a5e50c0"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_light_blue.json"
+hash = "f216ef4ef090d9d6e3982a7575c27e8523ddf1ce7031ac85398b03675e4c3c19"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_light_gray.json"
+hash = "b4a5a543a0dffe3a55b91f69a6a8e4666f316175009c2bf302786ea928cf0556"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_lime.json"
+hash = "d83c6c3a25a59908f822741e40277b4558b2eb02b17a9799d3c025a58212358e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_magenta.json"
+hash = "d9982bb92bf02b583019355ba8c9f67bd566307eec9f8f8d88fe2c67ccc6a3c5"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_orange.json"
+hash = "06e4f3e94d73209c01aac1222fd3cbecdd609915d4840495380405b273554a44"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_pink.json"
+hash = "ba5bc261e0f227f801a9d1eea7d7d071416291c55c537ea1210632b1e04b7de1"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_purple.json"
+hash = "6486674c6a0eaf3fb80b934ed1f9d2877d2985c0e410576644713b5f8ed6b1de"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_red.json"
+hash = "749c0eff9853ea6124ca5fd34d23f3d8250b99b96eb019d1d5341e0aa08d0f3d"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fabric/wool/wool_yellow.json"
+hash = "c3c80d9205ce6ba0f3c0078edeac347a2fcd47154e3efaf6e90800ee7c2dc6b4"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/cave_roots.json"
+hash = "d3b253f57ccce6e50932fbf16ed6276603fd209eec720fff49efb5fca5343f9c"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/dense_vine.json"
+hash = "5c3a8c427fdb6d17f8da2c674531e5dc7bf3f2b2df8c2664f0cf4cf109e18847"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/dragon_sinew.json"
+hash = "777402c50f6bebf3b3ef1a79e805730d150b9b34d57a1e9380369069919bade4"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/hemp.json"
+hash = "9f59891b016846725530dce5e1e3b87d4481370b02ae4fdb7da5f6db688f30c7"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/lament_vine.json"
+hash = "ff5c9b3faaf6a688e9de7bc3648d66a0e6a15caf79a4bc0ccf09a2948c957bdf"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/mana_string.json"
+hash = "1431ce050991c89e662cf9288030cf30f8b1de215d3f311b1fe20560deb74aee"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/phantom_membrane.json"
+hash = "31caa43223b2c883949cd0cf4904552282413d7479e5aa93cc9fa36d162d24ce"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/shulkren_vine.json"
+hash = "ed819ac6a5bc1813cf28c33be50e460bf7478d99f2683cfe4765a5695dc80ced"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/skyris_vine.json"
+hash = "446e9a3dd412b5c90e48ce14dabac8978c747ce6b37a243a30a80b6141aecef7"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/string.json"
+hash = "f22c203aec2f5313fa6c01ac31be97640b07b78dfdbe6ce7edf16562606b3170"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/tenanea_flowers.json"
+hash = "bc7f79bb7d252d60ddfe109882f6fd4e5be1d566dd0afdd8194eff23173da355"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/twisted_vine.json"
+hash = "5ca39352c41456f35106fbbb001111471864a903181d01dcf386cbc9979f4743"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/twisting_vine.json"
+hash = "eeafbfe1985f088f088d948f4a2fff5ab6e924c7ab1bafb14c31dd2ccac24df1"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/vine.json"
+hash = "a587b06a6f25e48e82935d55dc762f009c2df72bee9d1d00d81a00798a8fefd3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/fibre/weeping_vine.json"
+hash = "d1e9bd558a1cccb6a7f0c49d000f3c8a158f9b382f2b0f51e436cb5663612cb9"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/agate.json"
+hash = "63a5944b8d221f99da51b4c1c3c89efaa755ebbfcaefb62055a839a743dd162e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/amethyst.json"
+hash = "2a4421cd7d57c5c731b905e1cbe115c0881f84708ebd53830078fcd44df6ee43"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/aurora_crystal.json"
+hash = "d6240a3b5f064a96eca8c31b15e69ee1bcb471e9384f0a0479fd5098564c61e6"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/blue_geode.json"
+hash = "e86736bc199779bf8890f63923a3496b775b10889b398bf3d04df04d2b4642c2"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/certus_quartz.json"
+hash = "5e8a65c8ae5c0de093bbce5d3fd55a435ac2b707e0194ce7b5cec22798918e3d"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/citrine.json"
+hash = "2093e945f2776366fee6f92d59f069cfbd667bc3b19f53aaa30bd6ad90e9e2fd"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/diamond.json"
+hash = "71847fac04d114148e3f2f19b56904967d144b84ad83b8101cfcc462a0f8f03e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/emerald.json"
+hash = "76a04880c7860f49547ca556ce12f8a3997cae77962df18e16d357381b1d6db0"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/eternal_crystal.json"
+hash = "239736900308e639afd88a6d98473839188ea0534e8ba16e23ac68cc9b855408"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/moonstone.json"
+hash = "4f011a8df84f49e6b4e6176597b4d28800d96deb675a32b0c6968ac30fae6232"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/purple_geode.json"
+hash = "58e62cc43b7cf9569df1f1d1d85bcc79d4cf95f38c8cb3d5ec13a6f1e194a9ff"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/red_geode.json"
+hash = "3899985525b4dc62bdf20894d92b63084ba7fbb1c705c120ef0e57d6a50d085e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/refined_radiance.json"
+hash = "31e01d3282e0a6332f7f606d2a28898629494566e4cc9da8ab093e5b59c34480"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/ruby.json"
+hash = "aeabb952ef12b1ea7b3e9d21badbc4f04681e949aafc1b3c774336db65db9123"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/sapphire.json"
+hash = "2840fcc93febce136d02888674f19d8fe72261732359b41a493931f896c533e3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/serendibite.json"
+hash = "714e4f8e4317c6bb0193c79aa61ee316d051a7330fd9196692b3e49c518c203c"
+
+[[files]]
+file = "kubejs/data/tetra/materials/gem/shadow_steel.json"
+hash = "5cdfcea0f557257a6dddeb728d912016443ceeacc4a2589eb3128ba1612c5254"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/aeternium.json"
+hash = "381decea714def20d0d6bdec81782f05613c8883df30b345cd0c3f94ba496f9b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/andesite_alloy.json"
+hash = "22c283b4f80d3c57c15337d4d314e46361ad047745db02576b77fdb857ad63af"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/arcane_gold.json"
+hash = "2d43ebd865538acff0ae601d6273d45dd7d1bc38262c9801225b51bf29e61542"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/brass.json"
+hash = "8e181df4b4f75fe153d5f7b2cb11329ef7b7a7151b77bbf230cc0995e69b2873"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/bronze.json"
+hash = "38382713d03148d1d948619ebe5d59104943e840d438a249d76f1ffea904ddad"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/copper.json"
+hash = "ce2aa143f120d5726d4c001f9052dfb15029d40e648b9d9ff9bde0e8d50334ce"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/electrum.json"
+hash = "b39eb61ce649a06708a52c5b8aef65b67c3b2f7538a44ec3595d8c034969f7a4"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/elementium.json"
+hash = "53ae924f2a17702372485e80622548e1339bae8b28d8c281012edfa32de1e3d4"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/enderite.json"
+hash = "880852da3bfc7f3e6e4d524a8192e0712eb1d6e879e5f2cfffefbc699cb47045"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/fiery.json"
+hash = "6d8caed83bc793a72ff84cd4210773ec0eea623b43156c62590cade32c163b0d"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/fire_dragonsteel.json"
+hash = "c8133098fb525aaed97696c056df8622aff709c209a63e630afe0f45d58262a7"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/gold.json"
+hash = "b4b44e32887d2ff92ba56a9b5d7b9250235b0d0596a1a6faec702f397b76b09f"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/ice_dragonsteel.json"
+hash = "698f947c7bee5e6d9ea966495e91713db95849fc265f1294be4f2561f18a7c68"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/infused_iron.json"
+hash = "b6a28fb8bb7b8bb67927f77345cf71af8f85e38d659cd4b0f63942c0077616a1"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/iron.json"
+hash = "72361de0f87bd1763c6edab39bf0f6408a19b20b99731cf9481db2831d62f570"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/ironwood.json"
+hash = "631976e1a0b9d418cea6c18ce1a2628730b67661d2d5aae669d0f49baa3a87b9"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/knightmetal.json"
+hash = "cef90803466aaabbc6fb838404174f027bf55fde5ce14d89365cdd8cec3b5821"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/lead.json"
+hash = "6d824d678f6b14659421fea6bd28ea76a62c26971398d97e1464b43ef4836ef3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/lightning_dragonsteel.json"
+hash = "8076bd551cfa2c7e1f1c2cdf802a5af534383f0f7d2c9e4a981884dd49773852"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/manasteel.json"
+hash = "3622b9c7cf342997b0e21968e16be5fdf26ba4ab0b2a598e6d67c26fd1adaaaa"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/netherite.json"
+hash = "4f84e8c90c453a3520e46e28cbe1498e42d4e06b335021c7cfe61077322fd8b7"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/nickel.json"
+hash = "ce4bf56b08d71180a4c9896ebe760fb226da7f44d08923a7e9d1efdac44d93a3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/osmium.json"
+hash = "fdc70eccad0c2a1afcf70ef72be5d998d6ab2fb7bbca853ff3e3811ae93fd50b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/pendorite.json"
+hash = "e1b1e74079452f5e6c171d25daeb46e9bd2beaf0dba5b63106c39ab5e5dafd55"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/pewter.json"
+hash = "35550433a56c4885ec786b943a426d345ef0a72b5cc17670edd6f689bf656d5e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/platinum.json"
+hash = "41babffecc017a1a882e1f8267b1947bce61bf2173ac18ad5194dc02ee1e56d5"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/refined_radiance.json"
+hash = "86ebd9d0ef7b069e36255cc9a1b67839dcd5389c931ecaa9ba618fb36a85f870"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/shadow_steel.json"
+hash = "665de759364dfcfa84706bc9bdfd26947f980450e7ab25264605273b9935ad06"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/silver.json"
+hash = "cdc1b7289902fcf149ca3db222fa9e78e5eee596704c7a88a6f1b30f576f3c87"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/sky.json"
+hash = "5f300c67f35226b7dfd1ad8c5c529b9c3700054002a312eba57f6495b4b840cd"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/steel.json"
+hash = "dc7d06ccba4db7f934655c20088fec40c3e511dccaf315501d0fe493bd29d715"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/steeleaf.json"
+hash = "c34ae2c12d4772517f9eba883b44826926da3c8ee4eacc3fe674040509470d51"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/terminite.json"
+hash = "ef6a84a7b70d8b03b321d65c7a0804dad92dc3cb3bdef42a91922e4154299c4e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/terrasteel.json"
+hash = "138be9b5604d09dc947be4e63d0db52ee6cba9a883f2326025db4e621226bc0a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/thallasium.json"
+hash = "016dd9e04867dbb9e33e1ce3591f2f09218a81fc724973baf0db0256d205c1ef"
+
+[[files]]
+file = "kubejs/data/tetra/materials/metal/tin.json"
+hash = "593b43abc11981586a983797376d5c39ad3e12f7be3a9e9cc0f8ff04e0afe6ed"
+
+[[files]]
+file = "kubejs/data/tetra/materials/misc/blaze_rod.json"
+hash = "95d68399e7729c21044b258dd603c518d3a53ee867094b7a351d707fc4f7935e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/misc/end_rod.json"
+hash = "74334e0451e35ba6ca4ada7137334c217b2d8738a7699829d04467dc197cfb2e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/misc/forged_beam.json"
+hash = "2a0091cc5062208c7e29c6168b9bce89865ec858905927ae14546b575440ab3f"
+
+[[files]]
+file = "kubejs/data/tetra/materials/misc/stick.json"
+hash = "65f75e772cdead4c7936f1c500410c46ff6a5862f59e8ff54157471f575580f3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/misc/vent_plate.json"
+hash = "44d2a74293eb6dddd0c797592e97de760a508b728d7ae97db7422d9da88427f3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/scale/crab_shell.json"
+hash = "fbc77c897dc112417a65c54ace801bb5ec9db1998d91a22959a9985faf49be20"
+
+[[files]]
+file = "kubejs/data/tetra/materials/scale/dragon_scale.json"
+hash = "0795b6aa7d2f7d1c96ee7a33bc63485c219eead89fd8b01a61f9566c01f8fd00"
+
+[[files]]
+file = "kubejs/data/tetra/materials/scale/drake_backplate.json"
+hash = "c059b88a70aa76c0730b0d5e02e6e9c67dad6191049958236d892ff57f9b589f"
+
+[[files]]
+file = "kubejs/data/tetra/materials/scale/naga_scale.json"
+hash = "c76f16e278edf66d51bc1beb1b528258f154d3705abc73eab18b8b0689a90a74"
+
+[[files]]
+file = "kubejs/data/tetra/materials/scale/shulker_shell.json"
+hash = "7e2b574f5bbb5f73db43e23cb27a36397b87bb92dcdb3041a5c0eaf3fd464ec7"
+
+[[files]]
+file = "kubejs/data/tetra/materials/scale/turtle_scute.json"
+hash = "944ea6d4baa8d2b256df062826a779ef7f9b6efeaf6fa6315ae37d360b965788"
+
+[[files]]
+file = "kubejs/data/tetra/materials/skin/hide.json"
+hash = "5ca82d93173053b8a4e3e10fa1aecff56be960afe5c6980137a9f7bc46589e08"
+
+[[files]]
+file = "kubejs/data/tetra/materials/skin/leather.json"
+hash = "5896b15fc2f2a617ce62d6ec939c9eb32fc0113c9b54b5717c911fa9e85d29da"
+
+[[files]]
+file = "kubejs/data/tetra/materials/skin/ravager_hide.json"
+hash = "7479c85d4cede806b46981cf4d5d0ccc9cf58ab8e8f60e4d28c4aca32a3b20ac"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/andesite.json"
+hash = "2ac1d84527582cb2552ab9c817bfd08b26281f5203dc44935f1312fb9142e6a1"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/andesite_alloy.json"
+hash = "152dad13d98a4129d7d89f32f31581671847ad89561d57fa85059977f1647c3e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/blackstone.json"
+hash = "135eb561910a838cab03e74c782863430180c9241e8c9b2a109bb228db5dc0fd"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/dacite.json"
+hash = "3a03a326bcc59ad25d2c775921f7faf496cdef857ef1b099eb4a4a124f22328d"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/darkscoria.json"
+hash = "095823bf53d64f0404b450bdc8a2e047431d16272ce1d848cc23c48cefa116fa"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/diorite.json"
+hash = "71b470c3f8c30f3c515fd8e1c414e16aa3183c26cf9675944b48a0eb51647cbe"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/dolomite.json"
+hash = "544ebb916207b6b5986fe032725a449d9d75877003f24cde1e0a75c82510b13c"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/eternal_flavolite.json"
+hash = "780c4d267409a1d88e9e4cb5607e51738c7859d16c656615b71e5fe9ea2ef25a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/flavolite.json"
+hash = "b583833d5bba0c6efd514199e3d5aa5fe902208bb0259a8ef5813de447f82195"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/flint.json"
+hash = "a4f82fb6d12b96e7150a3005797b3782faf3d7d39602c08198937195621ec99f"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/gabbro.json"
+hash = "5dcabbf228c82bd1c16ea1d7fecce7d2271af7aff722fb2e6429a67ea4efb58a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/gabbrocr.json"
+hash = "410e07f591471b9cf174530dc0d406a4f6a5138d63af2a2d7a56d0e155941768"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/granite.json"
+hash = "8a8a16c96148d1f678806be84e5e896bbd1cf5aacf0fe1478196f4bb614f8b0b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/jasper.json"
+hash = "5acf3356f528df1a42bbce17a5041f25687a08c90bc6279472222057cb7674e3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/kimberlite.json"
+hash = "db177f9da56b98e5295ce28e7ee4d09c27cff3244b38be75b024c129e5a5049a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/limestone.json"
+hash = "f410d5911c10aed84d553982ce3cb65021fdc68bf0aa7ee618d91a73309e7d02"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/limestonecr.json"
+hash = "e535a0cbabea67a9d9aa41ba03c5d32067324c61e79c5fefceb4c1cb631b0fef"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/limestoneun.json"
+hash = "3405d04dab07807ec3aa968d0173f06940cfc8ebd9eb6195d73715d508a037b0"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/magmatic_stone.json"
+hash = "d0b5ff8165c938391f6c590c5c81db563f728c0c3b6615c795ac21a181db9cd8"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/marble.json"
+hash = "e68ca31383143cf53651c3643d30fa7edbbea4bb2156b668ff5184103a649e58"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/marbleun.json"
+hash = "dbbe1970fa5b6265beffe77467b75e378bdae7bb91f6e98cb87b716be88ae38c"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/myalite.json"
+hash = "8d4b2225bbf30fb5fba7062fab9cad421a22161ec113b22ab64a095da2623f05"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/obsidian.json"
+hash = "0006f46655f2e37d0ce4de2e68223d0f6704a4a59bbc1fbceea22f27845e5f89"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/phyllite.json"
+hash = "1eefc8f7610fde8fcf87fe02e39f2c541fca110332ccca71b03a1b46665dd488"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/quartzite.json"
+hash = "bd38509089ddc2db5f5d8526820f8bfc88d563ca7036a4dff2f45aed4b0c8937"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/red_rock.json"
+hash = "c9c53fb9d76c9f4c310c9560327d3ebb04bf6152afc401e5f7c23618a03a7e60"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/rhyolite.json"
+hash = "03e634a4216569a7ac12c7fb42f3b3622344f643c16d7a4236efacc15f6c1725"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/rocky_stone.json"
+hash = "b4c84085e36378b0d1be3fe27da801a6de99fcbd776415ff981d70a04ad16bc6"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/schist.json"
+hash = "5b23965749f8644646ba6651b7c5dfc55a624c662ce68fd018b54240fb05dd0c"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/scoria.json"
+hash = "d94e9a51d64c040c032cdf131c172bb04f7ab48f20ced3886af1bfd25cc27aa4"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/scoriacr.json"
+hash = "45f132912e1398988809804697928788617926f14754cd7c85fb8445edf18b24"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/slate.json"
+hash = "33627a75aed7de57c42cd34ded22a31547df4741ef653b8c061a2952293f9e38"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/slateun.json"
+hash = "95bf3727c8d569576ca62d48ee726de92a333f15161a6c643836b62d239c2bfa"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/soapstone.json"
+hash = "a0a553c995d78d79c230e50e3193f194564ab792a85814417973886d20a691d9"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/stone.json"
+hash = "08db37978c079d8b6cff07919a532687f62987fa631f76c320cf9e4e212342bc"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/therium.json"
+hash = "347a6ec74f9c681233a5efc7be61fba07b86dc972ca6dd477334e77641417781"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/violecite.json"
+hash = "9b6a2272648566a484aab1d9d70dcedae7469eece7973b7c29c70817a2b99b74"
+
+[[files]]
+file = "kubejs/data/tetra/materials/stone/voidstone.json"
+hash = "4bbec44671a9977e72b98db21ab6d6fce29899f96d4bb35854843667ba3884a8"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/acacia.json"
+hash = "cef4eac5d5b31d3ab1a4bd0f183a62dc2be986ce4a3a79df9392234f2f02eb74"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/ancient_wood.json"
+hash = "4930d28bc5e2355e04a74b2213e1a74cb3ff7a1232e84cda78dcd03c69d0ae6d"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/aspen.json"
+hash = "2b410832ffdb6fc8dcbd461e79018ef391d886a61ba73b36f818615dadeda4e6"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/aspenab.json"
+hash = "247861522defbb395cc29356fa21dae51be59395283d1a6a6a308f9f3bee85eb"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/azure.json"
+hash = "475cdb10c038f869ea08d64403b5b98868d2548ac468762acb753a712b55c254"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/bambooab.json"
+hash = "e1b589f9c30a29764d92569d077fe8f69e7c319a4d4e3384f748006afde4381e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/baobab.json"
+hash = "39fe468de406faa4a3595f3d9054a7ecc3b01f021c99190baf23b8743e828cbf"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/birch.json"
+hash = "60fa5e3f260061d9860222d327c2a4b452ebbcec9792947dd248289cd05a6dbe"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/blue_enchanted.json"
+hash = "1e71f4e948cd996db3c9396c646423cc68994859dae5bec83bc584939c43112a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/bulbis.json"
+hash = "e15920bed9cf660d764ae39b65a33e02b98a753034ded1f47b5dc5b297a61d37"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/canopy.json"
+hash = "c00c3fd8c4f31c4a818afdf5e83f9f75fcc7c514b97a5b9e87e670857070451a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/cherry.json"
+hash = "b1e7c15ad882072266353d58c909a8cc0a5d01df06fcc306fa523290981b8e19"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/cherryab.json"
+hash = "e284cd689b1127a65ffd62f97e250ed695c359fd53cbef872c0f4ff967c84a5a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/cherrybop.json"
+hash = "8b3c6db03fdf7f64c8a96a64858bab02f7c91b7ecbcc8f8511db9c233a3af35f"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/cika.json"
+hash = "44ac360f43167b29120055a673f0ff99843d62b28d2494318d87a254aa538510"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/crimson.json"
+hash = "b6e9c908d459b7836073f0ca9c4c4a2725af81269f2adbb9e0a045096ac98ab8"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/cypress.json"
+hash = "e9fde2fc56218a1f5e8a6c3c0164b0b97d476febab30f576fe20c6beceb3f706"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/cypressbb.json"
+hash = "b3e870d35fd55317f4222915e36005b7030e155dddbfd1d5f94491f01607aa43"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/dark_oak.json"
+hash = "fae92f417f3a46f95f98ffef14d969ea76b14f5c36c857d7295eccbf4c1befd3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/darkwood.json"
+hash = "3cd91a1825e5a235712eda99e5f7a3ed1242a0f28bff20079402b01ce4d1fff9"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/dead.json"
+hash = "bc1dfd81ed095d7d7568cfbf54c44461f8770e129f0c2376a209adb8916d3e4d"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/dragon_tree.json"
+hash = "583620e5a15b4f7fc508729570430cd00f52469d4904dcf2f265a484ae6d8cf0"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/dreamwood.json"
+hash = "e034a1ca117691e55b2a121b04ab19332e031d280c145bfa1792a4ec5a877c5b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/driftwood.json"
+hash = "2277b20d0880f74c873a0a6259237e5511fde6a4b0cd42e9b3f627dde759057d"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/ebony.json"
+hash = "3a660170d90ecf77fa8401e128fda2db84be4d0eb5edbe2f0318b98f78df9fe5"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/embur.json"
+hash = "4d6f303d1fc81f42da6f3a80c08edd903748ca69b1455120034643304300c04b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/ether.json"
+hash = "fd3a0a45bff2ee2365c9b4cb2a409a5117993bb3eff300da4555bf35ebb73b58"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/fir.json"
+hash = "ccda04476887e55a37203859ddf13c23be523408700deff4ff0ce93ce5c27463"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/firbop.json"
+hash = "1f6692f3325f84a3cd42f39554612dff5e80e433a295c0591a7857d162e4cfd0"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/glowshroom.json"
+hash = "591a35ac905605891ce145177c30679d7619260d4425e963da6f3cbd531489fd"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/green_enchanted.json"
+hash = "5edb9dcf81b359fecb8d2e50e11797481c0988f245737ffe98c11cbe3c63eeb0"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/grimwood.json"
+hash = "e356e146ece8de7e54f11f53db9a267ed4c2761edfe4869106afed285ad64d7a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/helix.json"
+hash = "8b18715c6fa483d4a359f0e81dbd7d846bc27c09e36bf6632e12665861c6dd62"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/hellbark.json"
+hash = "1566e2e2b8ee0493d134bee42ad1c11d91b292f553a84b2e5c92f64a7afa8a3a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/holly.json"
+hash = "e8550e1c44382d8912d7ee4110bbe8b5373f8fd195285670471c782f54976914"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/jacaranda.json"
+hash = "070b7a5fd487657f3453462bfc235957498535041854fa7d65cd60104c9eef43"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/jacarandabop.json"
+hash = "57071ea80a2a7f829f3a649095d79f09c48ffb588edf3bc6ed5e3a3cc91db250"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/jungle.json"
+hash = "f1ab4d11ffa22e17afc8e3ebacd080648bab17717cbe43f9b6edaaca3ef34a56"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/kousa.json"
+hash = "300032f2b178487a7aed1726d60047b9e75032cd6d4b1fecde66e2259385b6d3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/lacugrove.json"
+hash = "7fa7cf15874336c3224de2efc75f5290a0d9d2bcb9cdfd316a8d5546edaf14f5"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/lament.json"
+hash = "de540bfeccd7d72b7fdfae374ee17816d30fc4782c0778c8af3ff1f6750a8146"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/livingwood.json"
+hash = "b8bb616d1c850a863c7187b9f7c35159878118baba315abaa7fe74c9cb17ba12"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/magic.json"
+hash = "880b43f142c2c92c58540174a6308d68b2514a49c3b675d4e6e266514ae194d7"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/mahogany.json"
+hash = "ba01b484c8f72aef00ee06831a826c82145a35dc1b6c1bf643cf61bde74f8f74"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/mahoganybop.json"
+hash = "fbb9c646f9ec9b32b4ae3a46adf4a9305d2db7ec84e0e35b59c1525beb210b44"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/mangrove.json"
+hash = "25c4d5dac073783b981e095a93c752ec2cd8b815423f5ecb22817c403445be3d"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/mangrovetf.json"
+hash = "032d5a3116be5dbae666b6d8062f2167a93c22c266369a135a1a39ed3c479d21"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/maple.json"
+hash = "650c8fe186441121701b34135716fa6db764469c7a5234a9d48c03541f1ee53e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/mapleab.json"
+hash = "bed620b8f08127456baf5b1ebbae9471701675e1fadd8c5f23fa869c45c76162"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/morado.json"
+hash = "2470463d3137f4eb0b20b8f7e9c2b8a9910e911fc15dd47cd51972bc06e9060b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/nightshade.json"
+hash = "cfde6793de90c6f4510a2bcd79e0b2a349986ae339793258327835a8c207248e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/oak.json"
+hash = "7c6c3b4288840fc2afd3db3e32f416ccc2c088852135fb4248ad7393dbe48bfa"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/palm.json"
+hash = "878b606e50992f6e3634ae203d0ca2035200c1872c38198d646b5f2576206c4e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/palmbop.json"
+hash = "98052344014f2964c24c74030324505a495cf71ae4331f8a9a7be2e11b4e0ce3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/pine.json"
+hash = "66b860c9a9e6793bcdc8b94900f62d056deae52c0422f071340a271aaba15fa5"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/poise.json"
+hash = "c79ab9b95736e6003eea39d4ba792f971d4554ad30c1f2623a57644d01eb6e48"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/pythadendron.json"
+hash = "b029a19327c2d642ef64c664ad6e023da3da89ff9f09a67ab6321c5baf29790b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/rainbow_eucalyptus.json"
+hash = "cc45ada8b285ac60becdb251624e89a62c533fc1858b4359dd8e526ad03a72a4"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/redwood.json"
+hash = "cd91ea9859311ed46937b99fed397b10bef3e73497cc282e12fd06241e966a38"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/redwoodbop.json"
+hash = "ed838cf279ad17da8fdb39854f641a16af53cb77cb2d61a5014304644e185a80"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/river.json"
+hash = "b0a298272bf972e850b816b0e336abfa1ac55d69f7101626c0f7e2334fcb0c0e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/rosewood.json"
+hash = "3415f72a31b4b29e0cc5304bdbff2c21cb387a29fb9a8a10d5f6e0ea815c9d27"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/skyris.json"
+hash = "1dfebc7f5c45a946d3d21c2b2c3441c64e353302ea8784474d56bb44e1e328d6"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/spruce.json"
+hash = "cc8e996ace0665578c2189c4a2a5f2085a2c11c72fb67f141386a5761cf37103"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/sythian.json"
+hash = "620602ce3f1e5b90a2f9bf8e31d4f2aaa280657927057a2479879dfbe2cbe3d7"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/tenanea.json"
+hash = "dc74270af1ced58e3c2ecb155164facd2247a3d7f235f4945fa23c6034eb50f4"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/towerwood.json"
+hash = "28435759b9e39a7e51c773d30b08e0752fe84cf60627de9566312ede08fbff9e"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/treated_wood.json"
 hash = "83993ffeee0156aaf228157e9c936058a783dd98e3c008ebf43cf4e82693fb49"
 
 [[files]]
+file = "kubejs/data/tetra/materials/wood/twilightoak.json"
+hash = "6fc7cd99006fea44cf0eddd3a060fa0646341c5217ee4a787e600a25f705be87"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/umbran.json"
+hash = "c82b47e4aa9a9c93369a5a501aa1ff796ef9263230d9475921d6474810a6e1ac"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/umbrella.json"
+hash = "3a47392c83b0a1d13dfef1757b2f0485c06db525f0839ae463dbf1646a9ca150"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/warped.json"
+hash = "83995411cab049921c56653cbaf6c4e4b2b8271b2da5dd65c736b97d18b6ba2b"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/willow.json"
+hash = "a072a82ce0abf2eb0d8efeb1c4991b76a54b1a2ee089d6a5baad959b03a46d1a"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/willowab.json"
+hash = "8c61d00568c8127b01f2c4d41d559cfa39c45e5c5d6f8523bb2c327d0a842168"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/willowbop.json"
+hash = "b59419194df85b4eb4dc2bf349adbaa5537e7dd6c1494135b698ac403f798c97"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/wisteria.json"
+hash = "b5e5ec953de7deb1ef14ac05b14948bc380c4ab2e5ca0dc7d2489a71ba7670c3"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/witch_hazel.json"
+hash = "eede737eafbae70c2f7adc5eb6ec81e382c209c087e14ee7eea21760a18393d2"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/yucca.json"
+hash = "7adacf06bbc99a24b923dd28bbfdcec3602f8a988e5d4035ad25f7edad2425a1"
+
+[[files]]
+file = "kubejs/data/tetra/materials/wood/zelkova.json"
+hash = "1bb06528e873464c7ad4b8fb10faefc90ea2a346c8d3e47c3d91f776884e2951"
+
+[[files]]
+file = "kubejs/data/tetra/modules/bow/adjustable_strength.json"
+hash = "0b50b6cd51e2e54084a13acbc140e20b95c4e33a16d3ae2b3f039424c16affb3"
+
+[[files]]
+file = "kubejs/data/tetra/modules/bow/basic_string.json"
+hash = "457aac7f30a45f946c92784c60be601195eb933bfb0ef2776d81970ba3e04c06"
+
+[[files]]
+file = "kubejs/data/tetra/modules/bow/extended_rest.json"
+hash = "08be8579fcaf631b1fa10e7ea9c7994d6123434e95bd90b1878f75dde6b8259d"
+
+[[files]]
+file = "kubejs/data/tetra/modules/bow/long_stave.json"
+hash = "ed286b664ebf014ffc5e62c39a7b2855cbfe03b228cbe2042df82db4534aa7b9"
+
+[[files]]
+file = "kubejs/data/tetra/modules/bow/recurve_stave.json"
+hash = "18fd66527a9c253b8b106b244cb0da47acd8b06cb49d67b15c82f6cbc13c4335"
+
+[[files]]
+file = "kubejs/data/tetra/modules/bow/sights.json"
+hash = "6f7df47c356a91838dbdff266699cf5ed69dfafe66d17d7a341d7a109a16e64d"
+
+[[files]]
+file = "kubejs/data/tetra/modules/bow/stabilizer.json"
+hash = "d4ad7b7c6c37d183fac576c61439ee0c091415755602acadd25c7be7cd5878fb"
+
+[[files]]
+file = "kubejs/data/tetra/modules/bow/straight_stave.json"
+hash = "06df6d003fbba935338e12f1ad697ee5a5ab53cbbaa91542a42ef942ee8cd139"
+
+[[files]]
+file = "kubejs/data/tetra/modules/crossbow/basic_stave.json"
+hash = "0f42b45866bb06f40f15bd322df5552275cadd4c50276693949840e6f4459588"
+
+[[files]]
+file = "kubejs/data/tetra/modules/crossbow/basic_stock.json"
+hash = "a990fc4b4a6496eb13d3cdc12141afd8f24cd6a9f0f8dcf704df6888072e4e46"
+
+[[files]]
+file = "kubejs/data/tetra/modules/crossbow/basic_string.json"
+hash = "e1bbf2d78cf2a257011ce481064f741696efb3010411537a0324a3820dcc8a37"
+
+[[files]]
+file = "kubejs/data/tetra/modules/crossbow/stirrup.json"
+hash = "17222028c5920c77968b165e33aeca0dc4e8291fb319e1c12f6d26ab01da473f"
+
+[[files]]
+file = "kubejs/data/tetra/modules/double/adze.json"
+hash = "0cb5165e2b92b195b3d4aca2cb4cce33ac02487d80616828ac93bc0dd2d51ee2"
+
+[[files]]
+file = "kubejs/data/tetra/modules/double/basic_axe.json"
+hash = "822072b44436960f4ff57671ce4289f503080e705b1ff7d96aba02cf0f4f4523"
+
+[[files]]
 file = "kubejs/data/tetra/modules/double/basic_hammer.json"
-hash = "ab78f86eeecee0e6f7c2eda82f740751d7d2076bc54f0923d3309f59e60a3493"
+hash = "41d6892559f038fefb9ae47a13f6d01aba157f13a3e77c87cdb4970f5e5abd63"
+
+[[files]]
+file = "kubejs/data/tetra/modules/double/basic_handle.json"
+hash = "80ce126384f0ea9f185ba60484c9d657f6eef537524e3a4648d98516e652e650"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_pickaxe.json"
-hash = "8fa5864602cc13d151dbf5c3fac49b0872c4a452aa7228906ae513d67f4ef736"
+hash = "80ed8987951071aa858bb588288d4b9172e92d4b79845162667212b95377f886"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/acacia.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "kubejs/data/tetra/modules/double/binding.json"
+hash = "da99d75c4d2dcfcd47d60e5a7b9f0c0b1daf735d6358ed8133db2c84cccfc53e"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/andesite.json"
-hash = "f605fb2e1beacdd5482160c7294d0f433a0590055a053e2466db0935633d1c0a"
+file = "kubejs/data/tetra/modules/double/butt.json"
+hash = "83edd767aedf6f52e9309162d1c89c599727932eb50128e482b12a79bff3eade"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/birch.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "kubejs/data/tetra/modules/double/claw.json"
+hash = "66c5219ca65bf85402446d6033a435dfc5fbbc4c16d25f3940c128442c54d94e"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/dark_oak.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "kubejs/data/tetra/modules/double/extractor.json"
+hash = "d9e6b18020fe38578adf124f9a24a60e21f6dd620cd202dabe39cd7553da9742"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/diorite.json"
-hash = "44c8810ae53ca36d7174196ca295d03162e9579f64cc233b006444acabd667ca"
+file = "kubejs/data/tetra/modules/double/hoe.json"
+hash = "759669d436c480e36e27fded4b00c36f3393ded730789a758778f5d89cade5be"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/granite.json"
-hash = "36801352e33c61ff5c2e1c37fd47d62a28f0b69ea4c0de8b46ae73983930374c"
+file = "kubejs/data/tetra/modules/double/sickle.json"
+hash = "089d1f49c6ed9df71074a96b1b143e49ef5abcea201644c17a9c40dcfc89d2c0"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/jungle.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "kubejs/data/tetra/modules/double/socket.json"
+hash = "fc959c54cf25d90fc76512b2e3d30a931d96e9323bacf0a98dcefe0622e40a81"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/oak.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "kubejs/data/tetra/modules/holo/core.json"
+hash = "99261419ca442f35a856042ed7fa648973016e0543d6be6fdd59862b1c3ed341"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/spruce.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+file = "kubejs/data/tetra/modules/holo/frame.json"
+hash = "947a5945bbe51c30b96e3338f403b4379eb768336c0aae49beb9da2e7dc437fc"
 
 [[files]]
-file = "kubejs/data/tetra/recipes/hammer/stone.json"
-hash = "0f149aa147d3c81874a794c5ef716647eca3ee83f7b501d05eedb7c736088528"
+file = "kubejs/data/tetra/modules/holo/scanner.json"
+hash = "d6b8c180daec9f9ae6fb28caef14ca8330dd2023d6126107514f4c3204adace1"
 
 [[files]]
-file = "kubejs/data/tetra/schematics/double/basic_hammer/basic_hammer.json"
-hash = "51b8c6f051c0006e3da96f954652699e167e36dafebb07002b796b6a3b1d1245"
+file = "kubejs/data/tetra/modules/shield/basic_grip.json"
+hash = "b5941d8128418d50bf79ae88e92afc8d5998e4fa6b55be46a8cb29d1528107d5"
+
+[[files]]
+file = "kubejs/data/tetra/modules/shield/buckler.json"
+hash = "62f360c78cd83ea1aa4c8bc4b96ff45ee62530c393174e35db1997df87be35f7"
+
+[[files]]
+file = "kubejs/data/tetra/modules/shield/heater.json"
+hash = "5b0c56013ca74cadbf69dbe9147ef593b3a57215dffc37b672ad0f0fc1bb069e"
+
+[[files]]
+file = "kubejs/data/tetra/modules/shield/spike.json"
+hash = "c4899b6fa72a7dff109cb6a6cd64ba1d94dc95f498a68380e16db8d6bf464c38"
+
+[[files]]
+file = "kubejs/data/tetra/modules/shield/straps.json"
+hash = "e987d0627c707bf8a262cabac552f2cf30fa0d8743ee75d098798e81d63283c6"
+
+[[files]]
+file = "kubejs/data/tetra/modules/shield/sturdy_boss.json"
+hash = "9a1346e7b882cf91eb697fed3fa28a075cab1bed6190fd38a9f59ffbf3d8ce16"
+
+[[files]]
+file = "kubejs/data/tetra/modules/shield/tower.json"
+hash = "b48ff3b6acd48ee917b2e81502acb4a509f9c8cbb136ec693ab2bb4cbf917822"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/basic_handle.json"
+hash = "ac9924c43bfa07fae9e3b41894adaefa7fe5d43e7e43e5a4bc3020258dba3e5d"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/basic_shovel.json"
+hash = "866777ba290a0ef0c722dd2d9c87734fa4b83f6597c1bccf2f1f930aa8555e5c"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/binding.json"
+hash = "1f1c92f90712c8d9f9325297223b9c5c1f73952b59e90e179c051550a268b9ca"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/earthpiercer.json"
+hash = "f1d5e627a3489655facb5a62ceb94f7d97c50531bd82681dc064c88646240c99"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/light_handle.json"
+hash = "5da878ee9c2d69d7e9d19ae95f738f47c6b348b8139fe3a401c879f4283fbe07"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/long_handle.json"
+hash = "4ffe8111957f0442539a51198dd268a19d1f8e20fdf2d286504d722f655ebe22"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/socket.json"
+hash = "586f3729e3f66225cf3344473b33a4c327c45731f217d33153b65cbe733a6a9b"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/spearhead.json"
+hash = "68af5e7b09bfde6fe3781319f5b36d37a53cc7716146271bc46a727e5e3b9545"
+
+[[files]]
+file = "kubejs/data/tetra/modules/single/trident.json"
+hash = "f3f922a25fe80bc5fdc04bdce651e84f803f9815508e8a4e96ffd35e720b4b57"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/basic_blade.json"
+hash = "75945e4863e6cd0884328e472bad30a4a9541abd6501c84a5c20de6459619a4a"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/basic_hilt.json"
+hash = "3a487b7c7eb6c17a071a63aae683487db69b5cbc23176c55789933f52d0893b1"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/binding.json"
+hash = "ea9f127d0dfdc82c1cded72ad1278c9d03aeda3453167dceeae496becfb8dce7"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/counterweight.json"
+hash = "ecdb677a7473c3c2a252f82d8ab248b138ae966144cc33cf3b3b8cf5aec7e6f1"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/decorative_pommel.json"
+hash = "caf356679fc36ae4607d20ba60a83f4961470efd83133a648e1509e11943adf3"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/forefinger_ring.json"
+hash = "b16fd428941136c9fdbb775b88e3f1b5d30186ce4e0a59f5c9dced810c443ee6"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/grip_loop.json"
+hash = "83ce401ca2e23b7d3286b212c8b7138eb41a2d282fc20e3240fb142c6c2471da"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/heavy_blade.json"
+hash = "b8a169b86794e05282d7bb1089890cd9440b2b27d3303f67df691e9623559444"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/howling.json"
+hash = "ff4ca44d4e0930a27e6c0b9f4e948ab40aa300b8072e70ede55689f69ceda3bf"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/machete.json"
+hash = "28042f16b9b65fe3a71015092608527390bb77342c36de341405bd93e0b8f20e"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/makeshift_guard.json"
+hash = "6d7e004a86379c2cc3fb64d0307c2a21286dff5ce87555177c71ed1b333b9460"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/reinforced_fuller.json"
+hash = "cc74b39cc256b00e44b687acdc9133f20e680acc8ad42ae0d7e396ab09a7a89b"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/short_blade.json"
+hash = "0e13208892725fed406549a403c6b1b639008a6663f3dd8d9008759717b6b83f"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/socket.json"
+hash = "027a14dc6c9e92cd2715a8a0989bbd60c6893638f5e5f5d7ce5329a3c95cc3ad"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/stonecutter.json"
+hash = "d4d1870d2e4bf49a882de443ce83ef435bdad22a16a7f139860b33454f88a12d"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/sturdy_guard.json"
+hash = "b03ff8c809a0f9e9102dbee52b7be97bab16f7d808c18da1d7e47ce0f97f4a84"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/throwing_knife.json"
+hash = "a6144a057b04268404aff255cd4e2f88ddcfc26c9527bc2c03979c668722bf03"
+
+[[files]]
+file = "kubejs/data/tetra/modules/sword/wide_guard.json"
+hash = "c716f8a1f183c0c4e95280fc9beb5dc51c90017d8a2d7cc487cc987de341ded3"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/belt.json"
+hash = "8c0641bddc4d392687c54f462b134c05ca0f29483096b6172272be889a0ff902"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/belt_wool.json"
+hash = "60ce5458e9a1d5e5e3407dedcd074a701fd77bc1f5995977bb6b6fb2a8e859fe"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/booster.json"
+hash = "23469e437f7fb771d98a635fd2a1a095bd045e4c084c89c6191ab4c13294f93d"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/mooncatcher.json"
+hash = "a567a175b629f8fe2994a1a1da616ca744e08f115f4e81da1dcfaa0e9f1810f4"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/nullifier.json"
+hash = "ac287a50168eaae92b7a0f7856b950ad22a2d1ddcd48c1f4a7f6c6cbab983828"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/potion_storage.json"
+hash = "c67a814e8e54445bf5dc9ec1db5c456cbffd44a7f023463994a51588508c52e3"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/quiver.json"
+hash = "0aff934d86ee9572d5e3fc0db0918ed150c12d0c75df49de3294c459a471d6d5"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/storage.json"
+hash = "0890c6ff9e623b86d52537a3f09284ed4783e80723e4ae08d454742b43e8de23"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/strap.json"
+hash = "dca40a60c2e20e478fdf735e38bd27be2087c0856a6ec9c86a0b7f112ff71c86"
+
+[[files]]
+file = "kubejs/data/tetra/modules/toolbelt/suspender.json"
+hash = "742f9cd7b8e1d37793479af1a6447dee4d04d24e3449611aae0bdfb9b9e2de67"
 
 [[files]]
 file = "kubejs/data/thermal/loot_tables/blocks/lead_ore.json"

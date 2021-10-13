@@ -1,0 +1,31 @@
+{
+  "key": "refined_radiance",
+  "category": "gem",
+  "primary": "5.8",
+  "secondary": "0.4",
+  "tertiary": "0",
+  "durability": "1024",
+  "integrityCost": "2",
+  "integrityGain": "2",
+  "magicCapacity": "75",
+  "toolLevel": "4",
+  "toolEfficiency": "3",
+  "tints": {
+    "glyph": "fff0ff",
+    "texture": "fff0ff"
+  },
+  "textures": [
+    "metal",
+    "default"
+  ],
+  "material": {
+    "item": "create:refined_radiance"
+  },
+  "improvements": {
+    "arrested": 0,
+    "tetrapak/radiant": 1
+  },
+  "requiredTools": {
+    "hammer": 5
+  }
+}

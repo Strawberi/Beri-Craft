@@ -1,0 +1,1 @@
+{"category":"metal","durability":"200","integrityCost":"2","integrityGain":"5","key":"nickel","magicCapacity":"72","material":{"tag":"forge:ingots/nickel"},"primary":"5.5","requiredTools":{"hammer":2},"secondary":"3.8","tertiary":"3","textures":["metal","default"],"tints":{"glyph":"nickel_glyph","texture":"nickel"},"toolEfficiency":"6","toolLevel":"3"}

@@ -1,0 +1,1 @@
+{"category":"wood","durability":"59","integrityCost":"1","integrityGain":"4","key":"birch","magicCapacity":"90","material":{"item":"minecraft:birch_planks"},"primary":"3","requiredTools":{"axe":1},"secondary":"1.7","tertiary":"6","textures":["crude","wooden"],"tints":{"glyph":"birch_glyph","texture":"birch"},"toolEfficiency":"2","toolLevel":"1"}

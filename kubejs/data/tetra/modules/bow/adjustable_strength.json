@@ -1,0 +1,1 @@
+{"replace":true,"slots":["bow/riser"],"tweakKey":"tetra:bow/adjustable_strength","type":"tetra:basic_module","variants":[{"durability":50,"glyph":{"textureX":80,"textureY":16,"tint":"bolt_glyph"},"integrity":-1,"key":"adjustable_strength/bolt","models":[{"location":"tetra:items/module/bow/riser/adjustable_strength/bolt","tint":"bolt","type":"static"}]}]}

@@ -1,0 +1,1 @@
+{"replace":true,"slotSuffixes":["_slot1","_slot2","_slot3"],"slots":["toolbelt/slot1","toolbelt/slot2","toolbelt/slot3"],"type":"tetra:toolbelt_module","variants":[{"effects":{"suspendSelf":1},"glyph":{"textureX":176,"textureY":48,"tint":"ffffff"},"integrity":-4,"key":"suspender/suspender"}]}

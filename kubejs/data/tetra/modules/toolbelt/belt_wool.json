@@ -1,0 +1,1 @@
+{"replace":true,"slots":["toolbelt/belt"],"type":"tetra:basic_module","variants":[{"extract":{"availableTextures":["sash"],"glyph":{"textureX":0,"textureY":16},"models":[{"location":"tetra:items/module/toolbelt/belt/"}]},"integrity":2,"key":"belt_wool/","materials":["tetra:fabric/wool/"]}]}

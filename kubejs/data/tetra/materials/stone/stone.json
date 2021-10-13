@@ -1,0 +1,1 @@
+{"category":"stone","durability":"131","integrityCost":"1","integrityGain":"4","key":"stone","magicCapacity":"90","material":{"item":"minecraft:cobblestone"},"primary":"4","requiredTools":{"hammer":1},"secondary":"3","tertiary":"0","textures":["crude","default"],"tints":{"glyph":"stone_glyph","texture":"stone"},"toolEfficiency":"4","toolLevel":"2"}
