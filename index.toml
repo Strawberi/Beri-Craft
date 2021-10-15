@@ -1673,6 +1673,50 @@ file = "kubejs/data/immersiveengineering/recipes/crafting/ingot_uranium_from_bla
 hash = "59a2ed000cda8fbb7cfee169df0d67853584753f0e4594fd47dd62d194998654"
 
 [[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_aluminum_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_constantan_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_copper_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_electrum_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_gold_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_iron_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_lead_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_nickel_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_silver_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_steel_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/immersiveengineering/recipes/crafting/plate_uranium_hammering.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/data/kubejs/loot_tables/blocks/copper_gravel.json"
 hash = "0d14ea85678b206402f7bf27f5a2658a90118c86ed7111cde7222726bd1d4c4c"
 
@@ -3097,12 +3141,16 @@ file = "kubejs/server_scripts/script.js"
 hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
 
 [[files]]
+file = "kubejs/startup_scripts/armor.js"
+hash = "9ca216c47845a7cdc1c1f9663fa80bb78c590f91b631d4621d69e7b0b89753c6"
+
+[[files]]
 file = "kubejs/startup_scripts/blocks.js"
 hash = "5346169f0719a275ac796e80d538eb1376316a3254ee26b0fb80b75435e38ac5"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "d6157a4e6bb5bd9031229d4a1369f11b7d3412c25fa7852891aabf64263333eb"
+hash = "95caed811fc32c2f9dd7cc72d8efcc0df23c7ddb1625f25a6755679541699584"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
