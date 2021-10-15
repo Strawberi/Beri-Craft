@@ -19,8 +19,9 @@ let armors = [
 onEvent('item.registry.armor_tiers', event => {
     for (let [mat, d, b, e, t, k] of armors){
         // Slot indicies are [HEAD, BODY, LEGS, FEET]
+        let dd = d
         event.add(mat, tier => {
-            tier.durabilityMultiplier = d // Each slot will be multiplied with [13, 15, 16, 11]
+            tier.durabilityMultiplier = dd // Each slot will be multiplied with [13, 15, 16, 11]
             tier.slotProtections = [Math.floor((7/12)*b), Math.floor(b), Math.floor((3/4)*b), Math.floor((1/2)*b)]
             tier.enchantmentValue = e
             tier.equipSound = 'minecraft:item.armor.equip_iron'

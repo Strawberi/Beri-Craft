@@ -3146,7 +3146,7 @@ hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
 
 [[files]]
 file = "kubejs/startup_scripts/armor.js"
-hash = "335220c78a05dc5c5d588a504c336a962f28cc6ba7864b373c46732062611bd4"
+hash = "e59ff6e7907f3ad2e11ed57c77b566790d3aec74829a2c4e151239ade06ce3d7"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
@@ -3162,7 +3162,7 @@ hash = "5c354fbb04344bab12eecf4979f16372a9910df9c669479141c9edc47e775e64"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "8bcf2b40a2d1583088023f9ffcc5ab9befc0b21979d17a6e4a478c371984711d"
+hash = "a8a447f4ae988a5e14d2d2394f7e29c5ddecdc6a8ad57a9e906fdedc1b60df71"
 
 [[files]]
 file = "kubejs/startup_scripts/smash_ores.js"

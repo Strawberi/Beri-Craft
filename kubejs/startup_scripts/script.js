@@ -16,5 +16,7 @@ onEvent("item.tags", event => {
 	event.add("kubejs:rocks", "projectvibrantjourneys:rocks"),
 	event.add("kubejs:rocks", "projectvibrantjourneys:mossy_rocks"),
 	event.add("kubejs:rocks", "projectvibrantjourneys:sandstone_rocks"),
-	event.add("kubejs:rocks", "projectvibrantjourneys:red_sandstone_rocks")
+	event.add("kubejs:rocks", "projectvibrantjourneys:red_sandstone_rocks"),
+	event.add("forge:plates", "kubejs:zinc_plate"),
+	event.add("forge:plates/zinc", "kubejs:zinc_plate")
   });
