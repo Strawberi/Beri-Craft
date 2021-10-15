@@ -2,12 +2,12 @@
     "type": "create:pressing",
     "ingredients": [
       {
-        "tag": "forge:ingots/electrum"
+        "tag": "forge:ingots/lumium"
       }
     ],
     "results": [
       {
-        "item": "thermal:electrum_plate"
+        "item": "thermal:lumium_plate"
       }
     ]
   }

@@ -2,12 +2,12 @@
     "type": "create:pressing",
     "ingredients": [
       {
-        "tag": "forge:ingots/electrum"
+        "tag": "forge:ingots/invar"
       }
     ],
     "results": [
       {
-        "item": "thermal:electrum_plate"
+        "item": "thermal:invar_plate"
       }
     ]
   }
