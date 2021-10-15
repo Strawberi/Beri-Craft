@@ -1301,6 +1301,10 @@ file = "kubejs/data/beri/recipes/pressing/uranium_ingot.json"
 hash = "c632a77d228543d943341f9eca8614b76e6ca03d98129fba8fbd8ae212619cde"
 
 [[files]]
+file = "kubejs/data/beri/recipes/pressing/zinc_ingot.json"
+hash = "cfc013f6d1471af5872e8d2cd00d43754d1b757b4538aa22717e9a048fb4e297"
+
+[[files]]
 file = "kubejs/data/beri/recipes/sift_course_dirt_to_rocks.json.off"
 hash = "1eda9b392f647244733b8de2430c4c7d84d20369148f16a0b0575d030f2ae4b8"
 
@@ -3142,7 +3146,7 @@ hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
 
 [[files]]
 file = "kubejs/startup_scripts/armor.js"
-hash = "9ca216c47845a7cdc1c1f9663fa80bb78c590f91b631d4621d69e7b0b89753c6"
+hash = "23890a1e55781d08d8c1ab1cead38f8c0131014876b06416d82b2bb38c5ee662"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
