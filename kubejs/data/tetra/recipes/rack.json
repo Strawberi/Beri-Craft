@@ -1,0 +1,19 @@
+{
+    "key": {
+        ".": {
+            "tag": "forge:nuggets"
+        },
+        "_": {
+            "tag": "minecraft:wooden_slabs"
+        }
+    },
+    "pattern": [
+        "   ",
+        "._.",
+        "   "
+    ],
+    "result": {
+        "item": "tetra:rack"
+    },
+    "type": "minecraft:crafting_shaped"
+}

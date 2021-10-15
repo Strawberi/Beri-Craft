@@ -10,7 +10,7 @@ onEvent('block.registry', event => {
         .harvestTool("shovel", 0)
         .displayName('Coppery Gravel');
         event.create('tin_ore')
-            .material('ground')
+            .material('iron')
             .hardness(2)
             .harvestTool("pickaxe", 0)
             .requiresTool(true)

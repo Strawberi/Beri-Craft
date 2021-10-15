@@ -661,16 +661,8 @@ file = "config/quark-common.toml"
 hash = "03fecdab0acd849994c7e816a4c6bdeafb0be2b3d1700dff5a8f75f053a7283d"
 
 [[files]]
-file = "config/spiders-2.0.toml"
-hash = "d802de39aad74fb7d43eb533ae82d605776a3f0934d9c516f04e2c7a9ef0c0f7"
-
-[[files]]
 file = "config/theoneprobe-common.toml"
 hash = "33b978e22b9a0382041a23e83cb77870b5d8e78dca6515be1eb35ad90d334e01"
-
-[[files]]
-file = "config/toolstats-client.toml"
-hash = "387944baa260c82fdcd55116537dffb4ccefc527fa7f616085bf242b146d1095"
 
 [[files]]
 file = "defaultconfigs/carryon-server.toml"
@@ -1253,8 +1245,36 @@ file = "kubejs/data/beri/recipes/name_tag.json"
 hash = "1165c0d3184828118db0ad4aa50d1d23151fd5882f503e1022e3ef7f63be20d1"
 
 [[files]]
+file = "kubejs/data/beri/recipes/pressing/aluminum_ingot.json"
+hash = "4f13c53e4309ba134f2830dfab9d16d2c0fa85f4d73f4ce4476be35347f79564"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/constantan_ingot.json"
+hash = "484ab9e2650d9deeb4887d52927312900868a7e00c8a4fe0f6b8c82f360eb037"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/electrum_ingot.json"
+hash = "8fd245103250587363966ee021540a5c168ec6f1cad59ebddf216a10c92623a8"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/lead_ingot.json"
+hash = "d89c265a6c1d4758b9ba4de5cce7f8f79cd5f80a3a83c9b71c7b8ed9c40c97f6"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/nickel_ingot.json"
+hash = "fd06ef1d7f3677f5f8cb504436d92e4c7e0f14e0c95f550befa1111877c92e2d"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/silver_ingot.json"
+hash = "e2ac7850409251dc767a3b249a90bf4592fa1485c1b47e3cd46a6cf09efa125f"
+
+[[files]]
 file = "kubejs/data/beri/recipes/pressing/steel_ingot.json"
 hash = "33df3248d19ce682923c30b926ddc45b811477b7fc5f2f08c66823c255aad619"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/uranium_ingot.json"
+hash = "c632a77d228543d943341f9eca8614b76e6ca03d98129fba8fbd8ae212619cde"
 
 [[files]]
 file = "kubejs/data/beri/recipes/sift_course_dirt_to_rocks.json.off"
@@ -2670,7 +2690,7 @@ hash = "822072b44436960f4ff57671ce4289f503080e705b1ff7d96aba02cf0f4f4523"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_hammer.json"
-hash = "41d6892559f038fefb9ae47a13f6d01aba157f13a3e77c87cdb4970f5e5abd63"
+hash = "cc4d05057819dc23b6b0005ca9d267a361d875359298c10f043d0367ca690970"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_handle.json"
@@ -2897,6 +2917,110 @@ file = "kubejs/data/tetra/modules/toolbelt/suspender.json"
 hash = "742f9cd7b8e1d37793479af1a6447dee4d04d24e3449611aae0bdfb9b9e2de67"
 
 [[files]]
+file = "kubejs/data/tetra/recipes/chainmail_boots.json"
+hash = "a17295eb8c85de082330ccb5f0e0510a0fcbd5d432a5a39ec68d333039859088"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/chainmail_chestplate.json"
+hash = "e24db3f788f928fa387b9a40007de711539c8e4ac28a2dd83bff341f05f8bfed"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/chainmail_helmet.json"
+hash = "0fb4b2119107e7ac0ae6815df0c0bec5a73f7f63a4f6db3bdd68f39562bec015"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/chainmail_leggings.json"
+hash = "244c614f4ce858988601c650ec8cede49d171ab6dcbaed21ba8a1b349a703b94"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/diamond.json"
+hash = "d3d115f69b852bd5d79e15bc674ee9a7fff7974a4ee24c7cfd4a9c39b17c997e"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/earthpiercer.json"
+hash = "2a965ec83e332d13294a63d50607b768b08dc990f0ad2796201376833193c142"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/emerald.json"
+hash = "d0f642952e12f987379accd619b2abfcdb7835836b832a33c57e92946b9ae94d"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/gild_scroll_2.json"
+hash = "2220205cec3adf40fde25305e61c9cd1e8d82478be56cd380011219ce678b0a0"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/gild_scroll_3.json"
+hash = "79bc85a5adaa9e9e158419e5f20d7496555bac6f908f1b9015d24b801ec851a7"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/gild_scroll_4.json"
+hash = "63a0cd94c3ece14964e92faee7faa069630b9e0f990621ecf4f0373530ba91c0"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/gild_scroll_5.json"
+hash = "3a68f6932165a6bd6d8168695bb1921c1c2d8376af68f9826c51e034c0576fdc"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/acacia.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/andesite.json"
+hash = "f605fb2e1beacdd5482160c7294d0f433a0590055a053e2466db0935633d1c0a"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/birch.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/dark_oak.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/diorite.json"
+hash = "44c8810ae53ca36d7174196ca295d03162e9579f64cc233b006444acabd667ca"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/granite.json"
+hash = "36801352e33c61ff5c2e1c37fd47d62a28f0b69ea4c0de8b46ae73983930374c"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/jungle.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/oak.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/spruce.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/hammer/stone.json"
+hash = "0f149aa147d3c81874a794c5ef716647eca3ee83f7b501d05eedb7c736088528"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/holosphere.json"
+hash = "f3f29f2721c93cc9b430167c2a9daa5b1784adbb40d2cd16db94c29e54f84565"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/lapis.json"
+hash = "5600c3016f1220c3141530c52ef28e06587e241e0738075c674d2a3eda9f7f3b"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/rack.json"
+hash = "fcf99ee9cdb0856b631ff89fc9328e6313bfe7b6f3d6e73f8ccbf4a30aca7319"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/stonecutter.json"
+hash = "a21c8b706f911a8b446a785951aa4a7f9b7c13c6d8425ddd89e175e8f350cc2c"
+
+[[files]]
+file = "kubejs/data/tetra/recipes/toolbelt_modular.json"
+hash = "95aa8f1257552dc70d6cd4c9817a7dc744abc81d4b56d5c770d70d1e6beb523d"
+
+[[files]]
 file = "kubejs/data/thermal/loot_tables/blocks/lead_ore.json"
 hash = "d5fbf1f87b54594183aa08ef6d34a53bbf05ad9d15415d4ef80a3446b5d81f61"
 
@@ -2949,16 +3073,16 @@ file = "kubejs/server_scripts/script.js"
 hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
 
 [[files]]
-file = "kubejs/startup_scripts/armors.js"
-hash = "62fb631c6e06f6c5e9d88fcd93ffe25e4524ccb5439523b2609e6a45c1fcbd19"
-
-[[files]]
 file = "kubejs/startup_scripts/blocks.js"
-hash = "c34486c599068bdb4b2adf556ba7c4c96327fe3bfd47125853c0d3cdbef47f14"
+hash = "5346169f0719a275ac796e80d538eb1376316a3254ee26b0fb80b75435e38ac5"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
 hash = "d6157a4e6bb5bd9031229d4a1369f11b7d3412c25fa7852891aabf64263333eb"
+
+[[files]]
+file = "kubejs/startup_scripts/plates.js"
+hash = "081768df8ac38a080609510a11c6a17d002ebd148ca2e16a26757d9b0133246d"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
@@ -3319,6 +3443,11 @@ metafile = true
 [[files]]
 file = "mods/the-one-probe.toml"
 hash = "523bb49c4aa144e8e854533968725d75953591c86b57e4542abb45459d669527"
+metafile = true
+
+[[files]]
+file = "mods/thermal-expansion.toml"
+hash = "eac15330ff34ebcf410e58b4183f59b39435af12cb14cd33908f559cf2aaa5f6"
 metafile = true
 
 [[files]]

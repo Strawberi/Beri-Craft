@@ -1,0 +1,16 @@
+{
+    "key": {
+        "#": {
+            "item": "tetra:forged_mesh"
+        }
+    },
+    "pattern": [
+        "   ",
+        "# #",
+        "# #"
+    ],
+    "result": {
+        "item": "minecraft:chainmail_boots"
+    },
+    "type": "minecraft:crafting_shaped"
+}

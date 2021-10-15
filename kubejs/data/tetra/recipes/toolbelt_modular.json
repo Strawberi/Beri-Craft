@@ -1,0 +1,23 @@
+{
+    "key": {
+        "#": {
+            "item": "minecraft:string"
+        }
+    },
+    "pattern": [
+        " # ",
+        "# #",
+        " # "
+    ],
+    "result": {
+        "item": "tetra:modular_toolbelt",
+        "nbt": {
+            "id": "f2b91d9b-711d-47a8-b901-523a26839a5b",
+            "toolbelt/belt": "toolbelt/belt",
+            "toolbelt/belt_material": "belt/rope",
+            "toolbelt/slot1": "toolbelt/strap_slot1",
+            "toolbelt/strap_slot1_material": "strap1/rope"
+        }
+    },
+    "type": "minecraft:crafting_shaped"
+}

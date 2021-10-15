@@ -1,0 +1,12 @@
+{
+    "ingredients": [
+        {
+            "item": "tetra:pristine_emerald"
+        }
+    ],
+    "result": {
+        "count": 1,
+        "item": "minecraft:emerald"
+    },
+    "type": "minecraft:crafting_shapeless"
+}
