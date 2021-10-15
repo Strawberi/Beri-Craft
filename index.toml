@@ -1249,28 +1249,52 @@ file = "kubejs/data/beri/recipes/pressing/aluminum_ingot.json"
 hash = "4f13c53e4309ba134f2830dfab9d16d2c0fa85f4d73f4ce4476be35347f79564"
 
 [[files]]
+file = "kubejs/data/beri/recipes/pressing/bronze_ingot.json"
+hash = "3b1db64b06a027ae619de1d05a6a5e0d646eb3c7bbb8d8b9dff5067f69745226"
+
+[[files]]
 file = "kubejs/data/beri/recipes/pressing/constantan_ingot.json"
-hash = "484ab9e2650d9deeb4887d52927312900868a7e00c8a4fe0f6b8c82f360eb037"
+hash = "df35bfcd035240be402406776774b3f94da7f3cbbb260b3932612f1d4c76b999"
 
 [[files]]
 file = "kubejs/data/beri/recipes/pressing/electrum_ingot.json"
-hash = "8fd245103250587363966ee021540a5c168ec6f1cad59ebddf216a10c92623a8"
+hash = "79abac255f3dd2076ef667c8887c2112cb5470ecc9b55204033e313ed22ea3b2"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/enderium_ingot.json"
+hash = "ef0b48e60e880ff0e7c321e56d0116325d1214a6c7a425c11c6205e14dcbde6c"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/invar_ingot.json"
+hash = "67944bc235a6ef8cbf93a617e22d957ecac984f57566ebd6ea9e6195c676db5f"
 
 [[files]]
 file = "kubejs/data/beri/recipes/pressing/lead_ingot.json"
-hash = "d89c265a6c1d4758b9ba4de5cce7f8f79cd5f80a3a83c9b71c7b8ed9c40c97f6"
+hash = "b5ad5aec9c476c705a41e9d05f7e17f2007d242f7bb23a800968fc894645400d"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/lumium_ingot.json"
+hash = "8034527c5cb221b5aa3fdc8cb582684c4893fdade6002f00353d4c82b9731566"
 
 [[files]]
 file = "kubejs/data/beri/recipes/pressing/nickel_ingot.json"
-hash = "fd06ef1d7f3677f5f8cb504436d92e4c7e0f14e0c95f550befa1111877c92e2d"
+hash = "733bf34c787d7e8bde70ec63a8ae151ab8ff078b3713e7fd8ea1141adb5836de"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/signalum_ingot.json"
+hash = "0eb65b31d8e89b6bc45c8a77d1868c8e283228ff9d31ec5e721c2117cc04e8eb"
 
 [[files]]
 file = "kubejs/data/beri/recipes/pressing/silver_ingot.json"
-hash = "e2ac7850409251dc767a3b249a90bf4592fa1485c1b47e3cd46a6cf09efa125f"
+hash = "01d76655691789cb2ffc53a1a02c96f3b1c6fafc9d8cf159eff7797324ceb18e"
 
 [[files]]
 file = "kubejs/data/beri/recipes/pressing/steel_ingot.json"
 hash = "33df3248d19ce682923c30b926ddc45b811477b7fc5f2f08c66823c255aad619"
+
+[[files]]
+file = "kubejs/data/beri/recipes/pressing/tin_ingot.json"
+hash = "4f38f69acfc4f5e8528a5175b0226a92d4f16af7ee33d0d408038f633132a9c0"
 
 [[files]]
 file = "kubejs/data/beri/recipes/pressing/uranium_ingot.json"
@@ -3079,10 +3103,6 @@ hash = "5346169f0719a275ac796e80d538eb1376316a3254ee26b0fb80b75435e38ac5"
 [[files]]
 file = "kubejs/startup_scripts/items.js"
 hash = "d6157a4e6bb5bd9031229d4a1369f11b7d3412c25fa7852891aabf64263333eb"
-
-[[files]]
-file = "kubejs/startup_scripts/plates.js"
-hash = "081768df8ac38a080609510a11c6a17d002ebd148ca2e16a26757d9b0133246d"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
