@@ -3146,7 +3146,7 @@ hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
 
 [[files]]
 file = "kubejs/startup_scripts/armor.js"
-hash = "17abea336f5cd9920d216d051bd7a3d35c2449b2fe7f4c4a2ce66da51e5c27dd"
+hash = "335220c78a05dc5c5d588a504c336a962f28cc6ba7864b373c46732062611bd4"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
