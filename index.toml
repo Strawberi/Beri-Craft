@@ -2210,7 +2210,7 @@ hash = "016dd9e04867dbb9e33e1ce3591f2f09218a81fc724973baf0db0256d205c1ef"
 
 [[files]]
 file = "kubejs/data/tetra/materials/metal/tin.json"
-hash = "9182f39890cabff66764f3364c6c6e90a2aab458071b54b588a1637712f38c71"
+hash = "2b4e8266c24c5ba0398e62745415cb00c24b6d781a6eea5ec824385ce0d4bf6d"
 
 [[files]]
 file = "kubejs/data/tetra/materials/misc/blaze_rod.json"
@@ -2786,7 +2786,7 @@ hash = "17222028c5920c77968b165e33aeca0dc4e8291fb319e1c12f6d26ab01da473f"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/adze.json"
-hash = "0cb5165e2b92b195b3d4aca2cb4cce33ac02487d80616828ac93bc0dd2d51ee2"
+hash = "214a2f13e3cf9a947d664a642e665cd52ea0de095da23bb80c94c114a9ee7290"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_axe.json"
@@ -2834,15 +2834,15 @@ hash = "fe2f710305672158fbdd1cd672942584544b0439cf8046c7b8498a4e9aad94f2"
 
 [[files]]
 file = "kubejs/data/tetra/modules/holo/core.json"
-hash = "99261419ca442f35a856042ed7fa648973016e0543d6be6fdd59862b1c3ed341"
+hash = "f39d4b519f75f101e5ac4d1b4fb75e95fa80425907b34f360dc8d2fdf5a46cda"
 
 [[files]]
 file = "kubejs/data/tetra/modules/holo/frame.json"
-hash = "947a5945bbe51c30b96e3338f403b4379eb768336c0aae49beb9da2e7dc437fc"
+hash = "3495825a49cc56e48af44a831d63ca53a451e340e5c7b13f54e560613d90b45d"
 
 [[files]]
 file = "kubejs/data/tetra/modules/holo/scanner.json"
-hash = "d6b8c180daec9f9ae6fb28caef14ca8330dd2023d6126107514f4c3204adace1"
+hash = "a99a85eecef7a292aa6c19af44d1ace3e3e15853cfcd64c273d8230c13b07a3a"
 
 [[files]]
 file = "kubejs/data/tetra/modules/shield/basic_grip.json"

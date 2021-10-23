@@ -1,1 +1,18 @@
-{"improvements":[],"replace":true,"slots":["holo/core"],"type":"tetra:basic_major_module","variants":[{"glyph":{"textureX":96,"textureY":48},"integrity":-1,"key":"core/dim"}]}
+{
+    "improvements": [],
+    "replace": true,
+    "slots": [
+        "holo/core"
+    ],
+    "type": "tetra:basic_major_module",
+    "variants": [
+        {
+            "glyph": {
+                "textureX": 96,
+                "textureY": 48
+            },
+            "integrity": -1,
+            "key": "core/dim"
+        }
+    ]
+}

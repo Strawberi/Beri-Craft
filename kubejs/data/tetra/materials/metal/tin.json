@@ -24,6 +24,6 @@
         "glyph": "tin_glyph",
         "texture": "tin"
     },
-    "toolEfficiency": "6",
+    "toolEfficiency": "3",
     "toolLevel": "1"
 }
