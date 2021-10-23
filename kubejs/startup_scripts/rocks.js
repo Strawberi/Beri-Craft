@@ -6,7 +6,7 @@ let rocks = [
   ["sandstone", "minecraft:sandstone", "minecraft:sandstone"],
   ["red_sandstone", "minecraft:red_sandstone", "minecraft:red_sandstone"],
   ["blackstone", "minecraft:blackstone", "minecraft:blackstone"],
-  ["deepslate", "cavesandcliffs:cobbled_deepslate", "cavesandcliffs:deepslate"],
+  ["deepslate", "quark:cobbled_deepslate", "quark:deepslate"],
   ["limestone", "create:limestone_cobblestone", "create:limestone"],
   ["weathered_limestone", "create:weathered_limestone_cobblestone", "create:weathered_limestone"],
   ["dolomite", "create:dolomite_cobblestone", "create:dolomite"],

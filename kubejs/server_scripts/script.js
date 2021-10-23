@@ -30,8 +30,6 @@ onEvent('item.tags', event => {
 		.add('minecraft:red_nether_bricks')
 		.add('minecraft:polished_blackstone_bricks')
 		.add('minecraft:cracked_polished_blackstone_bricks')
-		.add('cavesandcliffs:deepslate_bricks')
-		.add('cavesandcliffs:cracked_deepslate_bricks')
 		.add('create:granite_bricks')
 		.add('create:fancy_granite_bricks')
 		.add('create:diorite_bricks')

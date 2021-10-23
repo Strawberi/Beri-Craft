@@ -2,7 +2,7 @@
     "type": "create:crushing",
     "ingredients": [
       {
-        "item": "cavesandcliffs:raw_copper_block"
+        "item": "rawore:block_of_raw_copper"
       }
     ],
     "results": [

@@ -121,10 +121,6 @@ file = "config/cavebiomeapi-common.toml"
 hash = "2a8e4a47f089bd8015bda106e82dea17cdf9a84b371c11023cd86f97eb4d58b9"
 
 [[files]]
-file = "config/cavesandcliffs-common.toml"
-hash = "fe257290ae30b9ab6c109c7e4fbfc06ed84823f0fd63a2072ff1906240a8fb56"
-
-[[files]]
 file = "config/cgm-common.toml"
 hash = "4371ed0dc24bddcc46251f82172bde1c29afd9d8e8ef26a0343e5558a0610ca1"
 
@@ -135,10 +131,6 @@ hash = "4a3bccdef6b2d414178fb96395afacb53adced149e2b8b3ecb243b2af9cbb68a"
 [[files]]
 file = "config/create-common.toml"
 hash = "9d323a6dbd94ae66b0f5609fdfb08701972e9b5b127237a5506c9e16e9a7a23f"
-
-[[files]]
-file = "config/dragonsurvival-common.toml"
-hash = "32276353e82023c7061787105e00e0ed4166c939303ada9bbfa5a2d41a346a49"
 
 [[files]]
 file = "config/dsurround/dsurround-client.toml"
@@ -230,7 +222,7 @@ hash = "f5d0fbcbf769645dcc889eeecb4b6d17bef5d5d32a70fcc0b1a65438e25c2801"
 
 [[files]]
 file = "config/iceandfire-common.toml"
-hash = "c7a3080872f0434192526c51127d9271bd91337fe889adc56d2c2875de235283"
+hash = "c234a1ed5dac230e9b868125c316c632bd6e2cb56270261d84ed811b6e2e8943"
 
 [[files]]
 file = "config/iceandfire/amethyst_gen_biomes.json"
@@ -669,8 +661,56 @@ file = "defaultconfigs/carryon-server.toml"
 hash = "c50f9c2438d59c7ec0170f5ccc8f5c049e397a4fbf5927738b761c1c821c99da"
 
 [[files]]
+file = "defaultconfigs/cgm-server.toml"
+hash = "e1db85a2548294d0986ffa30b498cb6d7ebd9b26ff086602fb4e1f3aa8da0a1b"
+
+[[files]]
+file = "defaultconfigs/cofh_core-server.toml"
+hash = "b0190bbbb99fb1a04e0f36bfe477e7347ea1a45f146dd39483209579fcf00dee"
+
+[[files]]
+file = "defaultconfigs/create-server.toml"
+hash = "1b7b0bd7c2b8dbda3bc5f204ed30294db7807c8cae4d82a22bbdc11945e4874d"
+
+[[files]]
 file = "defaultconfigs/dynamictrees-server.toml"
 hash = "2f3797106413fd1ee2165ec189f783f19e4f9e49a4d3297830323c895a9a4cfc"
+
+[[files]]
+file = "defaultconfigs/dynamictreesplus-server.toml"
+hash = "02f3eb3b2a2e8cd98e76a33fc421a3ee0552d5cd6ca4efe03fc9ed62e3cc2187"
+
+[[files]]
+file = "defaultconfigs/forge-server.toml"
+hash = "5942faa1911e2785c8befd1691a8d40b8bbaf8d301fbc4cf1c939eaaded26407"
+
+[[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "bfbe2bb8d57eaaebfc7bd2da875455bfa24011098e696331d650fdcf5d6d1d9d"
+
+[[files]]
+file = "defaultconfigs/immersivepetroleum-server.toml"
+hash = "270f8227118f264d1a00df2990776e1be6c7f83a01f5f5b490470b2b8f5ffdc2"
+
+[[files]]
+file = "defaultconfigs/immersiveposts-server.toml"
+hash = "c798b0390306c71ecd9430a7acb086b508e3399229972548a3be2e213948a9ff"
+
+[[files]]
+file = "defaultconfigs/inventory_free-server.toml"
+hash = "de2e6e6414a17fd0a66e45983d7cd9aa8f283e3a21692e9b06eec7eae3c89676"
+
+[[files]]
+file = "defaultconfigs/journeymap-server.toml"
+hash = "be12a46f6815cb06a9f1964d6af9ac187511b5ff61b284d9b5816b9d6d86bc39"
+
+[[files]]
+file = "defaultconfigs/mantle-server.toml"
+hash = "d8adb8de7b1b4dcff8b1fc502e43044e933253e9e182e83c038e20895509d96c"
+
+[[files]]
+file = "defaultconfigs/thermal-server.toml"
+hash = "244b0f310133a0132c80e226027e1678f3a0917fae59f7b830c557168cd0bb26"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -690,7 +730,7 @@ hash = "783d78bd1ee61d3b32273670dff9d82c34cd74c5ae899a10f104f473828d5bbc"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/block/tin_ore.png"
-hash = "5e27b66e0f2a85813ac5db34fffee07d5509226c28051beca864c29a153050a8"
+hash = "ec771b76d757c4f965830a1517c51027c3daebb6a72979166d2ce745fc09d048"
 
 [[files]]
 file = "kubejs/assets/kubejs/textures/item/andesite.png"
@@ -1165,20 +1205,16 @@ file = "kubejs/data/beri/recipes/crude_steel_blend.json"
 hash = "da848fa49deb003671158904410633352dcb20fe1b392aed0f0d8c8e32b95ee5"
 
 [[files]]
-file = "kubejs/data/beri/recipes/crushing/coal.json"
-hash = "28e2bda37baa251d75919f384244d41f5e31375ed2ef0c4fbe4cbe9b85e79412"
-
-[[files]]
 file = "kubejs/data/beri/recipes/crushing/raw_copper_block.json"
-hash = "13291d9f06cae026476a7b318da730117e48991d01044725b04692f3fdb23d01"
+hash = "fb1edb8ec0614198fb18dbbdb3a6fb00d8ad549afbc36c2be8dfe4810d891d92"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/raw_gold_block.json"
-hash = "243024b2dafcfab0a6634b513f61476411ab2614b0bf043c08c499676018c3fd"
+hash = "5cc6c13f342901c9b15fda244deb8d21166a920840c6c20f3807cf13d94e5088"
 
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/raw_iron_block.json"
-hash = "0e47763e413624daf2b37171f525437e4515da4b01945a68d1bf560739fb3d13"
+hash = "25f252da5ed4edc3a9af0f373f4066407e3758da32e015615fb071626bbc6739"
 
 [[files]]
 file = "kubejs/data/beri/recipes/filling/treated_wood.json"
@@ -1221,20 +1257,16 @@ file = "kubejs/data/beri/recipes/ingot_tin_blasting.json"
 hash = "ef92da8320a384517436579380d6ba09d445dfe14703ba718e0d13a6bbaf3a8a"
 
 [[files]]
-file = "kubejs/data/beri/recipes/milling/mill_dragon_bones.json"
-hash = "dcad7ed9c1f37dda345ccd49d20a78cef1966eac0fb85474eaa92df3256c5361"
-
-[[files]]
 file = "kubejs/data/beri/recipes/milling/raw_copper_block.json"
-hash = "8873985d43f53c6b53ab339f49dd2e61c7b23e6fd8ce6c7a844a30cdffd0770c"
+hash = "52737c3ac4c1a02a5addffc6402152f4527f0ac8c6c3afdfc9905ca962311814"
 
 [[files]]
 file = "kubejs/data/beri/recipes/milling/raw_gold_block.json"
-hash = "960d8b229b32243909c175677147f8724c776e2d3a6cd4b818e61d46d9594516"
+hash = "954a6acc8c2c523e0a1d3174fd95b330f18bf21cf92b7d5a89a8d388cd50a74c"
 
 [[files]]
 file = "kubejs/data/beri/recipes/milling/raw_iron_block.json"
-hash = "a603cb7ec1bede0d7c3483322298984baedc6017deeee2cf5828ffdaa61220f7"
+hash = "ebf0223a522ec8a0386953592ec7d48a120a9ed9d6ea76b9001a1097368be3e5"
 
 [[files]]
 file = "kubejs/data/beri/recipes/mud_block.json"
@@ -1505,12 +1537,12 @@ file = "kubejs/data/cgm/recipes/workbench.json"
 hash = "db91d623a991614a2d9c0ffeb26e61763ef665e069ffd2e75db6be191e24a288"
 
 [[files]]
-file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
-hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
+file = "kubejs/data/create/loot_tables/blocks/copper_ore.json"
+hash = "c2e0a3769e6d2cc573ca00c9b970183f9997e649c5bacac85205895208fd5b86"
 
 [[files]]
-file = "kubejs/data/create/recipes/milling/coal.json"
-hash = "15f354250778e7ef867d59ef447e5e11c110440b88f96df26e8da604d237b388"
+file = "kubejs/data/create/loot_tables/blocks/zinc_ore.json"
+hash = "8829da85d9a9e23f4fb25495743d54e13103772b6c12eee671d2ba94e68ea7ff"
 
 [[files]]
 file = "kubejs/data/create/recipes/milling/wheat.json"
@@ -1553,39 +1585,39 @@ file = "kubejs/data/farmersdelight/recipes/wheat_dough.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "kubejs/data/forge/tags/items/dusts/aluminum.json"
+hash = "6597611710531bdd98f0c1566ac6fbda9547d0b6bcae69c759ca594333031783"
+
+[[files]]
 file = "kubejs/data/forge/tags/items/dusts/coal.json"
 hash = "ccf626744aba9bc5f4d5de8996a3f1dc582d31473e788607a861427a23a19a9d"
 
 [[files]]
-file = "kubejs/data/forge/tags/items/ores/aluminum.json"
-hash = "6597611710531bdd98f0c1566ac6fbda9547d0b6bcae69c759ca594333031783"
-
-[[files]]
-file = "kubejs/data/forge/tags/items/ores/lead.json"
+file = "kubejs/data/forge/tags/items/dusts/lead.json"
 hash = "801ab9fa728f2e267a750fb3127c828c5f9fd5af28e608cd8df8a33d5ae2ac93"
 
 [[files]]
-file = "kubejs/data/forge/tags/items/ores/nickel.json"
+file = "kubejs/data/forge/tags/items/dusts/nickel.json"
 hash = "5c1212ab23668a4ff7df3298e48cd18c5feeabe1fd31df53be9483818a71f372"
 
 [[files]]
-file = "kubejs/data/forge/tags/items/ores/silver.json"
+file = "kubejs/data/forge/tags/items/dusts/silver.json"
 hash = "dcd3a62a1d3e894c9e054c1504d925899593803658ac14c7938b22c2b74ea5eb"
 
 [[files]]
-file = "kubejs/data/forge/tags/items/ores/tin.json"
+file = "kubejs/data/forge/tags/items/dusts/tin.json"
 hash = "c3affcb2b8a49afd92a3fee73f7ff04beae5bb16943346ccdae5d28d145966b1"
 
 [[files]]
-file = "kubejs/data/forge/tags/items/ores/uranium.json"
+file = "kubejs/data/forge/tags/items/dusts/uranium.json"
 hash = "cd18f35e6a5a5cc519bfe182c8bb1c18d6d6404c6a6013ce991c3d22db39f71c"
 
 [[files]]
-file = "kubejs/data/forge/tags/items/ores/yellorite.json"
+file = "kubejs/data/forge/tags/items/dusts/yellorite.json"
 hash = "cd18f35e6a5a5cc519bfe182c8bb1c18d6d6404c6a6013ce991c3d22db39f71c"
 
 [[files]]
-file = "kubejs/data/forge/tags/items/ores/zinc.json"
+file = "kubejs/data/forge/tags/items/dusts/zinc.json"
 hash = "cdf9d7b9f3ca00f8de47208388c34628096262594a66cc963231af4c4e35ca6e"
 
 [[files]]
@@ -2054,11 +2086,11 @@ hash = "3fe29c602b59255c800b9a301202d67ad9dc39e1fe8c307ea69939fa96968b04"
 
 [[files]]
 file = "kubejs/data/tetra/materials/metal/bronze.json"
-hash = "38382713d03148d1d948619ebe5d59104943e840d438a249d76f1ffea904ddad"
+hash = "d655ac040b5e9bb763adf434a5d99a3f44ddae7a92a86e1938f2f2890dfbb5a2"
 
 [[files]]
 file = "kubejs/data/tetra/materials/metal/copper.json"
-hash = "8388c679aa8c7eb8a6b5814331c25521e96c58aeefaf9f51206077341ed47ff6"
+hash = "d2b15e424427cbf9e8116fc8c3b40bc831cb9a43252b5e308c7e89ee4ef87de2"
 
 [[files]]
 file = "kubejs/data/tetra/materials/metal/electrum.json"
@@ -2178,7 +2210,7 @@ hash = "016dd9e04867dbb9e33e1ce3591f2f09218a81fc724973baf0db0256d205c1ef"
 
 [[files]]
 file = "kubejs/data/tetra/materials/metal/tin.json"
-hash = "dc90b3bcc72e05db535a65189368c6c5720181f30a3aaa508ef75853ef12bdf2"
+hash = "9182f39890cabff66764f3364c6c6e90a2aab458071b54b588a1637712f38c71"
 
 [[files]]
 file = "kubejs/data/tetra/materials/misc/blaze_rod.json"
@@ -2758,7 +2790,7 @@ hash = "0cb5165e2b92b195b3d4aca2cb4cce33ac02487d80616828ac93bc0dd2d51ee2"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_axe.json"
-hash = "822072b44436960f4ff57671ce4289f503080e705b1ff7d96aba02cf0f4f4523"
+hash = "895d11e909fc089432e094372d47b2a8c9e13ab899c54148271a27b90fd48196"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_hammer.json"
@@ -2770,35 +2802,35 @@ hash = "80ce126384f0ea9f185ba60484c9d657f6eef537524e3a4648d98516e652e650"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/basic_pickaxe.json"
-hash = "80ed8987951071aa858bb588288d4b9172e92d4b79845162667212b95377f886"
+hash = "2ded3a0123c265752b32a4bbb3b6fd799812ac9308bd6f41b21e984e658e7b00"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/binding.json"
-hash = "da99d75c4d2dcfcd47d60e5a7b9f0c0b1daf735d6358ed8133db2c84cccfc53e"
+hash = "ee7552b567da130a96b6a4e5e47661d0b3018afbf4b4573721b89aa9c9757896"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/butt.json"
-hash = "83edd767aedf6f52e9309162d1c89c599727932eb50128e482b12a79bff3eade"
+hash = "393a069cc7705880bbfc4e4375052c014595d4a8e230fe31a6dbb7384dd0f3ec"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/claw.json"
-hash = "66c5219ca65bf85402446d6033a435dfc5fbbc4c16d25f3940c128442c54d94e"
+hash = "5da0a8d9ff231e101454224a42b6844ccd7166323d9a0bd17b15002e19d20d62"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/extractor.json"
-hash = "d9e6b18020fe38578adf124f9a24a60e21f6dd620cd202dabe39cd7553da9742"
+hash = "337cdcd6ccb3133b19e0ffdf3c806a3577fe35967af8a1bb836627d2f8d0c856"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/hoe.json"
-hash = "759669d436c480e36e27fded4b00c36f3393ded730789a758778f5d89cade5be"
+hash = "7352fc5c53854e91055d06869b96cae87310dfde8279e85ccc1faf1b0bbdd5a5"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/sickle.json"
-hash = "089d1f49c6ed9df71074a96b1b143e49ef5abcea201644c17a9c40dcfc89d2c0"
+hash = "14d6a246c760666c266b40d8a1e169ada7a75b31010502d019432af109dc98fc"
 
 [[files]]
 file = "kubejs/data/tetra/modules/double/socket.json"
-hash = "fc959c54cf25d90fc76512b2e3d30a931d96e9323bacf0a98dcefe0622e40a81"
+hash = "fe2f710305672158fbdd1cd672942584544b0439cf8046c7b8498a4e9aad94f2"
 
 [[files]]
 file = "kubejs/data/tetra/modules/holo/core.json"
@@ -3109,40 +3141,8 @@ file = "kubejs/data/thermal/loot_tables/blocks/tin_ore.json"
 hash = "a9decf8d5a5c0a3e7b463eeed6369ce1afebf61124ea36e62aac375c6b052dbc"
 
 [[files]]
-file = "kubejs/exported/tags/blocks.txt"
-hash = "f6f05dec7596dccd02171a6b7028f6b4ac60ab624976e8ec30d967ba509bc886"
-
-[[files]]
-file = "kubejs/exported/tags/enchantments.txt"
-hash = "3b95bd5f342f89e5e82e3e8276aac010c934dfab4dfdbe3771bfc8b441ac2ee1"
-
-[[files]]
-file = "kubejs/exported/tags/entity_types.txt"
-hash = "03045f432a3930a0f26b5534675735ea6647a1410cc165337ce647f16188e173"
-
-[[files]]
-file = "kubejs/exported/tags/fluids.txt"
-hash = "f23f44c86a930d6e858b8001ce028470082e500c777e5bf86c80cb66b086fb48"
-
-[[files]]
-file = "kubejs/exported/tags/functions.txt"
-hash = "734ec4102d0e7314d5a2eadfe6e15c623dede421d3593d6125da73f35e1b3c5d"
-
-[[files]]
-file = "kubejs/exported/tags/items.txt"
-hash = "aabafc69b4e42495a66bb6c9593c4a15ff6380309202c3cc8738b14d8d32a7a3"
-
-[[files]]
-file = "kubejs/exported/tags/potions.txt"
-hash = "3b95bd5f342f89e5e82e3e8276aac010c934dfab4dfdbe3771bfc8b441ac2ee1"
-
-[[files]]
-file = "kubejs/exported/tags/tile_entity_types.txt"
-hash = "3b95bd5f342f89e5e82e3e8276aac010c934dfab4dfdbe3771bfc8b441ac2ee1"
-
-[[files]]
 file = "kubejs/server_scripts/script.js"
-hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
+hash = "c43e28c915842420e00d66da75f9dcee770d16e70dccd9e2d0284254e9b6df00"
 
 [[files]]
 file = "kubejs/startup_scripts/armor.js"
@@ -3158,14 +3158,14 @@ hash = "95caed811fc32c2f9dd7cc72d8efcc0df23c7ddb1625f25a6755679541699584"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
-hash = "5c354fbb04344bab12eecf4979f16372a9910df9c669479141c9edc47e775e64"
+hash = "3257dd5bf4d1251eb64be294964283e4d5df44b6d4ba6765893e6959d923b5f7"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
 hash = "a8a447f4ae988a5e14d2d2394f7e29c5ddecdc6a8ad57a9e906fdedc1b60df71"
 
 [[files]]
-file = "kubejs/startup_scripts/smash_ores.js"
+file = "kubejs/startup_scripts/smash_ores.js.off"
 hash = "ebd7b55690722a8cba1070cbd0c87f05e206c2425c96659553a6b7f8378aa598"
 
 [[files]]

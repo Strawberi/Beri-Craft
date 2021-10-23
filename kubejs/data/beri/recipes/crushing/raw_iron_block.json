@@ -2,7 +2,7 @@
     "type": "create:crushing",
     "ingredients": [
       {
-        "item": "cavesandcliffs:raw_iron_block"
+        "item": "rawore:block_of_raw_iron"
       }
     ],
     "results": [
