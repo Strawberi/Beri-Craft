@@ -19,13 +19,12 @@ let armors = [
 onEvent('item.registry.armor_tiers', event => {
     for (let [mat, d, b, e, t, k] of armors){
         // Slot indicies are [HEAD, BODY, LEGS, FEET]
-        let dd = d
         event.add(mat, tier => {
-            tier.durabilityMultiplier = dd // Each slot will be multiplied with [13, 15, 16, 11]
-            tier.slotProtections = [Math.floor((7/12)*b), Math.floor(b), Math.floor((3/4)*b), Math.floor((1/2)*b)]
+            tier.durabilityMultiplier = d // Each slot will be multiplied with [13, 15, 16, 11]
+            tier.slotProtections = [Math.floor((7/12)*b), Math.floor((3/4)*b), Math.floor(b), Math.floor((1/2)*b)]
             tier.enchantmentValue = e
             tier.equipSound = 'minecraft:item.armor.equip_iron'
-            tier.repairIngredient = '#forge:ingots/' + mat
+            tier.repairIngredient = '#forge:plates/' + mat
             tier.toughness = t // diamond has 2.0, netherite 3.0
             tier.knockbackResistance = k
         })
@@ -34,10 +33,10 @@ onEvent('item.registry.armor_tiers', event => {
 
 onEvent('item.registry', event => {
     for (let [mat, d, b, e, t, k] of armors){
-        event.create(mat + "_helmet").displayName(mat[0].toUpperCase() + mat.substr(1) + " Helmet").type("helmet").tier(mat)
-        event.create(mat + "_chestplate").displayName(mat[0].toUpperCase() + mat.substr(1) + " Chestplate").type("chestplate").tier(mat)
-        event.create(mat + "_leggings").displayName(mat[0].toUpperCase() + mat.substr(1) + " Leggings").type("leggings").tier(mat)
-        event.create(mat + "_boots").displayName(mat[0].toUpperCase() + mat.substr(1) + " Boots").type("boots").tier(mat)
+        event.create(mat + "_helmet").displayName(mat[0].toUpperCase() + mat.substr(1) + " Helmet").type("helmet").tier(mat).maxDamage(d * 13)
+        event.create(mat + "_chestplate").displayName(mat[0].toUpperCase() + mat.substr(1) + " Chestplate").type("chestplate").tier(mat).maxDamage(d * 16)
+        event.create(mat + "_leggings").displayName(mat[0].toUpperCase() + mat.substr(1) + " Leggings").type("leggings").tier(mat).maxDamage(d * 15)
+        event.create(mat + "_boots").displayName(mat[0].toUpperCase() + mat.substr(1) + " Boots").type("boots").tier(mat).maxDamage(d * 11)
     }
 })
 

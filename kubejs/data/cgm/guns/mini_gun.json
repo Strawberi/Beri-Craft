@@ -10,11 +10,12 @@
         "spread": 5.0
     },
     "projectile": {
-        "item": "cgm:basic_bullet",
+        "item": "additionalguns:ammo_762_51",
         "visible": false,
-        "damage": 3.0,
-        "size": 0.2,
-        "speed": 15.0,
+        "gravity": true,
+        "damage": 19,
+        "size": 0.0625,
+        "speed": 30.0,
         "life": 10
     },
     "sounds": {

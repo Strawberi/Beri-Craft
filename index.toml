@@ -926,7 +926,7 @@ hash = "f196a8b88c4d0dcdb2f658cb080aa7d472a0bbfc95defb4db69083486a49bb4b"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/9a91.json"
-hash = "1a8f873a9f4e8def81646135a8f7c932ee0e15190001c413de38669959656257"
+hash = "dd2e442a3193148c96baf6e9913702ea3cd58f4242d20b0736b930601be9a4a4"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/ace_of_spades.json"
@@ -934,23 +934,23 @@ hash = "2208f91a9a54215ad0d95a82af1b1c512043e95ff5b102a2610d4244c440b747"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/ak105.json"
-hash = "75610c489db2a3d190704116134ad52bec03fe5193d400d7c0d9698f757f3d66"
+hash = "01ce41866e341d73dca3e7387f0ff2d5abaee31a8b6f2eeb3027bf75ba53a178"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/aug.json"
-hash = "745e92979cb3188e4808a746dc9e0a6f48eacc2816017e098b267c980487d40d"
+hash = "1bb9f850f5bc9b7f4a9468584bdc9dd07095213aa79d091aa311582c88b35c55"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/banshee.json"
-hash = "ffd0b9010969ce5d9a8b6e7fb5cbee3c9d7f2317e4258bb186d7dd6bcb9f0eb2"
+hash = "06365bec5312cadb9ebe0fcbc181b271422fe49505ab47ec2635181738698d0c"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/fn2000.json"
-hash = "44b7fcf27ea3309b90618bc8ba76d204e2ca03d91f042a90e223abc4c61e4294"
+hash = "1c40e64b4e2bded3b389b1dde7adb4ab4db1861e59c04c5e9e5b02622ccbfa68"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/g11.json"
-hash = "fd25d69d90db4d105fe1c13d25f9f84e43b0a887530a4227afdba999b0e08994"
+hash = "58abdaddc125abe681f4a4c042325c27bc5559ce0e9ebc1a9a3dd09d292dc83d"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/mammoth.json"
@@ -958,15 +958,15 @@ hash = "c2a44d785160064ece6dec69e07081b736087801e654cce6d54636523287b462"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/mat_49.json"
-hash = "8346fa3ce63d52d52344799bb47b5f7836da80334a636f5e3ddee2da37823b78"
+hash = "605a279b794cb5b5490cbaa9646920fe27c1cb93a891f90c1e1473c71dca7ac5"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/ots_03.json"
-hash = "21b9323de76aaf6b7a08bbdb1ff5141534880362b57f673ca4c13334e87320c3"
+hash = "7a31d98d2c14fe75e21ce0c0dd5ac1357a1e66e8a22071a69e40f4c04f31af14"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/pp_19.json"
-hash = "f1831de4de34fff3b3d5fe4760fe2e8a0eb15005fd2494e907589bc9632443ef"
+hash = "7bd6441d6009fb08dc6bde21da29b6177cc5b958212c47bf9f3bbf77b16ccdac"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/ravens_claw.json"
@@ -974,19 +974,19 @@ hash = "8b577af85001cf18dc1d3c5da01bcbab8bab99c1fd607fcb541818c8947a5469"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/schwarzlose.json"
-hash = "971ec62981dcf985654168fa219b1aabdcefabe633eb3c2f64f5da3c4229973f"
+hash = "270adbaa8a0e9f05286dd1fda2151274cf9b0adebef0be2079d80bfae5718fb0"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/val.json"
-hash = "db6730c8fb259c886ec14cfc18d08a7cc2ff11ce93e0f117871ec874f4eb3c6c"
+hash = "03ef84bb6f44cc45cde699cc69a3db8663c6dab3e8598c1295f60f7cbf9d94b4"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/vector.json"
-hash = "74e206019768fcf3bd76ff8baa93fac922f9e718fa63e955792c0e398088a6f0"
+hash = "464a51b1af699a5b666d09a4cf42ff177a0e95a09e64955751af34589c9bdab9"
 
 [[files]]
 file = "kubejs/data/additionalguns/guns/vintorez.json"
-hash = "7ac60adb90ef44965b8cd11e2db0fb901fc08639a669c85def38adab63f6c93d"
+hash = "2cbd53743a8a413609e74299aea46a28fd4d175a53f272de3b7a81fc0b0180e7"
 
 [[files]]
 file = "kubejs/data/additionalguns/recipes/9a91.json"
@@ -1362,7 +1362,7 @@ hash = "57957b83f83cf8ef151a2bc355c38fc6a34bd56f0351f255ba9ebe669c8e558b"
 
 [[files]]
 file = "kubejs/data/cgm/guns/assault_rifle.json"
-hash = "93994be262ff4f7bce3af4319bf468e45be74d9d42d8541458f3bf7793fe5b12"
+hash = "6a669d6ef99849f5471bdc067d91a9ac48d65b71964adc17276c1cb8d33113f0"
 
 [[files]]
 file = "kubejs/data/cgm/guns/bazooka.json"
@@ -1374,7 +1374,7 @@ hash = "ff09b58ba9452dbb6994d342a4b31af94f6c32fc949cdd9ad48cbb084154f9c0"
 
 [[files]]
 file = "kubejs/data/cgm/guns/heavy_rifle.json"
-hash = "49b90fc373f1768c4a839c1fec65e19f5eb0ece6bb148eff00f726115d7eeeb2"
+hash = "58fb53b049ffe134b952554460d02d2e249557e347fe27cd8d1c7086cef74b7f"
 
 [[files]]
 file = "kubejs/data/cgm/guns/machine_pistol.json"
@@ -1382,15 +1382,15 @@ hash = "0756fdb4578ade2904935c5301580f1b680d76c6565e3555959085da1c0a88f9"
 
 [[files]]
 file = "kubejs/data/cgm/guns/mini_gun.json"
-hash = "012a991a46b6d6a987f7a5d91b30aed369cc2aa0ff971bd0c6f99d179b0ab392"
+hash = "568fc00ea9a3884fa0059b54ebca59282f306679e981976bf75e34d89af3e519"
 
 [[files]]
 file = "kubejs/data/cgm/guns/pistol.json"
-hash = "d5af4db78ebc057964eba1fa8496c3ac710a77a55eb48de901dd336c8c37fe45"
+hash = "166a81f1544afd2844924c6e5b5ea37911e6a342e7d106c13c56efd89fafc2ca"
 
 [[files]]
 file = "kubejs/data/cgm/guns/rifle.json"
-hash = "0dc6e077118768c2b540254fa0c64f4b360fe47d8e895ea058ac9be4de6d944b"
+hash = "1030e730dd097da8d354fb7811ecb49590ba42a2f694d9463ea1dd5d9f745c0a"
 
 [[files]]
 file = "kubejs/data/cgm/guns/shotgun.json"
@@ -3146,7 +3146,7 @@ hash = "84d4fb33c156b415dd836705491830350ccbcdd02a0a203a276048a6fbf2d1af"
 
 [[files]]
 file = "kubejs/startup_scripts/armor.js"
-hash = "e59ff6e7907f3ad2e11ed57c77b566790d3aec74829a2c4e151239ade06ce3d7"
+hash = "ebd651b1757ce7c44be447991221fd4665b6ca2caba7994f5fed5321521bb801"
 
 [[files]]
 file = "kubejs/startup_scripts/blocks.js"
@@ -3238,11 +3238,6 @@ hash = "b3e5e5dc5b64a4dd8ac098611b7ddd7a8ad5b25352b4bee3ddb6f670adf4dca5"
 metafile = true
 
 [[files]]
-file = "mods/caves-and-cliffs-backport.toml"
-hash = "cda15531d8c5854544bd7bbbf3fa14e49e54fd5f70ac6e2d9da67f8bf9c4eec6"
-metafile = true
-
-[[files]]
 file = "mods/ceramics.toml"
 hash = "c9ef0996f957dfa99ecb152fc88207a94e6988fa80118bd5bc3849730d82b021"
 metafile = true
@@ -3278,13 +3273,13 @@ hash = "8675778e4bca8e8f9166a42ededd239b64f4898a313b25ab79f3b04b93011748"
 metafile = true
 
 [[files]]
-file = "mods/ding.toml"
-hash = "ff3492c9823aef1547c62807ba70e203d574011f4932e111a90c70d895b3bc36"
+file = "mods/createaddition.toml"
+hash = "9b2f29a65a5183f8a7501a4511a610d0711a75f1285d9f766431403910fd3362"
 metafile = true
 
 [[files]]
-file = "mods/dragons-survival.toml"
-hash = "e8d7b22c2ba375e25391a2f7d63894e50396de87f3c65c32c3a60ea15933a1a9"
+file = "mods/ding.toml"
+hash = "ff3492c9823aef1547c62807ba70e203d574011f4932e111a90c70d895b3bc36"
 metafile = true
 
 [[files]]
@@ -3470,6 +3465,11 @@ metafile = true
 [[files]]
 file = "mods/quark.toml"
 hash = "32a1e8920cc2dd267e48ebdf906d46cab46abaca9451d68dde16afb642ce8ef5"
+metafile = true
+
+[[files]]
+file = "mods/rawore.toml"
+hash = "384c2d41000d89af8dbc6b004fc27a0a3f6e76b2863658b2c50c66c994fc281d"
 metafile = true
 
 [[files]]
