@@ -2089,6 +2089,10 @@ file = "kubejs/data/tetra/materials/metal/bronze.json"
 hash = "d655ac040b5e9bb763adf434a5d99a3f44ddae7a92a86e1938f2f2890dfbb5a2"
 
 [[files]]
+file = "kubejs/data/tetra/materials/metal/compat/tin.json"
+hash = "2b4e8266c24c5ba0398e62745415cb00c24b6d781a6eea5ec824385ce0d4bf6d"
+
+[[files]]
 file = "kubejs/data/tetra/materials/metal/copper.json"
 hash = "d2b15e424427cbf9e8116fc8c3b40bc831cb9a43252b5e308c7e89ee4ef87de2"
 
@@ -2207,10 +2211,6 @@ hash = "15eab6f620d820b1dc6c4cbe59edfabd81d1bc2db34a12b42b88c5a3fbf8a00c"
 [[files]]
 file = "kubejs/data/tetra/materials/metal/thallasium.json"
 hash = "016dd9e04867dbb9e33e1ce3591f2f09218a81fc724973baf0db0256d205c1ef"
-
-[[files]]
-file = "kubejs/data/tetra/materials/metal/tin.json"
-hash = "2b4e8266c24c5ba0398e62745415cb00c24b6d781a6eea5ec824385ce0d4bf6d"
 
 [[files]]
 file = "kubejs/data/tetra/materials/misc/blaze_rod.json"
