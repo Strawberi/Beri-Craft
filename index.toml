@@ -389,22 +389,6 @@ file = "config/instantunify-common.toml"
 hash = "b5d9f8558dbb7ba1a89b7b75cc3d28b58cd664956f2b14d2054bbd31f1933453"
 
 [[files]]
-file = "config/jei/bookmarks.ini"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "c293865d3d6c5433ce3ac344bf8dfaea76c94ed97cf2c7fbb8ca93ec86caaaed"
-
-[[files]]
-file = "config/jei/ingredient-list-type-sort-order.ini"
-hash = "1a40d9bb6a344c7f5f6ea234717a125dda525055df5414e07da8348a5d80c56c"
-
-[[files]]
-file = "config/jei/recipe-category-sort-order.ini"
-hash = "ad676f787cd943cd04cf1a7c45dda827554ab1c5b7ca8dec48e2031a0079b999"
-
-[[files]]
 file = "config/offhandcombat-common.toml"
 hash = "023a98487c04c193225fce08246261d5b6726ef09588956d66eaa3b34ffd3cf1"
 
@@ -3025,6 +3009,30 @@ file = "kubejs/data/thermal/loot_tables/blocks/tin_ore.json"
 hash = "a9decf8d5a5c0a3e7b463eeed6369ce1afebf61124ea36e62aac375c6b052dbc"
 
 [[files]]
+file = "kubejs/data/thermal/recipes/dynamo_compression.json"
+hash = "a6c1c26f74b70274f6ff47e717d7df23def65ded349b90845224505e44f94eee"
+
+[[files]]
+file = "kubejs/data/thermal/recipes/dynamo_lapidary.json"
+hash = "43bb84da0c21f724d5bec97dd1150a20325fd6380b3aafa58629f6ecd7cf9c33"
+
+[[files]]
+file = "kubejs/data/thermal/recipes/dynamo_magmatic.json"
+hash = "e9f911e59a1323405e72d7a0fee4c0352eaa9a7532b2a6f01c5afbbd81121680"
+
+[[files]]
+file = "kubejs/data/thermal/recipes/dynamo_numismatic.json"
+hash = "2fb9ce927eba18c6fa26c4bcb9d50994e988c857378cb6b6a75876f5a9f45978"
+
+[[files]]
+file = "kubejs/data/thermal/recipes/dynamo_stirling.json"
+hash = "59d560d942d39237a55db00e95810271958910aa76c6a7ae96c157fcc9cbf6b8"
+
+[[files]]
+file = "kubejs/data/thermal/recipes/machine_frame.json"
+hash = "6b2f747f089bf25b9b1719ebccb262006cbdddcec1a618975e1bd6e8551ba884"
+
+[[files]]
 file = "kubejs/server_scripts/script.js"
 hash = "c43e28c915842420e00d66da75f9dcee770d16e70dccd9e2d0284254e9b6df00"
 
@@ -3046,7 +3054,7 @@ hash = "3257dd5bf4d1251eb64be294964283e4d5df44b6d4ba6765893e6959d923b5f7"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "a4c09c26c9933c084ab2f935f5f2df1a657b86561c98412895983cf244e6f1eb"
+hash = "2e34bca8a71e901645c756a68650ef8715890d3450af3732bd80ac7722858fc7"
 
 [[files]]
 file = "kubejs/startup_scripts/smash_ores.js.off"
