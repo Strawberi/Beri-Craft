@@ -113,5 +113,19 @@
     "ingot": {
       "type": "same_as_ingredient"
     }
+  },
+  "bronze": {
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/bronze"
+    },
+    "heated_ingot": {
+      "type": "item",
+      "item": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
   }
 }

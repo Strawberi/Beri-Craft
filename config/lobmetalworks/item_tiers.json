@@ -16,8 +16,15 @@
   "copper": {
     "durability": 200,
     "damage_bonus": 1.5,
+    "mining_level": 1,
+    "mining_speed": 3.0,
+    "enchantability": 10
+  },
+  "bronze": {
+    "durability": 300,
+    "damage_bonus": 2.25,
     "mining_level": 2,
     "mining_speed": 5.0,
-    "enchantability": 10
+    "enchantability": 12
   }
 }

@@ -137,5 +137,27 @@
       "type": "item",
       "item": "minecraft:netherite_sword"
     }
+  },
+  "bronze": {
+    "axe": {
+      "type": "item",
+      "item": "new"
+    },
+    "shovel": {
+      "type": "item",
+      "item": "new"
+    },
+    "pickaxe": {
+      "type": "item",
+      "item": "new"
+    },
+    "hoe": {
+      "type": "item",
+      "item": "new"
+    },
+    "sword": {
+      "type": "item",
+      "item": "new"
+    }
   }
 }

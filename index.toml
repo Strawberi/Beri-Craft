@@ -406,23 +406,23 @@ hash = "ce06d62a347dd863d4cd8592ea4786b7fd891f7c0ac0eb436764474eb6c7b3d7"
 
 [[files]]
 file = "config/lobmetalworks/item_tiers.json"
-hash = "741fc09b95f3509940aad86c1ec393cd04ebef2653f18fa6aa883c25468d05f6"
+hash = "d3fb48fab6a99eef48722b1d90fb7315f5f4c3dfcc6af2abe7a39aecb92aa357"
 
 [[files]]
 file = "config/lobmetalworks/materials.json"
-hash = "d5af96a409170bbb78e987e85abf332fa4747a5c332a88bb1dbae68cea510f3c"
+hash = "f4ced2504ce9d7c5dd34282e9d488d5ddf6cee5599b21bb4b469cc542472b116"
 
 [[files]]
 file = "config/lobmetalworks/misc_items.json"
-hash = "0ace8e56307ec2c1d7ea80363124017f17caedb14a47e1b0635a66c4895975d4"
+hash = "dd3ee666ab717a96775435b222ea859a2e1f683b965a687e6ca4cbab4282af8b"
 
 [[files]]
 file = "config/lobmetalworks/tool_parts.json"
-hash = "0e73df5e4cc139c1a92d2642f3becea3d41bf39edd585fd1576f4ac481150112"
+hash = "8f57da93443b760b4903b4908ad3565f502c9dc75e372a7c54d597bd393ee75f"
 
 [[files]]
 file = "config/lobmetalworks/tools.json"
-hash = "ea5a77265acf45a421550a6c75a498ccacfdc92b6ad1d396b6797d83de4dde99"
+hash = "6b2f845e9f7efb70d92cce2148f62ad59804b93477e2cdb486d8ceee755677ca"
 
 [[files]]
 file = "config/offhandcombat-common.toml"
@@ -1251,6 +1251,10 @@ hash = "5cc6c13f342901c9b15fda244deb8d21166a920840c6c20f3807cf13d94e5088"
 [[files]]
 file = "kubejs/data/beri/recipes/crushing/raw_iron_block.json"
 hash = "25f252da5ed4edc3a9af0f373f4066407e3758da32e015615fb071626bbc6739"
+
+[[files]]
+file = "kubejs/data/beri/recipes/flint_and_copper.json"
+hash = "4b0f66d1b27384412ea87b8d5000e6e7785810951876242c92b2115985a6fc4d"
 
 [[files]]
 file = "kubejs/data/beri/recipes/flint_axe.json"

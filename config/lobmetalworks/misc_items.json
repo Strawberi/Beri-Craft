@@ -31,5 +31,16 @@
     "rod": {
       "type": "new"
     }
+  },
+  "bronze": {
+    "gear": {
+      "type": "new"
+    },
+    "plate": {
+      "type": "new"
+    },
+    "rod": {
+      "type": "new"
+    }
   }
 }

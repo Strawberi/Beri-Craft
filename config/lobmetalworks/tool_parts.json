@@ -137,5 +137,27 @@
       "type": "item",
       "item": "lobmetalworks:netherite_sword_blade"
     }
+  },
+  "bronze": {
+    "axe_head": {
+      "type": "item",
+      "item": "new"
+    },
+    "shovel_head": {
+      "type": "item",
+      "item": "new"
+    },
+    "pickaxe_head": {
+      "type": "item",
+      "item": "new"
+    },
+    "hoe_blade": {
+      "type": "item",
+      "item": "new"
+    },
+    "sword_blade": {
+      "type": "item",
+      "item": "new"
+    }
   }
 }
