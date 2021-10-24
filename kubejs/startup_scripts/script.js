@@ -17,10 +17,12 @@ onEvent("item.tags", event => {
 	event.add("kubejs:rocks", "projectvibrantjourneys:mossy_rocks"),
 	event.add("kubejs:rocks", "projectvibrantjourneys:sandstone_rocks"),
 	event.add("kubejs:rocks", "projectvibrantjourneys:red_sandstone_rocks"),
-	event.add("forge:plates", "kubejs:zinc_plate"),
-	event.add("forge:plates/zinc", "kubejs:zinc_plate"),
+	event.add("forge:plates", "createaddition:zinc_sheet"),
+	event.add("forge:plates/zinc", "createaddition:zinc_sheet"),
 	event.add("forge:ingots", "kubejs:steel_ingot"),
 	event.add("forge:ingots/steel", "kubejs:steel_ingot"),
 	event.add("forge:dusts/coal_coke", "kubejs:coke_dust"),
-	event.add("forge:dusts/steel", "kubejs:steel_blend")
+	event.add("forge:dusts/steel", "kubejs:steel_blend"),
+	event.add("forge:ores/tin", "kubejs:tin_ore"),
+	event.add("forge:ores", "kubejs:tin_ore")
   });

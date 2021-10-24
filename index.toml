@@ -1169,6 +1169,10 @@ file = "kubejs/data/additionalguns/recipes/zerkalo_scope.json"
 hash = "b160d7144b5f994080cd728e8cee6ff3fb6e0ca4d324f0bb7a5be8a82eb0c17c"
 
 [[files]]
+file = "kubejs/data/beri/recipes/blast_steel.json"
+hash = "000df65755c64340f90110e86c7aaeb879c3ef229daa6f77e516f14125861897"
+
+[[files]]
 file = "kubejs/data/beri/recipes/campfire_brick.json"
 hash = "472a43a4337f66f3bb548fd9a0f38cfaacc8258d675d59bde7f58c011e391788"
 
@@ -1265,6 +1269,14 @@ file = "kubejs/data/beri/recipes/ingot_tin_blasting.json"
 hash = "ef92da8320a384517436579380d6ba09d445dfe14703ba718e0d13a6bbaf3a8a"
 
 [[files]]
+file = "kubejs/data/beri/recipes/milling/coal_coke.json"
+hash = "d4be1a17c629293fe674af91653371ca0fca99238d5b16723d09238ad2632d3e"
+
+[[files]]
+file = "kubejs/data/beri/recipes/milling/coal_coke_block.json"
+hash = "9abe969b145f24d2561eaa6ad80bb89e3270c3fdf364c73a643cec8b7c1b0d1d"
+
+[[files]]
 file = "kubejs/data/beri/recipes/milling/raw_copper_block.json"
 hash = "52737c3ac4c1a02a5addffc6402152f4527f0ac8c6c3afdfc9905ca962311814"
 
@@ -1335,10 +1347,6 @@ hash = "4f38f69acfc4f5e8528a5175b0226a92d4f16af7ee33d0d408038f633132a9c0"
 [[files]]
 file = "kubejs/data/beri/recipes/pressing/uranium_ingot.json"
 hash = "4fedb5ba85cd0076dfd8f2a404c27ecd98d98b2390bdf563a86843c714cd8d22"
-
-[[files]]
-file = "kubejs/data/beri/recipes/pressing/zinc_ingot.json"
-hash = "cfc013f6d1471af5872e8d2cd00d43754d1b757b4538aa22717e9a048fb4e297"
 
 [[files]]
 file = "kubejs/data/beri/recipes/primitive_coke_oven.json"
@@ -1586,7 +1594,7 @@ hash = "dcd3a62a1d3e894c9e054c1504d925899593803658ac14c7938b22c2b74ea5eb"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/dusts/tin.json"
-hash = "c3affcb2b8a49afd92a3fee73f7ff04beae5bb16943346ccdae5d28d145966b1"
+hash = "3be585568ec81c7916de1785cb6f5da598b25510628b7d7fe01d3ab470679a20"
 
 [[files]]
 file = "kubejs/data/forge/tags/items/dusts/uranium.json"
@@ -3030,7 +3038,7 @@ hash = "5346169f0719a275ac796e80d538eb1376316a3254ee26b0fb80b75435e38ac5"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "a3cccf103d04357858d80653d43c33bedf33e111279d7a47cc1d332766aef9e3"
+hash = "58ffadd32de4f318e11e075d7912a325d5627b797c84b9bb0366c73e3c0d835a"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
@@ -3038,7 +3046,7 @@ hash = "3257dd5bf4d1251eb64be294964283e4d5df44b6d4ba6765893e6959d923b5f7"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
-hash = "7b51b523685057fa11151f4af1b29f41569e75cb37426db70730082a9db32f6d"
+hash = "a4c09c26c9933c084ab2f935f5f2df1a657b86561c98412895983cf244e6f1eb"
 
 [[files]]
 file = "kubejs/startup_scripts/smash_ores.js.off"

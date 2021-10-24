@@ -9,7 +9,6 @@ onEvent("item.registry", event => {
   event.create("raw_aluminum").displayName("Raw Bauxite");
   event.create("raw_uranium").displayName("Raw Uranium");
   event.create("heavy_bullet").displayName("Heavy Bullet");
-  event.create("zinc_plate").displayName("Zinc Plate");
   event.create("steel_blend").displayName("Steel Blend");
   event.create("steel_ingot").displayName("Steel Ingot");
   event.create("steel_plate").displayName("Steel Plate");
