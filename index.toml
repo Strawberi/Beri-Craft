@@ -390,7 +390,7 @@ hash = "b5d9f8558dbb7ba1a89b7b75cc3d28b58cd664956f2b14d2054bbd31f1933453"
 
 [[files]]
 file = "config/lobmetalworks-common.toml"
-hash = "188bfc53dd395a33d00be6c94f566215e525b382c3acd900c1139279f3141274"
+hash = "effbf53bbc9c9745c2e7d6eab7b9d6d0b2d250ea80acfc50c42d8eb14e6c3c35"
 
 [[files]]
 file = "config/lobmetalworks/armor.json"
