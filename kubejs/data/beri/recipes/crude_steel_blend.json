@@ -2,20 +2,14 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         {
-            "tag": "forge:dusts/coal"
-        },
-        {
-            "tag": "forge:dusts/coal"
-        },
-        {
-            "tag": "forge:dusts/coal"
+            "tag": "forge:dusts/coal_coke"
         },
         {
             "tag": "forge:dusts/iron"
         }
     ],
     "result": {
-        "item": "kubejs:crude_steel_blend",
+        "item": "kubejs:steel_blend",
         "count": 1
     }
 }

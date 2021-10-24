@@ -6,7 +6,7 @@
 	},
 	"materials": [
 		{
-			"item": "immersiveengineering:nugget_uranium",
+			"item": "kubejs:uranium_nugget",
 			"count": 4
 		},
 		{

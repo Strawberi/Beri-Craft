@@ -13,7 +13,8 @@ let armors = [
     ["lead",        7,              5,              9,                  0,              0.1],
     ["tin",         10,             4,              9,                  0,              0],
     ["brass",       17,             6.75,           5,                  0,              0],
-    ["zinc",        10,             4,              9,                  0,              0]
+    ["zinc",        10,             4,              9,                  0,              0],
+    ["steel",       21,             7,              11,                 1,              0]
 ]
 
 onEvent('item.registry.armor_tiers', event => {

@@ -9,9 +9,14 @@ onEvent("item.registry", event => {
   event.create("raw_aluminum").displayName("Raw Bauxite");
   event.create("raw_uranium").displayName("Raw Uranium");
   event.create("heavy_bullet").displayName("Heavy Bullet");
-  event.create("zinc_plate").displayName("Zinc Plate")
-  event.create("coal_dust").displayName("Coal Dust").burnTime(1600);
-  event.create("crude_steel_blend").displayName("Crude Steel Blend");
+  event.create("zinc_plate").displayName("Zinc Plate");
+  event.create("steel_blend").displayName("Steel Blend");
+  event.create("steel_ingot").displayName("Steel Ingot");
+  event.create("steel_plate").displayName("Steel Plate");
+  event.create("uranium_ingot").displayName("Uranium Ingot");
+  event.create("uranium_ingot").displayName("Uranium Plate");
+  event.create("primitive_coke_oven").displayName("Primitive Coke Oven");
+  event.create("coke_dust").displayName("Coke Dust");
 
   event.create("crude_iron_pickaxe")
     .displayName("Crude Iron Pickaxe")

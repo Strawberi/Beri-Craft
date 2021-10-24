@@ -1,7 +1,0 @@
-{
-    "type": "minecraft:blasting",
-    "ingredient": {"tag": "forge:ores/aluminum"},
-    "result": {"item": "immersiveengineering:ingot_aluminum"},
-    "experience": 0.1,
-    "cookingtime": 100
-}

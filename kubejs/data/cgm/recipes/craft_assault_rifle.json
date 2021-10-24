@@ -5,7 +5,7 @@
 	},
 	"materials": [
 		{
-			"item": "immersiveengineering:ingot_steel",
+			"item": "kubejs:steel_ingot",
 			"count": 28
 		}
 	]
