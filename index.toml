@@ -389,6 +389,10 @@ file = "config/instantunify-common.toml"
 hash = "b5d9f8558dbb7ba1a89b7b75cc3d28b58cd664956f2b14d2054bbd31f1933453"
 
 [[files]]
+file = "config/lobmetalworks-common.toml"
+hash = "188bfc53dd395a33d00be6c94f566215e525b382c3acd900c1139279f3141274"
+
+[[files]]
 file = "config/lobmetalworks/armor.json"
 hash = "70af52c4fdc9ccd0aa04881480d815debd2e91709c7f1d06554b65274fe7febe"
 
@@ -398,7 +402,7 @@ hash = "4f9b8380e69762f5c3dae020baec43ec4ebd3fe7ebad83a1df920a14973e4240"
 
 [[files]]
 file = "config/lobmetalworks/en_us.json"
-hash = "373a2938c303333e7e86d8c5b8c286751777695e742afd61a76419e6a0261192"
+hash = "044b520e3913487df41d0260d80fd6d940627fa2319793c6b42b67cbb5491236"
 
 [[files]]
 file = "config/lobmetalworks/geode_drops.json"
@@ -410,7 +414,7 @@ hash = "d3fb48fab6a99eef48722b1d90fb7315f5f4c3dfcc6af2abe7a39aecb92aa357"
 
 [[files]]
 file = "config/lobmetalworks/materials.json"
-hash = "f4ced2504ce9d7c5dd34282e9d488d5ddf6cee5599b21bb4b469cc542472b116"
+hash = "45aaeb647e9722ba86deceed2809f10bb9276970d2f1d22ed0d6168a072c2f7c"
 
 [[files]]
 file = "config/lobmetalworks/misc_items.json"

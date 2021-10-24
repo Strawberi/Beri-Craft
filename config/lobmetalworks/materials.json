@@ -115,6 +115,11 @@
     }
   },
   "bronze": {
+    "color": [
+      205,
+      127,
+      50
+    ],
     "tier": 0,
     "ingredient": {
       "type": "tag",
@@ -125,7 +130,7 @@
       "item": "new"
     },
     "ingot": {
-      "type": "same_as_ingredient"
+      "type": "thermal:bronze_ingot"
     }
   }
 }

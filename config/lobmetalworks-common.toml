@@ -1,0 +1,7 @@
+#Fuel items for the coal forge:
+FuelItems = ["minecraft:coal", "minecraft:coal_block", "thermal:coal_coke", "thermal:coal_coke_block"]
+#Firestarters for the coal forge:
+Firestarters = ["minecraft:flint_and_steel", "realistictorches:matchbox"]
+#Should geodes spawn in the world?
+Geodes = true
+
