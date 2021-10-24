@@ -34,5 +34,17 @@
     "enchantability": 10,
     "toughness": 0.0,
     "knockback_resistance": 0.0
+  },
+  "bronze": {
+    "durability_multiplier": 18,
+    "slot_protections": [
+      3,
+      4,
+      6,
+      3
+    ],
+    "enchantability": 12,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
   }
 }

@@ -394,11 +394,11 @@ hash = "effbf53bbc9c9745c2e7d6eab7b9d6d0b2d250ea80acfc50c42d8eb14e6c3c35"
 
 [[files]]
 file = "config/lobmetalworks/armor.json"
-hash = "70af52c4fdc9ccd0aa04881480d815debd2e91709c7f1d06554b65274fe7febe"
+hash = "19947c6f14c7895906269abb4e4190231b48049413ac85b154b8352df442242e"
 
 [[files]]
 file = "config/lobmetalworks/armor_materials.json"
-hash = "4f9b8380e69762f5c3dae020baec43ec4ebd3fe7ebad83a1df920a14973e4240"
+hash = "405c8b69d6959789be97fb5f0e2592df2c3b8d6f72df7253369cd39888932f88"
 
 [[files]]
 file = "config/lobmetalworks/en_us.json"

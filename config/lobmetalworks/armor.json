@@ -112,5 +112,19 @@
       "type": "item",
       "item": "minecraft:netherite_boots"
     }
+  },
+  "bronze": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
   }
 }

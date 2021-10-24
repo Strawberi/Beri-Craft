@@ -5,7 +5,7 @@ version = "1.0.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3610b6bfd09c7309c46b7a4510e9aa7bf17eabe98ad1e21e2343174152b043f3"
+hash = "721e039cc2d6f9fd6d555123bc4f2e5dfe72cff6d562054322fc8fee867ccffc"
 
 [versions]
 forge = "36.2.0"
