@@ -1,0 +1,1 @@
+{"displayType":"major","glyph":{"textureX":112,"textureY":48},"keySuffixes":["_0","_1"],"materialSlotCount":1,"outcomes":[{"material":{"item":"minecraft:ender_eye"},"moduleKey":"holo/scanner","moduleVariant":"scanner/scanner"}],"repair":false,"replace":true,"slots":["holo/attachment_0","holo/attachment_1"]}

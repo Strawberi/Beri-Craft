@@ -1,0 +1,1 @@
+{"displayType":"major","materialSlotCount":1,"outcomes":[{"countFactor":2,"materials":["tetra:wood/","tetra:stone/","tetra:metal/","tetra:gem/","tetra:bone/"],"moduleKey":"sword/basic_blade","moduleVariant":"basic_blade/"}],"replace":true,"slots":["sword/blade"],"translation":{"durability":4,"integrity":-3,"magicCapacity":3,"primaryAttributes":{"generic.attack_damage":3}}}

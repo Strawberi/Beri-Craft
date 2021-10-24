@@ -1,0 +1,1 @@
+{"displayType":"improvement","glyph":{"textureX":80,"textureY":240},"materialSlotCount":1,"outcomes":[{"countFactor":2,"improvements":{"shield/aerodynamic_trim/":0},"materials":["tetra:metal/"]}],"replace":true,"slots":["shield/plate"],"translation":{"durability":1,"primaryEffects":{"throwable":3}}}

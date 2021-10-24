@@ -1,0 +1,1 @@
+{"displayType":"major","glyph":{"textureX":144,"textureY":48},"hone":true,"materialSlotCount":0,"outcomes":[{"improvements":{"extractor_hone/potency":4},"requiredTools":{"hammer":7}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"extractor_hone/potency":3},"modules":[["double/extractor_right"]],"type":"tetra:modular_item"},"slots":["double/head_right"]}

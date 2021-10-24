@@ -1,0 +1,1 @@
+{"displayType":"major","glyph":{"textureX":144,"textureY":48},"keySuffixes":["_right"],"materialRevealSlot":0,"materialSlotCount":1,"outcomes":[{"material":{"item":"tetra:chthonic_extractor"},"moduleKey":"double/extractor","moduleVariant":"extractor/extractor","requiredTools":{"hammer":4}}],"rarity":"temporary","replace":true,"slots":["double/head_right"]}

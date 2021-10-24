@@ -1,0 +1,1 @@
+{"displayType":"minor","glyph":{"textureX":88,"textureY":16},"materialSlotCount":1,"outcomes":[{"materials":["tetra:fibre/","tetra:skin/"],"moduleKey":"double/binding","moduleVariant":"double_binding/"},{"material":{"item":"tetra:forged_bolt"},"moduleKey":"double/binding","moduleVariant":"double_binding/bolt"}],"replace":true,"slots":["double/binding"]}

@@ -1,0 +1,1 @@
+{"displayType":"minor","glyph":{"textureX":120,"textureY":16},"materialSlotCount":1,"outcomes":[{"materials":["tetra:wood/","tetra:metal/","tetra:bone/","tetra:misc/stick"],"moduleKey":"bow/sights","moduleVariant":"sights/"}],"replace":true,"slots":["bow/riser"],"translation":{"durability":1,"primaryEffects":{"zoom":3}}}

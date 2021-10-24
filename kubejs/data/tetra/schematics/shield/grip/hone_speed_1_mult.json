@@ -1,0 +1,1 @@
+{"displayType":"major","glyph":{"textureX":16,"textureY":240},"hone":true,"materialSlotCount":0,"outcomes":[{"improvements":{"grip_hone/speed_mult":1},"requiredTools":{"hammer":2}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"!grip_hone/speed_mult":-1},"modules":[["shield/basic_grip"]],"type":"tetra:modular_item"},"slots":["shield/grip"]}

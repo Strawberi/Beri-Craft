@@ -1,0 +1,1 @@
+{"displayType":"improvement","glyph":{"textureX":80,"textureY":240},"hone":true,"materialSlotCount":0,"outcomes":[{"improvements":{"shield/ricochet":3},"requiredTools":{"hammer":4}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"shield/ricochet":2},"type":"tetra:modular_item"},"slots":["shield/plate"]}

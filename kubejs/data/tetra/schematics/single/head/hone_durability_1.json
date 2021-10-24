@@ -1,0 +1,1 @@
+{"displayType":"major","glyph":{"textureY":240},"hone":true,"localizationKey":"double/shared_head/hone_durability_1","materialSlotCount":0,"outcomes":[{"improvements":{"head_hone/durability":1},"requiredTools":{"hammer":2}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"!head_hone/durability":-1},"type":"tetra:modular_item"},"slots":["single/head"]}

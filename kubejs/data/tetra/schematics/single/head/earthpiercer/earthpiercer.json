@@ -1,0 +1,1 @@
+{"displayType":"major","glyph":{"textureX":224,"textureY":32},"materialRevealSlot":0,"materialSlotCount":1,"outcomes":[{"material":{"item":"tetra:earthpiercer"},"moduleKey":"single/earthpiercer","moduleVariant":"earthpiercer/earthpiercer","requiredTools":{"hammer":1}}],"rarity":"temporary","replace":true,"slots":["single/head"]}

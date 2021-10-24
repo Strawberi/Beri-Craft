@@ -1,0 +1,1 @@
+{"displayType":"improvement","materialSlotCount":0,"outcomes":[{"improvements":{"blade/serrated":1},"requiredTools":{"hammer":3}}],"replace":true,"requirement":{"improvements":{"!blade/serrated":-1},"type":"tetra:modular_item"},"slots":["sword/blade"]}

@@ -1,0 +1,14 @@
+name = "Lob's Metalworks"
+filename = "lobbiens_metalworks-1.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3423/123/lobbiens_metalworks-1.8.jar"
+hash-format = "murmur2"
+hash = "124111095"
+
+[update]
+[update.curseforge]
+file-id = 3423123
+project-id = 498755
+release-channel = "beta"

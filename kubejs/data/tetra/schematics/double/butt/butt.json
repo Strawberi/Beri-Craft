@@ -1,0 +1,1 @@
+{"displayType":"major","glyph":{"textureX":160},"keySuffixes":["_right"],"materialSlotCount":1,"outcomes":[{"materials":["tetra:wood/","tetra:stone/","tetra:metal/","tetra:gem/"],"moduleKey":"double/butt","moduleVariant":"butt/"}],"replace":true,"slots":["double/head_right"]}
