@@ -1,1 +1,0 @@
-{"displayType":"improvement","glyph":{"textureX":208,"textureY":32},"materialSlotCount":0,"outcomes":[{"improvements":{"spearhead/tempered":1},"requiredTools":{"hammer":3}}],"replace":true,"requirement":{"improvements":{"!spearhead/tempered":-1},"modules":[["single/spearhead"],["single/trident"]],"type":"tetra:modular_item"},"slots":["single/head"]}

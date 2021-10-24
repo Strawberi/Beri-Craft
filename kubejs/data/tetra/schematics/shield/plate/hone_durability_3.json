@@ -1,1 +1,0 @@
-{"displayType":"major","glyph":{"textureY":240},"hone":true,"materialSlotCount":0,"outcomes":[{"improvements":{"plate_hone/durability":3},"requiredTools":{"hammer":3}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"plate_hone/durability":2},"type":"tetra:modular_item"},"slots":["shield/plate"]}

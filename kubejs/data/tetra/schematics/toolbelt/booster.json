@@ -1,1 +1,0 @@
-{"displayType":"major","glyph":{"textureX":240},"keySuffixes":["_slot1","_slot2","_slot3"],"materialSlotCount":1,"outcomes":[{"material":{"count":8,"item":"minecraft:iron_ingot"},"moduleKey":"toolbelt/booster","moduleVariant":"booster/iron","requiredTools":{"hammer":3}}],"replace":true,"slots":["toolbelt/slot1","toolbelt/slot2","toolbelt/slot3"]}

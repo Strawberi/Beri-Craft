@@ -1,1 +1,0 @@
-{"displayType":"minor","glyph":{"textureX":138,"textureY":16},"materialSlotCount":1,"outcomes":[{"materials":["tetra:metal/"],"moduleKey":"crossbow/stirrup","moduleVariant":"stirrup/"}],"replace":true,"slots":["crossbow/attachment_0"],"translation":{"durability":1,"primaryAttributes":{"tetra:draw_speed":1},"secondaryAttributes":{"tetra:draw_speed":-1}}}

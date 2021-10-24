@@ -1,1 +1,0 @@
-{"displayType":"minor","glyph":{"textureX":32,"textureY":16},"materialSlotCount":1,"outcomes":[{"materials":["tetra:wood/","tetra:stone/","tetra:metal/","tetra:bone/"],"moduleKey":"sword/counterweight","moduleVariant":"counterweight/"}],"replace":true,"slots":["sword/pommel"],"translation":{"durability":1,"secondaryEffects":{"counterweight":2}}}

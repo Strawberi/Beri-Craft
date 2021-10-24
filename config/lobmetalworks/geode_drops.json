@@ -1,0 +1,30 @@
+{
+  "minecraft:flint": {
+    "max_amount": 4,
+    "chance": 50
+  },
+  "minecraft:quartz": {
+    "max_amount": 2,
+    "chance": 50
+  },
+  "lobmetalworks:fire_ember": {
+    "max_amount": 1,
+    "chance": 1
+  },
+  "lobmetalworks:frost_ember": {
+    "max_amount": 1,
+    "chance": 1
+  },
+  "lobmetalworks:venom_ember": {
+    "max_amount": 1,
+    "chance": 1
+  },
+  "lobmetalworks:blood_ember": {
+    "max_amount": 1,
+    "chance": 1
+  },
+  "lobmetalworks:storm_ember": {
+    "max_amount": 1,
+    "chance": 1
+  }
+}

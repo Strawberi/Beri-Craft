@@ -1,0 +1,117 @@
+{
+  "obsidian": {
+    "color": [
+      125,
+      0,
+      125
+    ],
+    "tier": 2,
+    "ingredient": {
+      "type": "item",
+      "item": "minecraft:obsidian"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "new"
+    }
+  },
+  "red": {
+    "color": [
+      255,
+      0,
+      0
+    ],
+    "tier": 1,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:dusts/redstone"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "new"
+    }
+  },
+  "copper": {
+    "color": [
+      255,
+      170,
+      80
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/copper"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "new"
+    }
+  },
+  "diamond": {
+    "color": [
+      0,
+      255,
+      255
+    ],
+    "tier": 1,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:gems/diamond"
+    },
+    "heated_ingot": {
+      "type": "item",
+      "item": "lobmetalworks:diamond_heated_ingot"
+    },
+    "ingot": {
+      "type": "new"
+    }
+  },
+  "gold": {
+    "tier": 1,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/gold"
+    },
+    "heated_ingot": {
+      "type": "item",
+      "item": "lobmetalworks:gold_heated_ingot"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "iron": {
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/iron"
+    },
+    "heated_ingot": {
+      "type": "item",
+      "item": "lobmetalworks:iron_heated_ingot"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "netherite": {
+    "tier": 2,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/netherite"
+    },
+    "heated_ingot": {
+      "type": "item",
+      "item": "lobmetalworks:netherite_heated_ingot"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  }
+}

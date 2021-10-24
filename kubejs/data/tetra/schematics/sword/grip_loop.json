@@ -1,1 +1,0 @@
-{"displayType":"minor","glyph":{"textureX":56,"textureY":16},"materialSlotCount":1,"outcomes":[{"materials":["tetra:wood/","tetra:metal/","tetra:fibre/","tetra:skin/","tetra:bone/"],"moduleKey":"sword/grip_loop","moduleVariant":"grip_loop/"}],"replace":true,"slots":["sword/pommel"],"translation":{"durability":1}}

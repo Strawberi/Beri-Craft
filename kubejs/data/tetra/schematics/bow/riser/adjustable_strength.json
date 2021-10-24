@@ -1,1 +1,0 @@
-{"displayType":"minor","glyph":{"textureX":80,"textureY":16,"tint":"bolt_glyph"},"materialSlotCount":1,"outcomes":[{"material":{"count":2,"item":"tetra:forged_bolt"},"moduleKey":"bow/adjustable_strength","moduleVariant":"adjustable_strength/bolt"}],"replace":true,"slots":["bow/riser"]}

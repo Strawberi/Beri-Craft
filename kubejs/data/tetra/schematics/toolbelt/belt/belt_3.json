@@ -1,1 +1,0 @@
-{"displayType":"minor","glyph":{"textureY":16},"materialSlotCount":1,"outcomes":[{"material":{"count":3,"item":"minecraft:shulker_shell"},"moduleKey":"toolbelt/belt","moduleVariant":"belt/inlaid"}],"replace":true,"requirement":{"type":"tetra:modular_item","variants":{"belt/buckled":"toolbelt/belt"}},"slots":["toolbelt/belt"]}

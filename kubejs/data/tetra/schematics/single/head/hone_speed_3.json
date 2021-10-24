@@ -1,1 +1,0 @@
-{"displayType":"major","glyph":{"textureX":16,"textureY":240},"hone":true,"localizationKey":"double/shared_head/hone_speed_3","materialSlotCount":0,"outcomes":[{"improvements":{"head_hone/speed":3},"requiredTools":{"hammer":3}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"head_hone/speed":2},"type":"tetra:modular_item"},"slots":["single/head"]}

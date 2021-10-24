@@ -1,1 +1,0 @@
-{"displayType":"major","glyph":{"textureX":32,"textureY":240},"hone":true,"localizationKey":"sword/shared_blade/hone_damage_2","materialSlotCount":0,"outcomes":[{"improvements":{"spearhead_hone/damage":2},"requiredTools":{"hammer":2}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"spearhead_hone/damage":1},"type":"tetra:modular_item"},"slots":["single/head"]}

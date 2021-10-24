@@ -1,1 +1,0 @@
-{"displayType":"improvement","glyph":{"textureX":208,"textureY":32},"hone":true,"materialSlotCount":0,"outcomes":[{"improvements":{"spearhead/serrated":2},"requiredTools":{"hammer":4}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"spearhead/serrated":1},"type":"tetra:modular_item"},"slots":["single/head"]}

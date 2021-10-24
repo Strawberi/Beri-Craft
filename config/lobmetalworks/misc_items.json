@@ -1,0 +1,35 @@
+{
+  "obsidian": {
+    "gear": {
+      "type": "new"
+    },
+    "plate": {
+      "type": "new"
+    },
+    "rod": {
+      "type": "new"
+    }
+  },
+  "red": {
+    "gear": {
+      "type": "new"
+    },
+    "plate": {
+      "type": "new"
+    },
+    "rod": {
+      "type": "new"
+    }
+  },
+  "copper": {
+    "gear": {
+      "type": "new"
+    },
+    "plate": {
+      "type": "new"
+    },
+    "rod": {
+      "type": "new"
+    }
+  }
+}

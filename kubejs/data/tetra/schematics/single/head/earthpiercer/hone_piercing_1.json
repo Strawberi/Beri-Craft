@@ -1,1 +1,0 @@
-{"displayType":"major","glyph":{"textureX":224,"textureY":32},"hone":true,"materialSlotCount":0,"outcomes":[{"improvements":{"head_hone/piercing":1},"requiredTools":{"hammer":4}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"!head_hone/piercing":-1},"modules":[["single/earthpiercer"]],"type":"tetra:modular_item"},"slots":["single/head"]}

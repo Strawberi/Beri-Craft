@@ -1,1 +1,0 @@
-{"displayType":"major","glyph":{"textureX":64,"textureY":48},"materialSlotCount":1,"outcomes":[{"countFactor":2.5,"materials":["tetra:fibre/"],"moduleKey":"shield/straps","moduleVariant":"straps/"},{"countFactor":1.5,"materials":["tetra:skin/"],"moduleKey":"shield/straps","moduleVariant":"straps/","toolOffset":1}],"replace":true,"slots":["shield/grip"]}

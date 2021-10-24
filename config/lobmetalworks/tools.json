@@ -1,0 +1,141 @@
+{
+  "obsidian": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "red": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "copper": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "iron": {
+    "axe": {
+      "type": "item",
+      "item": "minecraft:iron_axe"
+    },
+    "shovel": {
+      "type": "item",
+      "item": "minecraft:iron_shovel"
+    },
+    "pickaxe": {
+      "type": "item",
+      "item": "minecraft:iron_pickaxe"
+    },
+    "hoe": {
+      "type": "item",
+      "item": "minecraft:iron_hoe"
+    },
+    "sword": {
+      "type": "item",
+      "item": "minecraft:iron_sword"
+    }
+  },
+  "gold": {
+    "axe": {
+      "type": "item",
+      "item": "minecraft:golden_axe"
+    },
+    "shovel": {
+      "type": "item",
+      "item": "minecraft:golden_shovel"
+    },
+    "pickaxe": {
+      "type": "item",
+      "item": "minecraft:golden_pickaxe"
+    },
+    "hoe": {
+      "type": "item",
+      "item": "minecraft:golden_hoe"
+    },
+    "sword": {
+      "type": "item",
+      "item": "minecraft:golden_sword"
+    }
+  },
+  "diamond": {
+    "axe": {
+      "type": "item",
+      "item": "minecraft:diamond_axe"
+    },
+    "shovel": {
+      "type": "item",
+      "item": "minecraft:diamond_shovel"
+    },
+    "pickaxe": {
+      "type": "item",
+      "item": "minecraft:diamond_pickaxe"
+    },
+    "hoe": {
+      "type": "item",
+      "item": "minecraft:diamond_hoe"
+    },
+    "sword": {
+      "type": "item",
+      "item": "minecraft:diamond_sword"
+    }
+  },
+  "netherite": {
+    "axe": {
+      "type": "item",
+      "item": "minecraft:netherite_axe"
+    },
+    "shovel": {
+      "type": "item",
+      "item": "minecraft:netherite_shovel"
+    },
+    "pickaxe": {
+      "type": "item",
+      "item": "minecraft:netherite_pickaxe"
+    },
+    "hoe": {
+      "type": "item",
+      "item": "minecraft:netherite_hoe"
+    },
+    "sword": {
+      "type": "item",
+      "item": "minecraft:netherite_sword"
+    }
+  }
+}

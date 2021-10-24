@@ -1,1 +1,0 @@
-{"displayType":"major","glyph":{"textureX":16,"textureY":240},"hone":true,"materialSlotCount":0,"outcomes":[{"improvements":{"handle_hone/speed":3},"requiredTools":{"hammer":3}}],"rarity":"hone","replace":true,"requirement":{"improvements":{"handle_hone/speed":2},"type":"tetra:modular_item"},"slots":["single/handle"]}

@@ -1,0 +1,116 @@
+{
+  "obsidian": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "red": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "copper": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "iron": {
+    "helmet": {
+      "type": "item",
+      "item": "minecraft:iron_helmet"
+    },
+    "chestplate": {
+      "type": "item",
+      "item": "minecraft:iron_chestplate"
+    },
+    "leggings": {
+      "type": "item",
+      "item": "minecraft:iron_leggings"
+    },
+    "boots": {
+      "type": "item",
+      "item": "minecraft:iron_boots"
+    }
+  },
+  "gold": {
+    "helmet": {
+      "type": "item",
+      "item": "minecraft:golden_helmet"
+    },
+    "chestplate": {
+      "type": "item",
+      "item": "minecraft:golden_chestplate"
+    },
+    "leggings": {
+      "type": "item",
+      "item": "minecraft:golden_leggings"
+    },
+    "boots": {
+      "type": "item",
+      "item": "minecraft:golden_boots"
+    }
+  },
+  "diamond": {
+    "helmet": {
+      "type": "item",
+      "item": "minecraft:diamond_helmet"
+    },
+    "chestplate": {
+      "type": "item",
+      "item": "minecraft:diamond_chestplate"
+    },
+    "leggings": {
+      "type": "item",
+      "item": "minecraft:diamond_leggings"
+    },
+    "boots": {
+      "type": "item",
+      "item": "minecraft:diamond_boots"
+    }
+  },
+  "netherite": {
+    "helmet": {
+      "type": "item",
+      "item": "minecraft:netherite_helmet"
+    },
+    "chestplate": {
+      "type": "item",
+      "item": "minecraft:netherite_chestplate"
+    },
+    "leggings": {
+      "type": "item",
+      "item": "minecraft:netherite_leggings"
+    },
+    "boots": {
+      "type": "item",
+      "item": "minecraft:netherite_boots"
+    }
+  }
+}
