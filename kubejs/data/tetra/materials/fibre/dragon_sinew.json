@@ -1,1 +1,26 @@
-{"category":"fibre","durability":"1150","integrityCost":"2","integrityGain":"8","key":"dragon_sinew","magicCapacity":"84","material":{"item":"tetra:dragon_sinew"},"primary":"1","requiredTools":{"cut":3},"secondary":"1.5","tertiary":"4","textures":["default"],"tints":{"glyph":"dragon_glyph","texture":"dragon"},"toolEfficiency":"0","toolLevel":"0"}
+{
+    "category": "fibre",
+    "durability": "1150",
+    "integrityCost": "2",
+    "integrityGain": "8",
+    "key": "dragon_sinew",
+    "magicCapacity": "84",
+    "material": {
+        "item": "tetra:dragon_sinew"
+    },
+    "primary": "1",
+    "requiredTools": {
+        "cut": 3
+    },
+    "secondary": "1.5",
+    "tertiary": "4",
+    "textures": [
+        "default"
+    ],
+    "tints": {
+        "glyph": "dragon_glyph",
+        "texture": "dragon"
+    },
+    "toolEfficiency": "0",
+    "toolLevel": "0"
+}

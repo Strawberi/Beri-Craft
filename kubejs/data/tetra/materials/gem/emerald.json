@@ -1,1 +1,30 @@
-{"category":"gem","durability":"850","improvements":{"arrested":0},"integrityCost":"2","integrityGain":"2","key":"emerald","magicCapacity":72,"material":{"item":"minecraft:emerald"},"primary":"5.5","requiredTools":{"hammer":3},"secondary":"2.5","tertiary":"0","textures":["shiny","crude"],"tints":{"glyph":"emerald_glyph","texture":"emerald"},"toolEfficiency":"7","toolLevel":"3"}
+{
+    "category": "gem",
+    "durability": "850",
+    "improvements": {
+        "arrested": 0
+    },
+    "integrityCost": "2",
+    "integrityGain": "2",
+    "key": "emerald",
+    "magicCapacity": 72,
+    "material": {
+        "item": "minecraft:emerald"
+    },
+    "primary": "5.5",
+    "requiredTools": {
+        "hammer": 3
+    },
+    "secondary": "2.5",
+    "tertiary": "0",
+    "textures": [
+        "shiny",
+        "crude"
+    ],
+    "tints": {
+        "glyph": "emerald_glyph",
+        "texture": "emerald"
+    },
+    "toolEfficiency": "7",
+    "toolLevel": "3"
+}

@@ -1,1 +1,27 @@
-{"category":"wood","durability":"59","integrityCost":"1","integrityGain":"4","key":"oak","magicCapacity":"90","material":{"tag":"minecraft:planks"},"primary":"3","requiredTools":{"axe":1},"secondary":"1.7","tertiary":"6","textures":["crude","wooden"],"tints":{"glyph":"oak_glyph","texture":"oak"},"toolEfficiency":"2","toolLevel":"1"}
+{
+    "category": "wood",
+    "durability": "59",
+    "integrityCost": "1",
+    "integrityGain": "4",
+    "key": "oak",
+    "magicCapacity": "90",
+    "material": {
+        "tag": "minecraft:planks"
+    },
+    "primary": "3",
+    "requiredTools": {
+        "axe": 1
+    },
+    "secondary": "1.7",
+    "tertiary": "6",
+    "textures": [
+        "crude",
+        "wooden"
+    ],
+    "tints": {
+        "glyph": "oak_glyph",
+        "texture": "oak"
+    },
+    "toolEfficiency": "2",
+    "toolLevel": "1"
+}

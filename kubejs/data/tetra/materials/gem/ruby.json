@@ -1,1 +1,27 @@
-{"category":"gem","durability":"1561","integrityCost":"2","integrityGain":"2","key":"ruby","magicCapacity":60,"material":{"tag":"forge:gems/ruby"},"primary":"6","requiredTools":{"hammer":3},"secondary":"2.9","tertiary":"0","textures":["shiny","crude"],"tints":{"glyph":"fc263f","texture":"fc263f"},"toolEfficiency":"9","toolLevel":"3"}
+{
+    "category": "gem",
+    "durability": "1561",
+    "integrityCost": "2",
+    "integrityGain": "2",
+    "key": "ruby",
+    "magicCapacity": 60,
+    "material": {
+        "tag": "forge:gems/ruby"
+    },
+    "primary": "6",
+    "requiredTools": {
+        "hammer": 3
+    },
+    "secondary": "2.9",
+    "tertiary": "0",
+    "textures": [
+        "shiny",
+        "crude"
+    ],
+    "tints": {
+        "glyph": "fc263f",
+        "texture": "fc263f"
+    },
+    "toolEfficiency": "9",
+    "toolLevel": "3"
+}

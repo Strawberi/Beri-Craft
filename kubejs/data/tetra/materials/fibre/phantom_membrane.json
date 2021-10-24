@@ -1,1 +1,27 @@
-{"category":"fibre","durability":"1150","integrityCost":"2","integrityGain":"6","key":"phantom_membrane","magicCapacity":"84","material":{"item":"minecraft:phantom_membrane"},"primary":"5","requiredTools":{"cut":1},"secondary":"1.4","tertiary":"3","textures":["metal","default"],"tints":{"glyph":"phantom_glyph","texture":"phantom"},"toolEfficiency":"0","toolLevel":"0"}
+{
+    "category": "fibre",
+    "durability": "1150",
+    "integrityCost": "2",
+    "integrityGain": "6",
+    "key": "phantom_membrane",
+    "magicCapacity": "84",
+    "material": {
+        "item": "minecraft:phantom_membrane"
+    },
+    "primary": "5",
+    "requiredTools": {
+        "cut": 1
+    },
+    "secondary": "1.4",
+    "tertiary": "3",
+    "textures": [
+        "metal",
+        "default"
+    ],
+    "tints": {
+        "glyph": "phantom_glyph",
+        "texture": "phantom"
+    },
+    "toolEfficiency": "0",
+    "toolLevel": "0"
+}

@@ -1,1 +1,28 @@
-{"category":"fibre","durability":"380","integrityCost":"1","integrityGain":"4","key":"hemp","magicCapacity":"98","material":{"count":2,"tag":"forge:fiber_hemp"},"primary":"5","requiredTools":{"cut":2},"secondary":"1","tertiary":"3","textures":["crude","default"],"tints":{"glyph":"947d6c","texture":"947d6c"},"toolEfficiency":"0","toolLevel":"0"}
+{
+    "category": "fibre",
+    "durability": "380",
+    "integrityCost": "1",
+    "integrityGain": "4",
+    "key": "hemp",
+    "magicCapacity": "98",
+    "material": {
+        "count": 2,
+        "tag": "forge:fiber_hemp"
+    },
+    "primary": "5",
+    "requiredTools": {
+        "cut": 2
+    },
+    "secondary": "1",
+    "tertiary": "3",
+    "textures": [
+        "crude",
+        "default"
+    ],
+    "tints": {
+        "glyph": "947d6c",
+        "texture": "947d6c"
+    },
+    "toolEfficiency": "0",
+    "toolLevel": "0"
+}
