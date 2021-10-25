@@ -1,38 +1,4 @@
 {
-  "obsidian": {
-    "axe_head": {
-      "type": "new"
-    },
-    "shovel_head": {
-      "type": "new"
-    },
-    "pickaxe_head": {
-      "type": "new"
-    },
-    "hoe_blade": {
-      "type": "new"
-    },
-    "sword_blade": {
-      "type": "new"
-    }
-  },
-  "red": {
-    "axe_head": {
-      "type": "new"
-    },
-    "shovel_head": {
-      "type": "new"
-    },
-    "pickaxe_head": {
-      "type": "new"
-    },
-    "hoe_blade": {
-      "type": "new"
-    },
-    "sword_blade": {
-      "type": "new"
-    }
-  },
   "copper": {
     "axe_head": {
       "type": "new"
@@ -114,28 +80,6 @@
     "sword_blade": {
       "type": "item",
       "item": "lobmetalworks:diamond_sword_blade"
-    }
-  },
-  "netherite": {
-    "axe_head": {
-      "type": "item",
-      "item": "lobmetalworks:netherite_axe_head"
-    },
-    "shovel_head": {
-      "type": "item",
-      "item": "lobmetalworks:netherite_shovel_head"
-    },
-    "pickaxe_head": {
-      "type": "item",
-      "item": "lobmetalworks:netherite_pickaxe_head"
-    },
-    "hoe_blade": {
-      "type": "item",
-      "item": "lobmetalworks:netherite_hoe_blade"
-    },
-    "sword_blade": {
-      "type": "item",
-      "item": "lobmetalworks:netherite_sword_blade"
     }
   },
   "bronze": {

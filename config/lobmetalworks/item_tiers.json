@@ -1,18 +1,4 @@
 {
-  "red": {
-    "durability": 250,
-    "damage_bonus": 2.0,
-    "mining_level": 2,
-    "mining_speed": 5.5,
-    "enchantability": 12
-  },
-  "obsidian": {
-    "durability": 1250,
-    "damage_bonus": 2.0,
-    "mining_level": 3,
-    "mining_speed": 7.0,
-    "enchantability": 8
-  },
   "copper": {
     "durability": 200,
     "damage_bonus": 1.5,

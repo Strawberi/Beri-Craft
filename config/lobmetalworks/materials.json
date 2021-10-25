@@ -1,40 +1,4 @@
 {
-  "obsidian": {
-    "color": [
-      125,
-      0,
-      125
-    ],
-    "tier": 2,
-    "ingredient": {
-      "type": "item",
-      "item": "minecraft:obsidian"
-    },
-    "heated_ingot": {
-      "type": "new"
-    },
-    "ingot": {
-      "type": "new"
-    }
-  },
-  "red": {
-    "color": [
-      255,
-      0,
-      0
-    ],
-    "tier": 1,
-    "ingredient": {
-      "type": "tag",
-      "tag": "forge:dusts/redstone"
-    },
-    "heated_ingot": {
-      "type": "new"
-    },
-    "ingot": {
-      "type": "new"
-    }
-  },
   "copper": {
     "color": [
       255,
@@ -100,25 +64,11 @@
       "type": "same_as_ingredient"
     }
   },
-  "netherite": {
-    "tier": 2,
-    "ingredient": {
-      "type": "tag",
-      "tag": "forge:ingots/netherite"
-    },
-    "heated_ingot": {
-      "type": "item",
-      "item": "lobmetalworks:netherite_heated_ingot"
-    },
-    "ingot": {
-      "type": "same_as_ingredient"
-    }
-  },
   "bronze": {
     "color": [
-      205,
-      127,
-      50
+      210,
+      141,
+      53
     ],
     "tier": 0,
     "ingredient": {

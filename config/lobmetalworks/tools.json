@@ -1,38 +1,4 @@
 {
-  "obsidian": {
-    "axe": {
-      "type": "new"
-    },
-    "shovel": {
-      "type": "new"
-    },
-    "pickaxe": {
-      "type": "new"
-    },
-    "hoe": {
-      "type": "new"
-    },
-    "sword": {
-      "type": "new"
-    }
-  },
-  "red": {
-    "axe": {
-      "type": "new"
-    },
-    "shovel": {
-      "type": "new"
-    },
-    "pickaxe": {
-      "type": "new"
-    },
-    "hoe": {
-      "type": "new"
-    },
-    "sword": {
-      "type": "new"
-    }
-  },
   "copper": {
     "axe": {
       "type": "new"
@@ -114,28 +80,6 @@
     "sword": {
       "type": "item",
       "item": "minecraft:diamond_sword"
-    }
-  },
-  "netherite": {
-    "axe": {
-      "type": "item",
-      "item": "minecraft:netherite_axe"
-    },
-    "shovel": {
-      "type": "item",
-      "item": "minecraft:netherite_shovel"
-    },
-    "pickaxe": {
-      "type": "item",
-      "item": "minecraft:netherite_pickaxe"
-    },
-    "hoe": {
-      "type": "item",
-      "item": "minecraft:netherite_hoe"
-    },
-    "sword": {
-      "type": "item",
-      "item": "minecraft:netherite_sword"
     }
   },
   "bronze": {

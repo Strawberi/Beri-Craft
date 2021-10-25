@@ -1,28 +1,4 @@
 {
-  "obsidian": {
-    "durability_multiplier": 24,
-    "slot_protections": [
-      2,
-      5,
-      7,
-      3
-    ],
-    "enchantability": 8,
-    "toughness": 2.0,
-    "knockback_resistance": 0.25
-  },
-  "red": {
-    "durability_multiplier": 12,
-    "slot_protections": [
-      2,
-      5,
-      6,
-      2
-    ],
-    "enchantability": 12,
-    "toughness": 0.0,
-    "knockback_resistance": 0.0
-  },
   "copper": {
     "durability_multiplier": 12,
     "slot_protections": [

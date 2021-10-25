@@ -1,26 +1,4 @@
 {
-  "obsidian": {
-    "gear": {
-      "type": "new"
-    },
-    "plate": {
-      "type": "new"
-    },
-    "rod": {
-      "type": "new"
-    }
-  },
-  "red": {
-    "gear": {
-      "type": "new"
-    },
-    "plate": {
-      "type": "new"
-    },
-    "rod": {
-      "type": "new"
-    }
-  },
   "copper": {
     "gear": {
       "type": "item",
@@ -43,9 +21,6 @@
     "plate": {
       "type": "item",
       "item": "thermal:bronze_plate"
-    },
-    "rod": {
-      "type": "new"
     }
   },
   "iron": {
@@ -77,9 +52,6 @@
     }
   },
   "brass": {
-    "gear": {
-      "type": "new"
-    },
     "plate": {
       "type": "item",
       "item": "create:brass_sheet"

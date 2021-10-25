@@ -1,32 +1,4 @@
 {
-  "obsidian": {
-    "helmet": {
-      "type": "new"
-    },
-    "chestplate": {
-      "type": "new"
-    },
-    "leggings": {
-      "type": "new"
-    },
-    "boots": {
-      "type": "new"
-    }
-  },
-  "red": {
-    "helmet": {
-      "type": "new"
-    },
-    "chestplate": {
-      "type": "new"
-    },
-    "leggings": {
-      "type": "new"
-    },
-    "boots": {
-      "type": "new"
-    }
-  },
   "copper": {
     "helmet": {
       "type": "item",
@@ -97,24 +69,6 @@
     "boots": {
       "type": "item",
       "item": "minecraft:diamond_boots"
-    }
-  },
-  "netherite": {
-    "helmet": {
-      "type": "item",
-      "item": "minecraft:netherite_helmet"
-    },
-    "chestplate": {
-      "type": "item",
-      "item": "minecraft:netherite_chestplate"
-    },
-    "leggings": {
-      "type": "item",
-      "item": "minecraft:netherite_leggings"
-    },
-    "boots": {
-      "type": "item",
-      "item": "minecraft:netherite_boots"
     }
   },
   "bronze": {
