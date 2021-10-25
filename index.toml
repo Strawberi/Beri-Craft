@@ -402,7 +402,7 @@ hash = "5ceb0301c91bd06e6d190d0c12e10272bebc76fa85f59df17807fe1ffcf6e25a"
 
 [[files]]
 file = "config/lobmetalworks/en_us.json"
-hash = "0dd025aa8d68a173b6597aa99dea24668b5f5bdc061e5d2a4705a1f206b4fe11"
+hash = "e1e28b752652203faea33c96172dc9b759786f8752b00c7065fd55eea54e49ca"
 
 [[files]]
 file = "config/lobmetalworks/geode_drops.json"
@@ -1813,7 +1813,7 @@ file = "kubejs/server_scripts/script.js"
 hash = "c43e28c915842420e00d66da75f9dcee770d16e70dccd9e2d0284254e9b6df00"
 
 [[files]]
-file = "kubejs/startup_scripts/armor.js"
+file = "kubejs/startup_scripts/armor.js.off"
 hash = "dbc3634098bea8ed39962bd7238d5fb83adb47c68135f4eaacf329876fb0f20c"
 
 [[files]]
