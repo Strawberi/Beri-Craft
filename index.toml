@@ -1642,23 +1642,75 @@ hash = "7516662c2266d44e31d112fcab79be13fff4b6553f51dde47f4b805607f420c0"
 
 [[files]]
 file = "kubejs/data/iceandfire/recipes/copper_axe.json"
-hash = "4c2f6171b36a7f631dff2cb72e0aa21a537b92824b56c3a8f4e777de392ac186"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/copper_boots.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/copper_chestplate.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/copper_helmet.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/iceandfire/recipes/copper_hoe.json"
-hash = "0d17020336728367768d7b24e39fc6531d9b888d1e77265d03e0e851c7a1796c"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/copper_leggings.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/iceandfire/recipes/copper_pickaxe.json"
-hash = "02fc6a653c4dcdee4e4e6b33eb3e07185b873106b9775bb68016ee7b0665640c"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/iceandfire/recipes/copper_shovel.json"
-hash = "a1e8f73f6bafd2ce36fa5ca3c347086f4d1fd0ba611f7f178b1c4ba34557455b"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/iceandfire/recipes/copper_sword.json"
-hash = "2283f28e445bc5dca665739385bd1609968d6e6ffed1a01823d76923948ef8be"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_axe.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_boots.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_chestplate.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_helmet.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_hoe.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_leggings.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_pickaxe.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_spade.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/iceandfire/recipes/silver_sword.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/immersivecooking/recipes/fried_potato_cubes.json"
@@ -1713,12 +1765,76 @@ file = "kubejs/data/minecraft/recipes/crafting_table.json"
 hash = "bef6ab5e0a06f6a54f6ad9590e4c82cb96f7c74941882efb7e30b168004c3a86"
 
 [[files]]
+file = "kubejs/data/minecraft/recipes/golden_axe.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/golden_boots.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/golden_chestplate.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/golden_helmet.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/golden_hoe.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/golden_leggings.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "kubejs/data/minecraft/recipes/golden_pickaxe.json"
-hash = "37449f2d6aa81d03f5104e3a2a9dafd13f0efa9069c66cfb61d954666a7eb833"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/golden_shovel.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/golden_sword.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/iron_axe.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/iron_boots.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/iron_chestplate.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/iron_helmet.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/iron_hoe.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/iron_leggings.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/iron_pickaxe.json"
-hash = "ab76d53eace17312e1e44a1a2f6d30ec7c1ed9b67890daac90fa6704ed896723"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/iron_shovel.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "kubejs/data/minecraft/recipes/iron_sword.json"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "kubejs/data/minecraft/recipes/shears.json"
@@ -1822,7 +1938,7 @@ hash = "5346169f0719a275ac796e80d538eb1376316a3254ee26b0fb80b75435e38ac5"
 
 [[files]]
 file = "kubejs/startup_scripts/items.js"
-hash = "58ffadd32de4f318e11e075d7912a325d5627b797c84b9bb0366c73e3c0d835a"
+hash = "79ec0e50dd5677a9b5402e7b50a06b8aec1be66df8a3de2cda037e92261e490a"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"

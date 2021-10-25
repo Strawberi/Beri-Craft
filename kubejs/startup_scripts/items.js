@@ -17,48 +17,6 @@ onEvent("item.registry", event => {
   event.create("primitive_coke_oven").displayName("Primitive Coke Oven");
   event.create("coke_dust").displayName("Coke Dust");
 
-  event.create("crude_iron_pickaxe")
-    .displayName("Crude Iron Pickaxe")
-    .type("pickaxe")
-    .tier("stone")
-    .maxDamage(150);
-
-  event.create("crude_stone_pickaxe")
-    .displayName("Crude Stone Pickaxe")
-    .type("pickaxe")
-    .tier("wood")
-    .maxDamage(50);
-
-  event.create("copper_axe")
-    .displayName("Copper Axe")
-    .type("axe")
-    .tier("stone")
-    .maxDamage(131);
-
-  event.create("copper_pickaxe")
-    .displayName("Copper Pickaxe")
-    .type("pickaxe")
-    .tier("stone")
-    .maxDamage(131);
-
-  event.create("copper_shovel")
-    .displayName("Copper Shovel")
-    .type("shovel")
-    .tier("stone")
-    .maxDamage(131);
-
-  event.create("copper_hoe")
-    .displayName("Copper Hoe")
-    .type("hoe")
-    .tier("stone")
-    .maxDamage(131);
-
-  event.create("copper_sword")
-    .displayName("Copper Sword")
-    .type("sword")
-    .tier("stone")
-    .maxDamage(131);
-
   event.create("ceramic_shovel")
     .displayName("Ceramic Shovel")
     .type("shovel")
