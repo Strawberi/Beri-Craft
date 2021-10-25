@@ -23,24 +23,182 @@
   },
   "copper": {
     "gear": {
-      "type": "new"
+      "type": "item",
+      "item": "thermal:copper_gear"
     },
     "plate": {
-      "type": "new"
+      "type": "item",
+      "item": "thermal:copper_plate"
+    },
+    "rod": {
+      "type": "item",
+      "item": "createaddition:copper_rod"
+    }
+  },
+  "bronze": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:bronze_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:bronze_plate"
     },
     "rod": {
       "type": "new"
     }
   },
-  "bronze": {
+  "iron": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:iron_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "create:iron_sheet"
+    },
+    "rod": {
+      "type": "item",
+      "item": "createaddition:iron_rod"
+    }
+  },
+  "gold": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:gold_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "create:gold_sheet"
+    },
+    "rod": {
+      "type": "item",
+      "item": "createaddition:gold_rod"
+    }
+  },
+  "brass": {
     "gear": {
       "type": "new"
     },
     "plate": {
-      "type": "new"
+      "type": "item",
+      "item": "create:brass_sheet"
     },
     "rod": {
-      "type": "new"
+      "type": "item",
+      "item": "createaddition:brass_rod"
+    }
+  },
+  "enderium": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:enderium_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:enderium_plate"
+    }
+  },
+  "lumium": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:lumium_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:lumium_plate"
+    }
+  },
+  "signalum": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:signalum_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:signalum_plate"
+    }
+  },
+  "constantan": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:constantan_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:constantan_plate"
+    }
+  },
+  "invar": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:invar_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:invar_plate"
+    }
+  },
+  "electrum": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:electrum_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:electrum_plate"
+    }
+  },
+  "endnickel": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:nickel_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:nickel_plate"
+    }
+  },
+  "lead": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:lead_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:lead_plate"
+    }
+  },
+  "tin": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:tin_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:tin_plate"
+    }
+  },
+  "steel": {
+    "plate": {
+      "type": "item",
+      "item": "kubejs:steel_plate"
+    }
+  },
+  "silver": {
+    "gear": {
+      "type": "item",
+      "item": "thermal:silver_gear"
+    },
+    "plate": {
+      "type": "item",
+      "item": "thermal:silver_plate"
+    }
+  },
+  "zinc": {
+    "plate": {
+      "type": "item",
+      "item": "create:zinc_sheet"
     }
   }
 }

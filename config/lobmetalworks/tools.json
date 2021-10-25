@@ -140,24 +140,240 @@
   },
   "bronze": {
     "axe": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "shovel": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "pickaxe": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "hoe": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "sword": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
+    }
+  },
+  "silver": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "enderium": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "lumium": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "signalum": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "constantan": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "invar": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "electrum": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "nickel": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "lead": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "tin": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "steel": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "brass": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
+    }
+  },
+  "zinc": {
+    "axe": {
+      "type": "new"
+    },
+    "shovel": {
+      "type": "new"
+    },
+    "pickaxe": {
+      "type": "new"
+    },
+    "hoe": {
+      "type": "new"
+    },
+    "sword": {
+      "type": "new"
     }
   }
 }

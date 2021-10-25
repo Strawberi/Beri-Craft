@@ -36,7 +36,7 @@
     "knockback_resistance": 0.0
   },
   "bronze": {
-    "durability_multiplier": 18,
+    "durability_multiplier": 12,
     "slot_protections": [
       3,
       4,
@@ -44,6 +44,150 @@
       3
     ],
     "enchantability": 12,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
+  },
+  "enderium": {
+    "durability_multiplier": 35,
+    "slot_protections": [
+      4,
+      6,
+      8,
+      4
+    ],
+    "enchantability": 9,
+    "toughness": 2.5,
+    "knockback_resistance": 0.1
+  },
+  "lumium": {
+    "durability_multiplier": 12,
+    "slot_protections": [
+      2,
+      4,
+      5,
+      2
+    ],
+    "enchantability": 25,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
+  },
+  "signalum": {
+    "durability_multiplier": 7,
+    "slot_protections": [
+      2,
+      3,
+      4,
+      2
+    ],
+    "enchantability": 20,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
+  },
+  "constantan": {
+    "durability_multiplier": 12,
+    "slot_protections": [
+      2,
+      4,
+      5,
+      2
+    ],
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
+  },
+  "invar": {
+    "durability_multiplier": 20,
+    "slot_protections": [
+      3,
+      4,
+      6,
+      3
+    ],
+    "enchantability": 9,
+    "toughness": 1.0,
+    "knockback_resistance": 0.0
+  },
+  "electrum": {
+    "durability_multiplier": 8,
+    "slot_protections": [
+      2,
+      4,
+      5,
+      2
+    ],
+    "enchantability": 30,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
+  },
+  "nickel": {
+    "durability_multiplier": 12,
+    "slot_protections": [
+      3,
+      4,
+      6,
+      3
+    ],
+    "enchantability": 8,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
+  },
+  "lead": {
+    "durability_multiplier": 7,
+    "slot_protections": [
+      2,
+      4,
+      5,
+      2
+    ],
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockback_resistance": 0.1
+  },
+  "tin": {
+    "durability_multiplier": 10,
+    "slot_protections": [
+      2,
+      3,
+      4,
+      2
+    ],
+    "enchantability": 9,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
+  },
+  "steel": {
+    "durability_multiplier": 21,
+    "slot_protections": [
+      3,
+      5,
+      7,
+      3
+    ],
+    "enchantability": 11,
+    "toughness": 1.0,
+    "knockback_resistance": 0.0
+  },
+  "brass": {
+    "durability_multiplier": 17,
+    "slot_protections": [
+      3,
+      5,
+      7,
+      3
+    ],
+    "enchantability": 5,
+    "toughness": 0.0,
+    "knockback_resistance": 0.0
+  },
+  "zinc": {
+    "durability_multiplier": 10,
+    "slot_protections": [
+      2,
+      3,
+      4,
+      2
+    ],
+    "enchantability": 9,
     "toughness": 0.0,
     "knockback_resistance": 0.0
   }

@@ -8,5 +8,18 @@
   "material.lobmetalworks.mob": "Mob",
   "material.lobmetalworks.emerald": "Emerald",
   "material.lobmetalworks.copper": "Copper",
-  "material.lobmetalworks.bronze": "Bronze"
+  "material.lobmetalworks.bronze": "Bronze",
+  "material.lobmetalworks.silver": "Silver",
+  "material.lobmetalworks.enderium": "Enderium",
+  "material.lobmetalworks.lumium": "Lumium",
+  "material.lobmetalworks.signalum": "Signalum",
+  "material.lobmetalworks.constantan": "Constantan",
+  "material.lobmetalworks.invar": "Invar",
+  "material.lobmetalworks.electrum": "Electrum",
+  "material.lobmetalworks.nickel": "Nickel",
+  "material.lobmetalworks.lead": "Lead",
+  "material.lobmetalworks.tin": "Tin",
+  "material.lobmetalworks.steel": "sSteel",
+  "material.lobmetalworks.brass": "Brass",
+  "material.lobmetalworks.zinc": "Zinc"
 }

@@ -140,24 +140,240 @@
   },
   "bronze": {
     "axe_head": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "shovel_head": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "pickaxe_head": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "hoe_blade": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "sword_blade": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
+    }
+  },
+  "enderium": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "lumium": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "signalum": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "constantan": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "invar": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "electrum": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "nickel": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "lead": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "tin": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "steel": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "silver": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "brass": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
+    }
+  },
+  "zinc": {
+    "axe_head": {
+      "type": "new"
+    },
+    "shovel_head": {
+      "type": "new"
+    },
+    "pickaxe_head": {
+      "type": "new"
+    },
+    "hoe_blade": {
+      "type": "new"
+    },
+    "sword_blade": {
+      "type": "new"
     }
   }
 }

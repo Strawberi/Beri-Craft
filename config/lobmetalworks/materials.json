@@ -126,11 +126,262 @@
       "tag": "forge:ingots/bronze"
     },
     "heated_ingot": {
-      "type": "item",
-      "item": "new"
+      "type": "new"
     },
     "ingot": {
-      "type": "thermal:bronze_ingot"
+      "type": "same_as_ingredient"
+    }
+  },
+  "enderium": {
+    "color": [
+      43,
+      166,
+      173
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/enderium"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "lumium": {
+    "color": [
+      252,
+      249,
+      224
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/lumium"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "signalum": {
+    "color": [
+      248,
+      96,
+      20
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/signalum"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "constantan": {
+    "color": [
+      236,
+      191,
+      98
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/constantan"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "invar": {
+    "color": [
+      195,
+      202,
+      193
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/invar"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "electrum": {
+    "color": [
+      248,
+      248,
+      186
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/electrum"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "nickel": {
+    "color": [
+      197,
+      181,
+      130
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/nickel"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "lead": {
+    "color": [
+      68,
+      72,
+      102
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/lead"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "tin": {
+    "color": [
+      159,
+      196,
+      192
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/tin"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "steel": {
+    "color": [
+      120,
+      122,
+      123
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/steel"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "silver": {
+    "color": [
+      232,
+      239,
+      249
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/silver"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "yellorium": {
+    "color": [
+      227,
+      213,
+      112
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/yellorium"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "brass": {
+    "color": [
+      252,
+      240,
+      133
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/brass"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
+    }
+  },
+  "zinc": {
+    "color": [
+      237,
+      238,
+      231
+    ],
+    "tier": 0,
+    "ingredient": {
+      "type": "tag",
+      "tag": "forge:ingots/zinc"
+    },
+    "heated_ingot": {
+      "type": "new"
+    },
+    "ingot": {
+      "type": "same_as_ingredient"
     }
   }
 }

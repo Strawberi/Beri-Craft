@@ -394,15 +394,15 @@ hash = "effbf53bbc9c9745c2e7d6eab7b9d6d0b2d250ea80acfc50c42d8eb14e6c3c35"
 
 [[files]]
 file = "config/lobmetalworks/armor.json"
-hash = "19947c6f14c7895906269abb4e4190231b48049413ac85b154b8352df442242e"
+hash = "c8d09379483f02efb1b866c3c694ef2cd87cc47c69e4831367efaf042d039d31"
 
 [[files]]
 file = "config/lobmetalworks/armor_materials.json"
-hash = "405c8b69d6959789be97fb5f0e2592df2c3b8d6f72df7253369cd39888932f88"
+hash = "5ceb0301c91bd06e6d190d0c12e10272bebc76fa85f59df17807fe1ffcf6e25a"
 
 [[files]]
 file = "config/lobmetalworks/en_us.json"
-hash = "044b520e3913487df41d0260d80fd6d940627fa2319793c6b42b67cbb5491236"
+hash = "0dd025aa8d68a173b6597aa99dea24668b5f5bdc061e5d2a4705a1f206b4fe11"
 
 [[files]]
 file = "config/lobmetalworks/geode_drops.json"
@@ -410,23 +410,23 @@ hash = "ce06d62a347dd863d4cd8592ea4786b7fd891f7c0ac0eb436764474eb6c7b3d7"
 
 [[files]]
 file = "config/lobmetalworks/item_tiers.json"
-hash = "d3fb48fab6a99eef48722b1d90fb7315f5f4c3dfcc6af2abe7a39aecb92aa357"
+hash = "b2e33ebeab3673557165594065f3609558de24c9839e668a5aed81202d6e3973"
 
 [[files]]
 file = "config/lobmetalworks/materials.json"
-hash = "45aaeb647e9722ba86deceed2809f10bb9276970d2f1d22ed0d6168a072c2f7c"
+hash = "1008051852ca17228eeb208ce936a3918e34c070c903ddab10d3b3ccbb2bee32"
 
 [[files]]
 file = "config/lobmetalworks/misc_items.json"
-hash = "dd3ee666ab717a96775435b222ea859a2e1f683b965a687e6ca4cbab4282af8b"
+hash = "04d27b07e69427d6270ddd036eac5df9c84daab1a599adf727b72c039fd5331d"
 
 [[files]]
 file = "config/lobmetalworks/tool_parts.json"
-hash = "8f57da93443b760b4903b4908ad3565f502c9dc75e372a7c54d597bd393ee75f"
+hash = "c16369700544149d7f7e06196fe12fae5b7085627e56a03bb81c300c5d770da2"
 
 [[files]]
 file = "config/lobmetalworks/tools.json"
-hash = "6b2f845e9f7efb70d92cce2148f62ad59804b93477e2cdb486d8ceee755677ca"
+hash = "e48928f45482d60c0fa3722800f597b40a53a787d49230e67f101dce2481bca7"
 
 [[files]]
 file = "config/offhandcombat-common.toml"

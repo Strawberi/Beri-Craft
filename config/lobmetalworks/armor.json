@@ -29,16 +29,20 @@
   },
   "copper": {
     "helmet": {
-      "type": "new"
+      "type": "item",
+      "item": "iceandfire:armor_copper_metal_helmet"
     },
     "chestplate": {
-      "type": "new"
+      "type": "item",
+      "item": "iceandfire:armor_copper_metal_chestplate"
     },
     "leggings": {
-      "type": "new"
+      "type": "item",
+      "item": "iceandfire:armor_copper_metal_leggings"
     },
     "boots": {
-      "type": "new"
+      "type": "item",
+      "item": "iceandfire:armor_copper_metal_boots"
     }
   },
   "iron": {
@@ -114,6 +118,192 @@
     }
   },
   "bronze": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "silver": {
+    "helmet": {
+      "type": "item",
+      "item": "iceandfire:armor_silver_metal_helmet"
+    },
+    "chestplate": {
+      "type": "item",
+      "item": "iceandfire:armor_silver_metal_chestplate"
+    },
+    "leggings": {
+      "type": "item",
+      "item": "iceandfire:armor_silver_metal_leggings"
+    },
+    "boots": {
+      "type": "item",
+      "item": "iceandfire:armor_silver_metal_boots"
+    }
+  },
+  "enderium": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "lumium": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "signalum": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "constantan": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "invar": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "electrum": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "nickel": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "lead": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "tin": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "steel": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "brass": {
+    "helmet": {
+      "type": "new"
+    },
+    "chestplate": {
+      "type": "new"
+    },
+    "leggings": {
+      "type": "new"
+    },
+    "boots": {
+      "type": "new"
+    }
+  },
+  "zinc": {
     "helmet": {
       "type": "new"
     },
