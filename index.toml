@@ -2186,11 +2186,6 @@ hash = "cf84fd4aed3d5cba7e54faef42a330f117ca0fab5ebfd6698a5d53cb6207845b"
 metafile = true
 
 [[files]]
-file = "mods/lootr.toml"
-hash = "640fbe803e1d2721e204523a414cb7ee06a2a132de87e8ea8c7a6e358f29986a"
-metafile = true
-
-[[files]]
 file = "mods/mantle.toml"
 hash = "27c6f8450c1535037091cd988a4b9adb09f75ee2c770b64c11ed2b22ec7b9413"
 metafile = true
@@ -2198,11 +2193,6 @@ metafile = true
 [[files]]
 file = "mods/mgui.toml"
 hash = "b637161384d71e37357f89edfb161940f456e06cd7501aa9d6e0c4692c0bc485"
-metafile = true
-
-[[files]]
-file = "mods/mimic-mod.toml"
-hash = "89c50174018650d3d3bc3ec80a9944ed9fce25780a15788f00688e860b5e69e4"
 metafile = true
 
 [[files]]
