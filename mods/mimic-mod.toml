@@ -1,0 +1,14 @@
+name = "Mimic Mod"
+filename = "mimic-1.16.5-v1.12.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3293/968/mimic-1.16.5-v1.12.jar"
+hash-format = "murmur2"
+hash = "1930841611"
+
+[update]
+[update.curseforge]
+file-id = 3293968
+project-id = 475842
+release-channel = "beta"
