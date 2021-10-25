@@ -68,11 +68,11 @@ onEvent("block.loot_tables", event => {
             predicate: { enchantments: [{ enchantment: "minecraft:silk_touch", levels: { min: 1 } }] }
           }]
         });
-        // Otherwise, drop 4x rocks.
+        // Otherwise, cobble.
         pool.addEntry({
           type: "minecraft:item",
-          name: item,
-          functions: [{ function: "set_count", count: 4 }]
+          name: cobble,
+          functions: [{ function: "set_count", count: 1 }]
         });
       });
     });

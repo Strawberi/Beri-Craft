@@ -1826,7 +1826,7 @@ hash = "58ffadd32de4f318e11e075d7912a325d5627b797c84b9bb0366c73e3c0d835a"
 
 [[files]]
 file = "kubejs/startup_scripts/rocks.js"
-hash = "3257dd5bf4d1251eb64be294964283e4d5df44b6d4ba6765893e6959d923b5f7"
+hash = "c22f5bfd8d873982069c8da35b8b2f7e84f3cc582bc3941b60b19fb5198c2cff"
 
 [[files]]
 file = "kubejs/startup_scripts/script.js"
