@@ -1,7 +1,7 @@
 {
   "oreConfig": [
     {
-      "ore": "kubejs:tin_ore",
+      "ore": "create:copper_ore",
       "filler": "minecraft:stone",
       "minY": 1,
       "maxY": 256,

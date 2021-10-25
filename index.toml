@@ -130,7 +130,7 @@ hash = "4a3bccdef6b2d414178fb96395afacb53adced149e2b8b3ecb243b2af9cbb68a"
 
 [[files]]
 file = "config/create-common.toml"
-hash = "9d323a6dbd94ae66b0f5609fdfb08701972e9b5b127237a5506c9e16e9a7a23f"
+hash = "854fc5f81b2b0b79071ac22c6d85783d15ee3464ed660fcc67f9f23856907094"
 
 [[files]]
 file = "config/dsurround/dsurround-client.toml"
@@ -461,6 +461,10 @@ file = "config/oretweaker/data/copper_gravel.json"
 hash = "d24d26c3bafededf942f7209ad891506af11a59ddedda7f43261f7e57d51585d"
 
 [[files]]
+file = "config/oretweaker/data/copper_ore.json"
+hash = "dbbd2d3dc91c7b4fc452222a196e06776cf7967a66bdd9c6532ea7e53041d1e5"
+
+[[files]]
 file = "config/oretweaker/data/copper_sand.json"
 hash = "cf336162e732a14457864285fedd13f60b04d30b269380349692e477704ec2d9"
 
@@ -526,7 +530,7 @@ hash = "874459d8d3c5295df179b42f89892daf309a935fe72c8094e266635410c852b2"
 
 [[files]]
 file = "config/oretweaker/data/tin_ore.json"
-hash = "349dde22080c851d79ec19e2d2ab85f5ef1fcf35ef6d7c2c8c94a6e7ec44d4e0"
+hash = "3f2ffd726053a4787f674195b432fc2db984472187f644f37e139b34f2ed1920"
 
 [[files]]
 file = "config/oretweaker/templates/collectives/default.json"
