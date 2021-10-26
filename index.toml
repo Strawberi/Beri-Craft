@@ -2036,11 +2036,6 @@ hash = "c9ef0996f957dfa99ecb152fc88207a94e6988fa80118bd5bc3849730d82b021"
 metafile = true
 
 [[files]]
-file = "mods/charcoal-pit.toml"
-hash = "d1114f238d9f27be359d8a4595eba1872bef9a318493829201fb4b83721f2b76"
-metafile = true
-
-[[files]]
 file = "mods/citadel.toml"
 hash = "4d6bdb8ba11e4533ed710587fc66679ba3b740296746593d218846b8b7f95a2c"
 metafile = true
