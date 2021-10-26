@@ -1,0 +1,14 @@
+name = "Actually Useful Stonecutter"
+filename = "Actually Useful Stonecutter-Alternate-1.0.5 mc 1.16.X.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3474/394/Actually Useful Stonecutter-Alternate-1.0.5 mc 1.16.X.jar"
+hash-format = "murmur2"
+hash = "1710937040"
+
+[update]
+[update.curseforge]
+file-id = 3474394
+project-id = 394424
+release-channel = "beta"

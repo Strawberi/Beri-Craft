@@ -1961,6 +1961,11 @@ file = "kubejs/startup_scripts/stair_slab.js"
 hash = "1e5553ca765d989662011f0e49764c5fb2d9c3a8f3f2b4ee7be4c0a1b0d9f814"
 
 [[files]]
+file = "mods/actually-useful-stonecutter.toml"
+hash = "d3097e86184bbe3df1d5f1cf3bb1df0857eb4603d8bd035d5c52d022a690d2cf"
+metafile = true
+
+[[files]]
 file = "mods/additional-guns.toml"
 hash = "1a04c235e511611350ecf4e33910a8f8b265bfed54a1e5ad738856b8f6477540"
 metafile = true
