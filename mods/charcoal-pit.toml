@@ -1,0 +1,14 @@
+name = "Charcoal Pit"
+filename = "CharcoalPit[1.16.5]-2.13.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/3304/824/CharcoalPit[1.16.5]-2.13.jar"
+hash-format = "murmur2"
+hash = "2981490668"
+
+[update]
+[update.curseforge]
+file-id = 3304824
+project-id = 264111
+release-channel = "beta"
